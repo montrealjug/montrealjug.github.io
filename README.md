@@ -1,4 +1,4 @@
-montrealjug.github.io
-=====================
+Montreal Java User Group
+========================
 
-Montreal JUG Website
+Meetup: http://www.meetup.com/Montreal-JUG/
