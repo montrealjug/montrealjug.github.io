@@ -1,4 +1,6 @@
 Montreal Java User Group
 ========================
 
-Meetup: http://www.meetup.com/Montreal-JUG/
+Site en construction!
+
+__Meetup__: http://www.meetup.com/Montreal-JUG/
