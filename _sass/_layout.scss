@@ -221,6 +221,7 @@ span + .entry-title {
 	margin-top: 0;
 }
 .entry-title {
+    text-align: center;
 	font-family: $alt-font;
 	font-style: italic;
 	@include font-size(36,yes,36);
@@ -314,7 +315,6 @@ span + .entry-title {
 		max-width: em(760);
 	}
 	.entry-title {
-		text-align: center;
 		max-width: 100%;
 	}
 	.entry-content {
