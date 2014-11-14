@@ -1,10 +1,10 @@
 ---
-layout: meetup
+layout: {{ layout }}
 title: {{ title }}
 excerpt:
 meetup:
 modified:
-categories: meetup
+categories: {{ dir }}
 author:
 tags: []
 comments: true

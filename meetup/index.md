@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meetups
-excerpt: "An archive of meetups sorted by date."
+excerpt: "Tous les Meetups du Montreal JUG"
 ---
 
 <ul class="post-list">

@@ -6,8 +6,11 @@
 #- title: Articles
 #  url: /articles/
 
-- title: Toutes les rencontres
+- title: Meetups
   url: /meetup/
+
+- title: Annonces
+  url: /blog/
 
 #- title: Theme Setup
 #  url: /theme-setup/

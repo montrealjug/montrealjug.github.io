@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: post
 title: "JSR-107 (javax.cache) Dans La Pratique"
 excerpt: "Il aura fallu 10 ans pour sa réalisation mais voici la JSR-107 enfin finalisée."
 meetup: 218604404

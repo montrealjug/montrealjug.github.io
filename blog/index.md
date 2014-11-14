@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Annonces
+excerpt: "Toutes les annonces du Montreal JUG"
 ---
 
 <ul class="post-list">

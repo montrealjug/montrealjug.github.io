@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: post
 title: "JHipster, LE Générateur Yeoman à La Mode."
 excerpt: "JHipster est l’outil parfait pour générer et maintenir une application complète, du back-end au front-end en utilisant Spring Boot, REST, AngularJS, Bower, Grunt, et même Docker !"
 meetup: 208556582
