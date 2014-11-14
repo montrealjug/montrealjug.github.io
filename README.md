@@ -1,3 +1,16 @@
+# FOR JUG Maintainers
+
+If you are using cygwin:
+
+`export COMSPEC=/cygdrive/c/Windows/System32/cmd.exe`
+
+- Install Jekyll Stack + Octopress
+- Run: `> octopress new post "My title"`
+- move generated file from _posts into blog or meetup folder
+- edit file header accordingly (see existing samples)
+- increase version in _config.yml
+- commit & push
+
 # So Simple Theme
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
@@ -27,5 +40,3 @@ So Simple takes advantage of Sass and data files to make customizing easier. The
 To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-export COMSPEC=/cygdrive/c/Windows/System32/cmd.exe
