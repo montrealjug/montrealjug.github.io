@@ -41,6 +41,7 @@
       </footer>
       <div class="entry-content">
         {{ content }}
+        {% if site.owner.meetup and page.meetup %}<div id="meetup-rsvp"><a href="http://www.meetup.com/{{ site.owner.meetup }}/events/{{page.meetup}}/" data-event="208556582" class="mu-rsvp-btn">RSVP</a></div><!-- /#meetup -->{% endif %}
         {% if site.owner.disqus-shortname and page.comments == true %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -62,6 +63,19 @@
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}	        
+
+{% if site.owner.meetup %}
+<script>!function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (!d.getElementById(id)) {
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = "https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=2qpj1bus145t44qqadheoup6b7";
+        fjs.parentNode.insertBefore(js, fjs);
+    }
+}(document, "script", "mu-bootjs");</script>
+{% endif %}
 
 </body>
 </html>

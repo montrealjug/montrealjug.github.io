@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: 
-
+title: Montreal Java User Group
+locale: fr_CA
+description: Le Montréal Java User Group (JUG) est un groupe d'utilisateurs Java se réunissant régulièrement afin d'échanger des idées et de discuter des avancées technologiques de la plateforme Java.
+logo: logo.jpg
+search: false
+#url: http://montreal-jug.org
+navbar: true
 
 # Jekyll configuration
 
@@ -32,22 +32,23 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
+  name: Montreal JUG
+  avatar: photo.jpg
+  email: info@montreal-jug.org
+  disqus-shortname: montrealjug
+  twitter: montrealjug
+  github: montrealjug
+  linkedin: Montreal JUG
+  meetup: montreal-jug
+  facebook:
+  stackexchange:
+  instagram:
+  flickr:
+  tumblr:
   google:
-    plus: #username
-    analytics:
+    plus:
+    analytics: UA-25715796-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:

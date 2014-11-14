@@ -13,9 +13,10 @@ GEM
     colorator (0.1)
     execjs (2.2.2)
     fast-stemmer (1.0.2)
+    ffi (1.9.6)
     ffi (1.9.6-x64-mingw32)
     hitimes (1.2.2)
-    jekyll (2.5.1)
+    jekyll (2.4.0)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
       jekyll-coffeescript (~> 1.0)
@@ -36,16 +37,16 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.2.1)
       sass (~> 3.2)
-    jekyll-sitemap (0.6.2)
+    jekyll-sitemap (0.6.3)
     jekyll-watch (1.1.2)
       listen (~> 2.7)
     kramdown (1.5.0)
     liquid (2.6.1)
-    listen (2.7.11)
+    listen (2.7.12)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    mercenary (0.3.4)
+    mercenary (0.3.5)
     octopress (3.0.0.rc.15)
       jekyll (~> 2.0)
       mercenary (~> 0.3.2)
@@ -83,9 +84,11 @@ GEM
     yajl-ruby (1.1.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
-  jekyll
+  jekyll (= 2.4.0)
+  jekyll-coffeescript
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
