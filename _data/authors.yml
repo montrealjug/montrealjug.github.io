@@ -4,14 +4,16 @@ jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
   email: jerome.mirc@gmail.com
-  gravatar: jerome.mirc@gmail.com
+#  gravatar: jerome.mirc@gmail.com
+  avatar: http://www.gravatar.com/avatar/fb08f7ad59d657604aa6b8024da025e2
   twitter: JeromeMirc
 
 alex_snaps:
   name: Alex Snaps
   web: http://www.codespot.net
   email: alex.snaps@gmail.com
-  gravatar: alex.snaps@gmail.com
+#  gravatar: alex.snaps@gmail.com
+  avatar: http://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
   twitter: alexsnaps
 
 
