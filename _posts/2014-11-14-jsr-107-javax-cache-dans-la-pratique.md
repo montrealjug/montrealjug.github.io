@@ -11,7 +11,7 @@ comments: true
 share: true
 image:
   feature:
-date: 2014-11-14T00:38:13-05:00
+date: 2014-12-04T17:30:00-05:00
 ---
 
 Il aura fallu 10 ans pour sa réalisation mais voici la JSR-107 enfin finalisée. Nous avons à présent une API de cache standard pour la plate-forme Java. Mais qu'est-ce que cela signifie pour vous? Qu'en est-il de ses fonctionnalités dans la pratique ? Supporte-t'elle les transactions ? Comment utiliser efficacement cette nouvelle API pour résoudre les vrais problèmes de votre application?

@@ -11,7 +11,7 @@ comments: true
 share: true
 image:
   feature:
-date: 2014-10-01T00:07:21-05:00
+date: 2014-10-16T17:30:00-04:00
 ---
 
 JHipster est l’outil parfait pour générer et maintenir une application complète, du back-end au front-end en utilisant Spring Boot, REST, AngularJS, Bower, Grunt, et même Docker !
