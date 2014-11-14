@@ -5,8 +5,8 @@ locale: fr_CA
 description: Le Montréal Java User Group (JUG) est un groupe d'utilisateurs Java se réunissant régulièrement afin d'échanger des idées et de discuter des avancées technologiques de la plateforme Java.
 logo: logo.jpg
 search: false
-#url: http://montreal-jug.org
-url: http://localhost:4000
+url: http://montreal-jug.org
+#url: http://localhost:4000
 navbar: true
 
 # Jekyll configuration
