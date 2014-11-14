@@ -5,7 +5,7 @@ excerpt: "Il aura fallu 10 ans pour sa réalisation mais voici la JSR-107 enfin 
 meetup: 218604404
 modified:
 categories: meetup
-author: jerome_mirc
+author: alex_snaps
 tags: []
 comments: true
 share: true
