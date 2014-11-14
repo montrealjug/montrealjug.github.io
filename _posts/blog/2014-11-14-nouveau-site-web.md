@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nouveau Site Web \!"
+title: "Nouveau Site Web !"
 excerpt:
 meetup:
 modified:
