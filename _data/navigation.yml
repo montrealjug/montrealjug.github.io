@@ -9,6 +9,12 @@
 - title: Annonces
   url: /blog/
 
+- title: Contact
+  url: /contact/
+
+- title: Devenir membre
+  url: http://www.meetup.com/montreal-jug/
+
 #- title: Theme Setup
 #  url: /theme-setup/
 
