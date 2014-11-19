@@ -15,9 +15,11 @@ image:
 date: 2014-11-24T17:30:00-05:00
 ---
 
-__Anis Kadri...__
+__Anis Kadri__
 
-...is a software developer working full time on PhoneGap at Adobe in San Francisco.
+Software developer working full time on PhoneGap at Adobe in San Francisco.
+
+Anis arrive bientôt pour quelques jours sur Montréal et va pouvoir faire une présentation de PhoneGap au Montreal JUG!
 
 __Talk description:__
 
