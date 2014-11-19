@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 218777463
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: anis_kadri
 tags: []
 comments: true
@@ -21,7 +21,7 @@ __Anis Kadri...__
 
 __Talk description:__
 
-Comming soon!
+La présentation portera sur [PhoneGap](http://phonegap.com/). Détails à venir!
 
 __Language:__ 
 
