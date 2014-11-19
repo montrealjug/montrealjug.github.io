@@ -5,6 +5,7 @@ excerpt:
 meetup:
 modified:
 categories: blog
+hidden: false
 author:
 tags: []
 comments: true

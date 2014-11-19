@@ -5,6 +5,7 @@ excerpt:
 meetup:
 modified:
 categories: {{ dir }}
+hidden: false
 author:
 tags: []
 comments: true

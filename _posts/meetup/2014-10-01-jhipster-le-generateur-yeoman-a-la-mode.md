@@ -5,6 +5,7 @@ excerpt: "JHipster est l’outil parfait pour générer et maintenir une applica
 meetup: 208556582
 modified:
 categories: meetup
+hidden: false
 author: jerome_mirc
 tags: []
 comments: true
