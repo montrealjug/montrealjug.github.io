@@ -17,7 +17,10 @@ date: 2014-11-24T17:30:00-05:00
 
 __Anis Kadri__
 
-Software developer working full time on PhoneGap at Adobe in San Francisco.
+
+Software Engineer, Adobe | @aniskadri
+
+Anis is a Software Engineer at Adobe. He works on PhoneGap and Cordova full-time and has been contributing to the project since its early inception. Lately, he’s been interested in trying to introduce PhoneGap solutions to the enterprise world.
 
 Anis arrive bientôt pour quelques jours sur Montréal et va pouvoir faire une présentation de PhoneGap au Montreal JUG!
 
