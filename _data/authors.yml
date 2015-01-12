@@ -24,7 +24,13 @@ anis_kadri:
   avatar: http://pgday.phonegap.com/images/bio/anis.png
   twitter: aniskadri
 
-
+henri_tremblay:
+  name: Henri Tremblay
+  web: http://blog.tremblay.pro/
+  email: henri.tremblay@gmail.com
+#  gravatar: alex.snaps@gmail.com
+  avatar: https://media.licdn.com/mpr/mpr/p/2/000/084/0c9/2e9c8af.jpg
+  twitter: henri_tremblay
 
 #billy_rick:
 #  name: Billy Rick
