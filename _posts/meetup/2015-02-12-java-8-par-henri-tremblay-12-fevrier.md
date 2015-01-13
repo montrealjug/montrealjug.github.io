@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 8, Generics et Lambda par Henri Tremblay"
+title: "Java 8, Generics et Lambda par Henri Tremblay (12 février)"
 excerpt: ""
 meetup: 219779530
 modified:
