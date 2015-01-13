@@ -15,6 +15,8 @@ image:
 date: 2015-02-12T17:30:00-05:00
 ---
 
+__Cette présentation sera donnée une seconde fois le jeudi 26 février!__
+
 __Henri Tremblay__
 
 Senior Enterprise Architect, Yellow Pages | [@henri_tremblay](https://twitter.com/henri_tremblay)

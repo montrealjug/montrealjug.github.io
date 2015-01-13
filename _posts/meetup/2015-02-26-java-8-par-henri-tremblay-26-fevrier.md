@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 219805771
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: henri_tremblay
 tags: []
 comments: true
