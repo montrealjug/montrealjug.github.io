@@ -15,7 +15,7 @@ image:
 date: 2015-02-26T17:30:00-05:00
 ---
 
-__Étant donnée la popularité de la présentation précédente, Henri Tremblay a accepté de la donner pour une seconde fois au JUG pour les personnes n'ayant pas pu assister à la première.__
+__Étant donné la popularité de la présentation précédente, Henri Tremblay a accepté de la donner pour une seconde fois au JUG pour les personnes n'ayant pas pu assister à la première.__
 
 __Henri Tremblay__
 
