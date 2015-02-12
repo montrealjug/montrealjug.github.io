@@ -32,3 +32,9 @@ __Talk__
 Nous sommes en 2015 et Java 8 va tranquillement et sûrement devenir la norme. Notre monde sera peuplé de lambda expressions. Les génériques sont eux apparus en 2004. Joshua Bloch en a conclut: "Chaque langage a un quota de complexité. Les génériques ont fait exploser celui de Java."
 Et pourtant, les lambda, aussi sexy soient-ils, vont venir ajouter à la complexité. Mélanger aux génériques, il s'agit d'un cocktail explosif.
 Nous allons parcourir ensemble les tréfonds des génériques, de l'inférence et des lambdas. Expliquer la raison des comportements. Fournir des solutions. Tout pour aborder Java 8 sereinement.
+
+__Sponsor__
+
+![Guestful](http://photos1.meetupstatic.com/photos/event/7/d/f/7/600_434252247.jpeg)
+
+[Guestful](https://www.guestful.com/fr?utm_source=jug) offre 30 rabais de 10$ pour votre prochaine réservation à un restaurant [Dine & GO!](https://www.guestful.com/fr/events/dine-go?utm_source=jug) ou [Saint-Valentin](https://www.guestful.com/fr/events/valentine?utm_source=jug). Le code rabais sera donné durant la conférence.
