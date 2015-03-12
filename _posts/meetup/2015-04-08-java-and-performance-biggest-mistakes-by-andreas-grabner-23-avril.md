@@ -15,6 +15,10 @@ image:
 date: 2015-04-08T17:30:00-05:00
 ---
 
+_La présentation sera en anglais. Talk will be in English._
+
+_Drinks and Pizzas will be served._
+
 __Andreas Grabner__
 
 Andreas is an application performance enthusiast  who has been working in the Java Performance area for the last 15 years at companies like Segue Software (Silk Product Line), Borland, dynaTrace, Compuware. He is a  technology evangelist, developer advocate and is the guy who gets to help customers to fix their performance problems. He gives  back to the performance community through the blogs, conference talks and now with his new initiative which he calls "Performance Clinics. When not busy with performance problems he follows his second passion: salsa dancing.
