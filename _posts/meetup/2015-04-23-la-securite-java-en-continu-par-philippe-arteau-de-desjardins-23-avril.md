@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 220500618
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: philippe_arteau
 tags: []
 comments: true

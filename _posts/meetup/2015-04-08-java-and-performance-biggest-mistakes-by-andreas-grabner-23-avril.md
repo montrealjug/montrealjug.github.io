@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 220969407
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: andreas_grabner
 tags: []
 comments: true
