@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 224741897
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: Stefan_Oehme
 tags: []
 comments: true
