@@ -25,3 +25,7 @@ This is an introductory session to [Xtext](https://eclipse.org/Xtext/) - the wor
 
 This is where Xtext comes into play. The framework provides APIs for the entire language stack and an architectural blueprint to develop DSLs easily. Xtext languages integrate with Eclipse, IntelliJ or browser based solutions and support command line tools like Maven and Gradle.In this session you will learn what problems Xtext can solve for you. I will be live-coding a language from scratch, showing you everything you need to get started.
 
+__Extras__
+
+- drinks are available thanks to Oracle.
+- Donuts will also be there! Sponsored by [itemis AG](https://itemis.com/)!
