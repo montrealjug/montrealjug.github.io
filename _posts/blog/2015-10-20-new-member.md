@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Henri Tremblay se joint a nous"
+title: "Henri Tremblay se joint à nous"
 excerpt:
 meetup:
 modified:
