@@ -23,5 +23,5 @@ de la célèbre libraire EasyMock est également un amateur de mélanges a base 
 
 Il sera en charge de la recherche de speaker, sponsoring et bien entendu du choix de la place à bière ;)
 
-Nous tenons tous à lui souhaiter la bienvenue
+Nous tenons tous à lui souhaiter la bienvenue.
 
