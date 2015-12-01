@@ -27,7 +27,7 @@ anis_kadri:
 henri_tremblay:
   name: Henri Tremblay
   web: http://blog.tremblay.pro/
-  email: henri.tremblay@gmail.com
+  email: henri@tremblay.pro
 #  gravatar: alex.snaps@gmail.com
   avatar: https://media.licdn.com/mpr/mpr/p/2/000/084/0c9/2e9c8af.jpg
   twitter: henri_tremblay
@@ -87,3 +87,8 @@ Mike_Keith:
 #  gravatar: alex.snaps@gmail.com
   avatar: https://www.oracle.com/us/assets/cw16-michael-keith-2548203.jpg
 #  twitter: StefanOehme
+
+remi_forax:
+  name: Rémi Forax
+  web: https://forax.github.io/
+  avatar: https://avatars2.githubusercontent.com/u/828220?v=3&s=400
