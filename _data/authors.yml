@@ -3,92 +3,81 @@
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
-  email: jerome.mirc@gmail.com
-#  gravatar: jerome.mirc@gmail.com
   avatar: http://www.gravatar.com/avatar/fb08f7ad59d657604aa6b8024da025e2
   twitter: JeromeMirc
 
 alex_snaps:
   name: Alex Snaps
   web: http://www.codespot.net
-  email: alex.snaps@gmail.com
-#  gravatar: alex.snaps@gmail.com
   avatar: http://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
   twitter: alexsnaps
 
 anis_kadri:
   name: Anis Kadri
   web: http://imhotep.koalabs.org/
-  email: anis@adobe.com
-#  gravatar: alex.snaps@gmail.com
   avatar: http://pgday.phonegap.com/images/bio/anis.png
   twitter: aniskadri
 
 henri_tremblay:
   name: Henri Tremblay
   web: http://blog.tremblay.pro/
-  email: henri@tremblay.pro
-#  gravatar: alex.snaps@gmail.com
   avatar: https://media.licdn.com/mpr/mpr/p/2/000/084/0c9/2e9c8af.jpg
   twitter: henri_tremblay
 
 adib_saikali:
   name: Adib Saikali
   web: https://www.linkedin.com/in/adibsaikali
-  email: asaikali@pivotal.io
-#  gravatar: alex.snaps@gmail.com
   avatar: https://pbs.twimg.com/profile_images/454165937361412096/_rFTjhGO_400x400.jpeg
   twitter: asaikali
 
 philippe_arteau:
   name: Philippe Arteau
   web: http://blog.h3xstream.com/
-  email: philippe.arteau@gmail.com
-#  gravatar: alex.snaps@gmail.com
   avatar: https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/010/28c/0094240.jpg
   twitter: h3xstream
 
 andreas_grabner:
   name: Andreas Grabner
   web: http://de.slideshare.net/grabnerandi
-#  email:
-#  gravatar: alex.snaps@gmail.com
   avatar: http://cdn.slidesharecdn.com/profile-photo-grabnerandi-96x96.jpg?cb=1424887435
   twitter: grabnerandi
 
 martin_naumann:
   name: Martin Naumann
   web: http://geekonaut.de/
-#  email:
-#  gravatar: alex.snaps@gmail.com
   avatar: https://pbs.twimg.com/profile_images/557854072527544320/FcwSt9Wx_200x200.jpeg
   twitter: g33konaut
 
 Stefan_Oehme:
   name:  Stefan Oehme
   web: https://github.com/oehme
-  email: st.oehme@gmail.com
-#  gravatar: alex.snaps@gmail.com
   avatar: https://avatars0.githubusercontent.com/u/1191797?v=3&s=460
   twitter: StefanOehme
 
 Sani_Chabi_Yo:
   name:  Sani Chabi Yo
   web: https://twitter.com/chabiyo
-  email: syo@pivotal.io
-#  gravatar: alex.snaps@gmail.com
   avatar: https://pbs.twimg.com/profile_images/549372321463431168/_IsOlaMO_400x400.jpeg
   twitter: chabiyo
 
 Mike_Keith:
   name:  Mike Keith
   web: https://www.linkedin.com/pub/mike-keith/0/603/291
-#  email: st.oehme@gmail.com
-#  gravatar: alex.snaps@gmail.com
   avatar: https://www.oracle.com/us/assets/cw16-michael-keith-2548203.jpg
-#  twitter: StefanOehme
 
 remi_forax:
   name: Rémi Forax
   web: https://forax.github.io/
   avatar: https://avatars2.githubusercontent.com/u/828220?v=3&s=400
+
+anthony_dahanne:
+  name:  Anthony Dahanne
+  web: https://blog.dahanne.net/
+  avatar: https://pbs.twimg.com/profile_images/666454340/anthony_400x400.jpeg
+  twitter: anthonydahanne
+
+mike_milinkovich:
+  name:  Mike Milinkovich
+  web: https://mmilinkov.wordpress.com/
+  avatar: https://pbs.twimg.com/profile_images/2207595342/SmileyMike85_400x400.jpg
+  twitter: mmilinkov
