@@ -33,9 +33,9 @@ Anthony utilisera pendant cette présentation plusieurs outils du monde Docker (
 
 __En lien__
 
-Le groupe Cloud foundry Montreal organise aussi un talk sur Docker, une semaine avant: Packagez et déployez vos applications avec Docker par Brice Argenson
+Le groupe [Cloud foundry Montreal](http://www.meetup.com/fr/Cloud-Foundry-Montreal) organise aussi un talk sur Docker, une semaine avant: Packagez et déployez vos applications avec Docker par Brice Argenson
 
-http://www.meetup.com/fr/Cloud-Foundry-Montreal/events/227438796/
+[http://www.meetup.com/fr/Cloud-Foundry-Montreal/events/227438796/](http://www.meetup.com/fr/Cloud-Foundry-Montreal/events/227438796/)
 
 __Comme toujours__
 
