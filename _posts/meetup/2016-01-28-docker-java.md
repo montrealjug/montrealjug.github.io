@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 227440833
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: anthony_dahanne
 tags: []
 comments: true
