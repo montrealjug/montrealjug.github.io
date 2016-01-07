@@ -1,5 +1,7 @@
 # FOR JUG Maintainers
 
+[![Join the chat at https://gitter.im/montrealjug/montrealjug.github.io](https://badges.gitter.im/montrealjug/montrealjug.github.io.svg)](https://gitter.im/montrealjug/montrealjug.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 If you are using cygwin:
 
 `export COMSPEC=/cygdrive/c/Windows/System32/cmd.exe`
