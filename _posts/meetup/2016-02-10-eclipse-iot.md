@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 227441399
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: mike_milinkovich
 tags: []
 comments: true
