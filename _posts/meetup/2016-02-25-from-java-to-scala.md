@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's write some Scala!, by Martin Naumann"
+title: "Let's write some Scala, by Martin Naumann"
 excerpt: ""
 meetup: 228029976
 modified:
