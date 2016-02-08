@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 228029976
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: martin_naumann
 tags: []
 comments: true
