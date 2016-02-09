@@ -11,7 +11,7 @@ version: 6
 navbar: true
 
 # Jekyll configuration
-
+future: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
