@@ -7,7 +7,7 @@ modified:
 categories: meetup
 hidden: false
 author: mike_milinkovich
-tags: ['meetup']
+tags: []
 comments: true
 share: true
 image:

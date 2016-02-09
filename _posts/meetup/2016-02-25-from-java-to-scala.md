@@ -7,7 +7,7 @@ modified:
 categories: meetup
 hidden: false
 author: martin_naumann
-tags: ['meetup']
+tags: []
 comments: true
 share: true
 image:
