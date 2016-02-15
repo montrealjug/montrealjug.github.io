@@ -50,5 +50,3 @@ Vous pouvez également nous suivre sur les médias sociaux pour obtenir des nouv
 - https://www.facebook.com/wtm.montreal/
 - https://goo.gl/wEIxkI
 - https://www.linkedin.com/company/women­techmakers­montreal/
-
-Commanditaires (SVP, il faut respecter l’ordre d’apparition des logos soit : ÉTS, GDG et CGI)
