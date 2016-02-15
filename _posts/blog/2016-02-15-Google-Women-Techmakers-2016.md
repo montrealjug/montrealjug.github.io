@@ -25,13 +25,13 @@ This event is open to all (women and men) of 18+.
 
 For more information and to buy tickets, please visit our website:
 
-http://www.wtm-montreal.com/
+[http://www.wtm-montreal.com/](http://www.wtm-montreal.com/)
 
 You can follow us on social medias for news about the upcoming event:
 
-- https://www.facebook.com/wtm.montreal/
-- https://goo.gl/wEIxkI
-- https://www.linkedin.com/company/women­techmakers­montreal/
+- [https://www.facebook.com/wtm.montreal/](https://www.facebook.com/wtm.montreal/)
+- [https://goo.gl/wEIxkI](https://goo.gl/wEIxkI)
+- [https://www.linkedin.com/company/women­techmakers­montreal/](https://www.linkedin.com/company/women­techmakers­montreal/)
 
 __Communiqué officiel__
 
@@ -43,10 +43,10 @@ Cet évènement est ouvert à tous (femmes et hommes) de 18 ans et plus.
 
 Pour plus d’informations et pour acheter des billets, veuillez visiter notre site Web :
 
-http://www.wtm-montreal.com/fr/
+[http://www.wtm-montreal.com/fr/](http://www.wtm-montreal.com/fr/)
 
 Vous pouvez également nous suivre sur les médias sociaux pour obtenir des nouvelles de l’événement :
 
-- https://www.facebook.com/wtm.montreal/
-- https://goo.gl/wEIxkI
-- https://www.linkedin.com/company/women­techmakers­montreal/
+- [https://www.facebook.com/wtm.montreal/](https://www.facebook.com/wtm.montreal/)
+- [https://goo.gl/wEIxkI](https://goo.gl/wEIxkI)
+- [https://www.linkedin.com/company/women­techmakers­montreal/](https://www.linkedin.com/company/women­techmakers­montreal/)
