@@ -5,14 +5,14 @@ excerpt: "Java 7 est livré avec une multitude de nouveaux utilitaires pour la p
 meetup: 229078664
 modified:
 categories: meetup
-hidden: false
+hidden: true
 author: alex_snaps
 tags: []
 comments: true
 share: true
 image:
   feature:
-date: 2016-03-24T17:30:00-05:00
+date: 2016-04-14T17:30:00-04:00
 ---
 
 __[Alex Snaps](https://twitter.com/alexsnaps)__
