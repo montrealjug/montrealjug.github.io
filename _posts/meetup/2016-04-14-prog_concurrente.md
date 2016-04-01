@@ -2,10 +2,10 @@
 layout: post
 title: "Atelier programmation concurrente: les mains dans le cambouis, par Alex Snaps"
 excerpt: "Java 7 est livré avec une multitude de nouveaux utilitaires pour la programmation concurrente, sous l'égide de JSR-166"
-meetup: 229078664
+meetup: 230010076
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: alex_snaps
 tags: []
 comments: true
