@@ -34,7 +34,7 @@ In this presentation, we'll invite Pepper on stage to do some demos, we’ll dis
 __Sponsors:__
 
 * __Aldeberan__: [https://www.aldebaran.com/(https://www.aldebaran.com/)
-* __Google Montreal__: [http://www.google.ca/about/careers/locations/montreal/(http://www.google.ca/about/careers/locations/montreal/)
+* __Google Montreal__: [http://www.google.ca/about/careers/locations/montreal/](http://www.google.ca/about/careers/locations/montreal/)
 
 __Food and drinks:__
 
