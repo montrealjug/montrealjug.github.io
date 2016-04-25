@@ -51,7 +51,6 @@ __Location:__
 __Entrance:__
 
 * Only registered people will be able to enter Google's office for the talk. Check-in will be done at the entrance.
-
 * People on the wait-list will be able to come (usually, there is some NO-SHOW) but we cannot guarantee any place for them.
 
 __NO SHOW:__
