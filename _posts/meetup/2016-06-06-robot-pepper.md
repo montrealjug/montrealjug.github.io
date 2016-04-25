@@ -46,8 +46,7 @@ __Inscriptions:__
 
 __Location:__
 
-Google Montréal
-1253 McGill College #150, Montréal, QC H3B 2Y5, Montréal, QC
+[Google Montréal](https://maps.google.com/maps?f=q&hl=en&q=1253+McGill+College+%23150%2C+Montr%C3%A9al%2C+QC+H3B+2Y5%2C+Montr%C3%A9al%2C+QC%2C+ca) - _1253 McGill College #150, Montréal, QC H3B 2Y5, Montréal, QC_
 
 __Entrance:__
 
