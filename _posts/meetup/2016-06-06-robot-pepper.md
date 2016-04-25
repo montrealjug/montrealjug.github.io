@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le robot humanoïde Pepper avec Java, par Nicolas Rigaud"
+title: "The Pepper robot from Aldebaran comes at Montreal JUG, by Nicolas Rigaud"
 excerpt: "..."
 meetup: 230000071
 modified:
@@ -17,24 +17,44 @@ date: 2016-06-06T17:30:00-04:00
 
 __[Nicolas Rigaud](https://twitter.com/wtfirl)__
 
+Nicolas Rigaud joined [Aldebaran](https://www.aldebaran.com/) four years ago as a community manager, after spending 9 years in the media industry.
 
+He is now developers advocate and manages relations with external developer communities. He’s strongly convinced that robots will change our lives in the years to come, and keep spreading the word all over the world.
 
-__Talk:__
+He's been talking at a range of events around the world (JavaOne, Devoxx, JFokus) and was awarded JavaOne RockStar in 2015.
 
-__Nourriture et Boissons:__
+__Talk__
 
-???
+Robots have been in our minds for ages. Our imagination has been fed by science fiction, movies, cartons. But where are the robots to be seen today? You might wonder.
+
+At Aldebaran, we’ve been making robots for the last 10 years. Programmable humanoid robots. Social robots. Robots that don’t focus on performance but rather on interacting with people. We get the feeling they are the ultimate interface. But what are they useful for? How do they work? And more importantly: why should you pay attention to them?
+
+In this presentation, we'll invite Pepper on stage to do some demos, we’ll discuss software, hardware, sensors and emotions, we’ll share our vision about the future of robotics, and as much as we can, we’ll try to answer all the questions you have about this new species that will soon take over the world.
+
+__Sponsors:__
+
+* __Aldeberan__: [https://www.aldebaran.com/(https://www.aldebaran.com/)
+* __Google Montreal__: [http://www.google.ca/about/careers/locations/montreal/(http://www.google.ca/about/careers/locations/montreal/)
+
+__Food and drinks:__
+
+* _Yes!_ Kindly provided by Google Montreal!
 
 __Inscriptions:__
 
-* Elles ouvrent début Mai, et ferment 48h avant la présentation.
+* Opens in May, closes 48h before the talk.
 
-__Entrée:__
+__Location:__
 
-* Seulement les personnes inscrites peuvent accéder aux locaux de Google Montreal. Un check-in sera fait à l'entée.
+Google Montréal
+1253 McGill College #150, Montréal, QC H3B 2Y5, Montréal, QC
 
-* Les personnes dans la WAIT-LIST peuvent se présenter mais elles pourront entrer que s'il reste de la place.
+__Entrance:__
+
+* Only registered people will be able to enter Google's office for the talk. Check-in will be done at the entrance.
+
+* People on the wait-list will be able to come (usually, there is some NO-SHOW) but we cannot guarantee any place for them.
 
 __NO SHOW:__
 
-* Nous comptabilisons les NO SHOW et nous pénalisons les personnes qui ne viennent pas et conservent leur place. Si vous ne pouvez pas venir, penser à modifier votre statut pour laisser la place à quelqu'un d'autre :-)
+* __BE CAREFUL__: we track no-shows and we unregister people having too many no shows! If you cannot come, please modify your status!
