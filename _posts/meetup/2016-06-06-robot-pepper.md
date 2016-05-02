@@ -5,7 +5,7 @@ excerpt: "..."
 meetup: 230000071
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: nicolas_rigaud
 tags: []
 comments: true
