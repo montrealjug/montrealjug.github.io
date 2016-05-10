@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Pepper robot from Aldebaran comes at Montreal JUG, by Nicolas Rigaud"
+title: "Pepper, a human-shaped robot from Aldebaran, that perceives emotions"
 excerpt: "..."
 meetup: 230000071
 modified:
