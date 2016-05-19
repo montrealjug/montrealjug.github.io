@@ -31,6 +31,10 @@ At Aldebaran, we’ve been making robots for the last 10 years. Programmable hum
 
 In this presentation, we'll invite Pepper on stage to do some demos, we’ll discuss software, hardware, sensors and emotions, we’ll share our vision about the future of robotics, and as much as we can, we’ll try to answer all the questions you have about this new species that will soon take over the world.
 
+[Find out more about Pepper.](https://www.ald.softbankrobotics.com/en/cool-robots/pepper/find-out-more-about-pepper)
+
+![](http://photos1.meetupstatic.com/photos/event/8/7/8/5/600_450154693.jpeg)
+
 __Sponsors:__
 
 * __Aldeberan__: [https://www.aldebaran.com/](https://www.aldebaran.com/)
