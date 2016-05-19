@@ -33,7 +33,7 @@ In this presentation, we'll invite Pepper on stage to do some demos, we’ll dis
 
 [Find out more about Pepper.](https://www.ald.softbankrobotics.com/en/cool-robots/pepper/find-out-more-about-pepper)
 
-![](https://www.ald.softbankrobotics.com/sites/aldebaran/files/images/en_savoir_plus_sur_pepper_2.png)
+![](http://photos1.meetupstatic.com/photos/event/8/7/8/5/600_450154693.jpeg)
 
 __Sponsors:__
 
