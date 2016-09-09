@@ -5,7 +5,7 @@ excerpt: "In this talk I will illustrate my journey on how I was able to interes
 meetup: 233998177
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: felix_roberge
 tags: []
 comments: true
