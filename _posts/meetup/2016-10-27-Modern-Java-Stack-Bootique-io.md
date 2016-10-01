@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Initiate Kids to Java Programming?"
+title: "No container: a Modern Java Stack with Bootique.io, by Andrus Adamchik"
 excerpt: "Container-less apps are clearly the future of Java"
 meetup: 234548722
 modified:
