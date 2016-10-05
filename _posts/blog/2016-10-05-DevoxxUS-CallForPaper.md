@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devoxx US 2017 - Call for Papers is now open!"
+title: "Devoxx US 2017 - Call for Papers is now open"
 excerpt:
 meetup:
 modified:
