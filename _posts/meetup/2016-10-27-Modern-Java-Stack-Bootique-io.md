@@ -5,7 +5,7 @@ excerpt: "Container-less apps are clearly the future of Java"
 meetup: 234548722
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: andrus_adamchik
 tags: []
 comments: true
