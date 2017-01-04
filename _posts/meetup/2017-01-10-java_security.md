@@ -22,3 +22,7 @@ La sécurité est un aspect en constante évolution. L'écosystème Java n'y éc
 __Philippe Arteau ([@h3xstream](https://twitter.com/h3xstream))__
 
 Philippe est un chercheur en cyber-sécurité pour GoSecure. Il est l'auteur de l'outil d'analyse statique Java "Find Security Bugs". Il a développé de nombreux plugins pour les outils de proxy Burp et ZAP. Il a découvert des vulnérabilités importantes dans les logiciels populaires tels que Google Chrome, Dropbox, Paypal, RunKeeper et Jira. Il a présenté dans différentes conférences incluant Black Hat USA, Black Hat Europe, ATL Sec Con, NorthSec, Hackfest (QC) et JavaOne.
+
+__À propos des locaux__
+
+[WeWork](https://www.wework.com/fr-CA/l/montreal--QC) est une communauté de créateurs qui vise à aider les entreprises à croître en leur fournissant non seulement un bel espace, mais aussi le soutient, les avantages, les commodités et la communauté professionnelle dont ils ont besoin pour se concentrer sur leur activité. [Écrivez-nous](mailto:lavenue@wework.com) et réservez une visite dès aujourd'hui! 
