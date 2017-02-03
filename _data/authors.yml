@@ -99,3 +99,9 @@ andrus_adamchik:
   web: http://bootique.io/
   avatar: https://pbs.twimg.com/profile_images/698563673783169028/r224fFf9_400x400.jpg
   twitter: andrus_a
+
+kirk_pepperdine:
+  name: Kirk Pepperdine
+  web: https://www.jclarity.com
+  avatar: https://www.jclarity.com/wp-content/uploads/2013/07/Kirk_150x150_clr-500x500.png
+  twitter: kcpeppe
