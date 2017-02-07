@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indexing in Cassandra"
+title: "Indexing in Cassandra, by Ron Cohen"
 excerpt: ""
 meetup: 237522310
 modified:
