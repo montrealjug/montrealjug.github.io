@@ -105,3 +105,15 @@ kirk_pepperdine:
   web: https://www.jclarity.com
   avatar: https://www.jclarity.com/wp-content/uploads/2013/07/Kirk_150x150_clr-500x500.png
   twitter: kcpeppe
+
+ron_cohen:
+  name: Ron Cohen
+  web: https://twitter.com/ronroncohen
+  avatar: https://pbs.twimg.com/profile_banners/16969120/1445113406/1500x500
+  twitter: ronroncohen
+
+marcus_hellberg:
+  name: Marcus Hellberg
+  web: https://twitter.com/marcushellberg
+  avatar: https://pbs.twimg.com/profile_images/2434447784/churd5r7o4nou33pgiey_400x400.jpeg
+  twitter: marcushellberg
