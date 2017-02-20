@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 237522310
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: ron_cohen
 tags: []
 comments: true
