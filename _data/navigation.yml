@@ -12,14 +12,14 @@
 - title: Devenir membre
   url: http://www.meetup.com/montreal-jug/
 
-- title: Contact
-  url: /contact/
-
-- title: Qui sommes nous
-  url: /who/
-
 - title: Sponsors
   url: /sponsors/
 
 - title: Devenir Sponsor
   url: /sponsoring/
+
+- title: Qui sommes-nous ?
+  url: /who/
+
+- title: Contact
+  url: /contact/
