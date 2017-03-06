@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qui sommes-nous ?
+title: Contact
 excerpt: "Montreal Java User Group et Devoxx4Kids Québec"
 modified: 2017-03-05T19:12:38.564948-05:00
 image:
