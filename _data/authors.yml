@@ -93,3 +93,27 @@ felix_roberge:
   web: https://twitter.com/felixroberge
   avatar: https://pbs.twimg.com/profile_images/1125588648/roberge.felix_gmail.com_400x400.jpeg
   twitter: felixroberge
+
+andrus_adamchik:
+  name: Andrus Adamchik
+  web: http://bootique.io/
+  avatar: https://pbs.twimg.com/profile_images/698563673783169028/r224fFf9_400x400.jpg
+  twitter: andrus_a
+
+kirk_pepperdine:
+  name: Kirk Pepperdine
+  web: https://www.jclarity.com
+  avatar: https://www.jclarity.com/wp-content/uploads/2013/07/Kirk_150x150_clr-500x500.png
+  twitter: kcpeppe
+
+ron_cohen:
+  name: Ron Cohen
+  web: https://twitter.com/ronroncohen
+  avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/014/1d8/20245ce.jpg
+  twitter: ronroncohen
+
+marcus_hellberg:
+  name: Marcus Hellberg
+  web: https://twitter.com/marcushellberg
+  avatar: https://pbs.twimg.com/profile_images/2434447784/churd5r7o4nou33pgiey_400x400.jpeg
+  twitter: marcushellberg
