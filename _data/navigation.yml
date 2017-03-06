@@ -9,17 +9,14 @@
 - title: Annonces
   url: /blog/
 
-- title: Devenir membre
-  url: http://www.meetup.com/montreal-jug/
-
 - title: Sponsors
   url: /sponsors/
 
-- title: Devenir Sponsor
-  url: /sponsoring/
+- title: Devenir membre
+  url: http://www.meetup.com/montreal-jug/
 
-- title: Qui sommes-nous ?
-  url: /who/
+- title: Devenir sponsor
+  url: /sponsoring/
 
 - title: Contact
   url: /contact/
