@@ -9,20 +9,17 @@
 - title: Annonces
   url: /blog/
 
-- title: Contact
-  url: /contact/
-
 - title: Devenir membre
   url: http://www.meetup.com/montreal-jug/
 
-#- title: Theme Setup
-#  url: /theme-setup/
+- title: Contact
+  url: /contact/
 
-#- title: Made Mistakes
-#  url: http://mademistakes.com
+- title: Qui sommes nous
+  url: /who/
 
-#- title: About
-#  url: /about/
+- title: Sponsors
+  url: /sponsors/
 
-#- title: Articles
-#  url: /articles/
+- title: Devenir Sponsor
+  url: /sponsoring/
