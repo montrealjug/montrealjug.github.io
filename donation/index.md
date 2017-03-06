@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thank you for your donation!
-excerpt: "index.md"
+title: Thank you!
+excerpt: "Thank you!"
 image:
   feature:
   credit:
