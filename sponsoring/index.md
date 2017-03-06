@@ -34,7 +34,7 @@ Saison de Septembre à Juin
 | __Présence dans les annonces des conférences__ | ✓ (grand) | ✓ (petit) | ✓* | ❌ |
 | __Présence sur l'écran au début des conférences__ | ✓ (grand) | ✓ (petit) | ❌ | ❌ |
 | __Annonce sur notre mailing-list__ | ✓ (4 max) | ✓ (2 max) | ❌ | ✓ (1 max) |
-| __Annonce lors des conférences__ |  | | ❌ | ✓* |
+| __Annonce lors des conférences__ | _inclu dans les 4_ | _inclu dans les 2_ | ❌ | ✓* |
 | __Prix par saison__ | 1,500$ | 750$ | N/A | 250$ |
 
 Nous ne garantissons pas le nombre de conférences et ateliers.
