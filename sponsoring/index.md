@@ -23,15 +23,15 @@ De leur part et de notre part, merci.
 
 |  | __Montreal JUG__ | __Devoxx4Kids QC__ |
 |--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| __Sites__ | [Site web](http://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](http://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
 | __Depuis__ | 2010 (7 ans) | 2014 (3 ans) |
 | __Public__ | Professionnels en informatique<br>Particulièrement en développement Java | Enfants de 5 à 16 ans |
 | __Période__ | Septembre à Juin (10 mois) | Septembre à Juin (10 mois) |
 | __Fréquence__ | 1 conférence par mois, ou plus si possible | 2-3 journées d’ateliers par an, ou plus si possible |
-| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10 | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 1 + 2 à venir  |
 | __Audience (RSVP)__ | ~ 65 personnes / conférence (3 dernières années)<br>Parmi les plus gros au monde! | ~ 30-35 enfants / journée<br> ~ 4-5 workshops / journée |
 | __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
 | __Membres__ | 1130 membres (février 2017)<br>~ 40 nouveaux membres / mois (2015-2016) | N/A |
-| __Sites__ | [Site web](http://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](http://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
+| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10 | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 1 + 2 à venir  |
 
 ## Plans de commandite
 
