@@ -13,11 +13,11 @@ image:
 une visibilité conséquente dans le monde Java à Montréal.
 
 Être commanditaire du Montreal JUG, c'est aussi être commenditaire de <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
-s'agit de la branche montréalaise d'un mouvement mondial visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
+s'agit de la branche montréalaise d'un **mouvement mondial** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
 robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
 enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
 
-De leur part et de notre part, merci.
+De leur part et de notre part, **merci**.
 
 ## Statistiques
 
@@ -56,13 +56,13 @@ Nous ne garantissons pas le nombre de conférences et ateliers.
 
 Vous souhaitez nous aider à fonctionner? Que vous soyez une entreprise ou un particulier, merci d'avance.
 
-Notre acceptons les dons. <a href="mailto:{{site.owner.email}}">Contactez-nous</a>. Les fonctionalités de donation en ligne 
+Notre acceptons les dons. <a href="mailto:{{site.owner.email}}">Contactez-nous</a>. Les fonctionnalités de donation en ligne 
 seront mises en place sous peu.
 
 ## Utilisation des fonds
 
 Le Montreal JUG est une OBNL. Les fonds sont utilisés pour
-* Payer les divers frais abministratifs
+* Payer les divers frais administratifs
 * Défrayer les orateurs
 * Imprimer des T-shirts et autres objets promotionnels
 * Défrayer les organisateurs
