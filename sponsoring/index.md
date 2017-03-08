@@ -27,7 +27,7 @@ De leur part et de notre part, merci.
 | __Public__ | Professionnels en informatique<br>Particulièrement en développement Java | Enfants de 5 à 16 ans |
 | __Période__ | Septembre à Juin (10 mois) | Septembre à Juin (10 mois) |
 | __Fréquence__ | 1 conférence par mois, ou plus si possible | 2-3 journées d’ateliers par an, ou plus si possible |
-| __Historique des conférences__ | ![/images/talk_history.png](/images/talk_history.png) | 2014: 1<br>2015: 1<br>2016: 3<2017>: 1 + 2 à venir  |
+| __Historique des conférences__ | ![/images/talk_history.png](/images/talk_history.png) | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 1 + 2 à venir  |
 | __Audience (RSVP)__ | ~ 65 personnes / conférence (3 dernières années)<br>Parmi les plus gros au monde! | ~ 30-35 enfants / journée<br> ~ 4-5 workshops / journée |
 | __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
 | __Membres__ | 1130 membres (février 2017)<br>~ 40 nouveaux membres / mois (2015-2016) | N/A |
