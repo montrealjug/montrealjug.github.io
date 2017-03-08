@@ -39,12 +39,12 @@ Saison de Septembre à Juin
 
 |  | __Platine__ | __Or__ | __Prêteur de salle__ | __Ponctuel__ |
 |---|:-----------:|:------:|:--------------------:|:------------:|
-| __Présence sur le site Web__ | ✓ (grand) | ✓ (petit) | ✓ (petit) | ❌ |
-| __Présence sur le groupe Meetup__ | ✓ | ✓ | ✓ | ❌ |
-| __Présence dans les annonces des conférences__ | ✓ (grand) | ✓ (petit) | ✓* | ❌ |
-| __Présence sur l'écran au début des conférences__ | ✓ (grand) | ✓ (petit) | ❌ | ❌ |
-| __Annonce sur notre mailing-list__ | ✓ (4 max) | ✓ (2 max) | ❌ | ✓ (1 max) |
-| __Annonce lors des conférences__ | _inclu dans les 4_ | _inclu dans les 2_ | ❌ | ✓* |
+| __Présence sur le site Web__ | <span style="color:green">__✓__</span> (grand) | <span style="color:green">__✓__</span> (petit) | <span style="color:green">__✓__</span> (petit) | ❌ |
+| __Présence sur le groupe Meetup__ | <span style="color:green">__✓__</span> | <span style="color:green">__✓__</span> | <span style="color:green">__✓__</span> | ❌ |
+| __Présence dans les annonces des conférences__ | <span style="color:green">__✓__</span> (grand) | <span style="color:green">__✓__</span> (petit) | <span style="color:green">__✓__</span>* | ❌ |
+| __Présence sur l'écran au début des conférences__ | <span style="color:green">__✓__</span> (grand) | <span style="color:green">__✓__</span> (petit) | ❌ | ❌ |
+| __Annonce sur notre mailing-list__ | <span style="color:green">__✓__</span> (4 max) | <span style="color:green">__✓__</span> (2 max) | ❌ | <span style="color:green">__✓__</span> (1 max) |
+| __Annonce lors des conférences__ | _inclu dans les 4_ | _inclu dans les 2_ | ❌ | <span style="color:green">__✓__</span>* |
 | __Prix par saison__ | 1,500$ | 750$ | N/A | 250$ |
 
 Nous ne garantissons pas le nombre de conférences et ateliers.
