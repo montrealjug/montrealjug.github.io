@@ -46,8 +46,6 @@ Saison de Septembre à Juin
 | __Annonce sur notre mailing-list__ | <span style="color:green">__✓__</span> (4 max) | <span style="color:green">__✓__</span> (2 max) | ❌ | <span style="color:green">__✓__</span> (1 max) |
 | __Annonce lors des conférences__ | _inclu dans les 4_ | _inclu dans les 2_ | ❌ | <span style="color:green">__✓__</span>* |
 | __Prix par saison__ | 1,500$ | 750$ | N/A | 250$ |
-| __Abonnement annuel__ | <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="4PECBTRSYYAK4"><input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form> |  |
-|  |  |  | N/A | N/A |
 
 Nous ne garantissons pas le nombre de conférences et ateliers.
 <br>Les plans ne sont pas exclusifs: nous acceptons plusieurs sponsors avec le même plan.
