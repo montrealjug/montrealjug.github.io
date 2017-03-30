@@ -52,6 +52,18 @@ Nous ne garantissons pas le nombre de conférences et ateliers.
 
 `*` Pour l’événement dans la salle
 
+## Utilisation des fonds
+
+Le Montreal JUG est une OBNL. Les fonds sont utilisés pour
+* Payer les divers frais administratifs
+* Défrayer les orateurs
+* Imprimer des T-shirts et autres objets promotionnels
+* Défrayer les organisateurs
+
+Le solde, **qui constitue en pratique la grande majorité des fonds**, sera utilisé pour acquérir du matériel pour 
+Devoxx4kids. Nous tenons à garder l'ensemble des autres frais le plus bas possible afin que vos dons soient utilisés là 
+où c'est le plus utile. En nous aidant, vous aidez donc d'abord et avant tout **les enfants**.
+
 ## Achats et dons
 
 __Plan de sponsoring__
@@ -95,15 +107,3 @@ Notre acceptons les dons. <a href="mailto:{{site.owner.email}}">Contactez-nous a
 <div style="text-align:center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="9SF24MCFQSW54"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form>
 </div>
-
-## Utilisation des fonds
-
-Le Montreal JUG est une OBNL. Les fonds sont utilisés pour
-* Payer les divers frais administratifs
-* Défrayer les orateurs
-* Imprimer des T-shirts et autres objets promotionnels
-* Défrayer les organisateurs
-
-Le solde, **qui constitue en pratique la grande majorité des fonds**, sera utilisé pour acquérir du matériel pour 
-Devoxx4kids. Nous tenons à garder l'ensemble des autres frais le plus bas possible afin que vos dons soient utilisés là 
-où c'est le plus utile. En nous aidant, vous aidez donc d'abord et avant tout **les enfants**.
