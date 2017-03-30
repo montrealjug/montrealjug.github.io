@@ -46,6 +46,8 @@ Saison de Septembre à Juin
 | __Annonce sur notre mailing-list__ | <span style="color:green">__✓__</span> (4 max) | <span style="color:green">__✓__</span> (2 max) | ❌ | <span style="color:green">__✓__</span> (1 max) |
 | __Annonce lors des conférences__ | _inclu dans les 4_ | _inclu dans les 2_ | ❌ | <span style="color:green">__✓__</span>* |
 | __Prix par saison__ | 1,500$ | 750$ | N/A | 250$ |
+| __Abonnement annuel__ | <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="4PECBTRSYYAK4"><input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form> | <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="NPZUK2BHARYKQ"><input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form> | N/A | <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="SFUBPZKW7B686"><input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form> |
+|  | <A HREF="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=89A5GQ84PUL4N"><IMG SRC="https://www.paypalobjects.com/fr_CA/i/btn/btn_unsubscribe_SM.gif" BORDER="0"></A> | <A HREF="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=89A5GQ84PUL4N"><IMG SRC="https://www.paypalobjects.com/fr_CA/i/btn/btn_unsubscribe_SM.gif" BORDER="0"></A> | N/A | N/A |
 
 Nous ne garantissons pas le nombre de conférences et ateliers.
 <br>Les plans ne sont pas exclusifs: nous acceptons plusieurs sponsors avec le même plan.
@@ -56,8 +58,11 @@ Nous ne garantissons pas le nombre de conférences et ateliers.
 
 Vous souhaitez nous aider à fonctionner? Que vous soyez une entreprise ou un particulier, merci d'avance.
 
-Notre acceptons les dons. <a href="mailto:{{site.owner.email}}">Contactez-nous</a>. Les fonctionnalités de donation en ligne 
-seront mises en place sous peu.
+Notre acceptons les dons. <a href="mailto:{{site.owner.email}}">Contactez-nous au besoin</a>
+
+<div style="text-align:center;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="9SF24MCFQSW54"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form>
+</div>
 
 ## Utilisation des fonds
 
