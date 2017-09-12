@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java EE Microservices? Facile avec Wildfly Swarm!, by Jérémie Lagarde"
+title: "Java EE Microservices? Facile avec Wildfly Swarm!, par Jérémie Lagarde"
 excerpt: ""
 meetup: 243301286
 modified:
