@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java EE Microservices? Facile avec Wildfly Swarm!, by James Weaver"
+title: "Java EE Microservices? Facile avec Wildfly Swarm!, by Jérémie Lagarde"
 excerpt: ""
 meetup: 243301286
 modified:
@@ -12,7 +12,7 @@ comments: true
 share: true
 image:
   feature:
-date: 2017-09-19T17:30:00-05:00
+date: 2017-09-19T17:30:00-04:00
 ---
 
 __Java EE Microservices? Facile avec Wildfly Swarm!__
