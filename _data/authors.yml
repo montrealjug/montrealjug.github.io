@@ -135,3 +135,33 @@ jeremie_lagarde:
   web: http://www.devoxx4kids.org/quebec/
   avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/070/339/261bdd6.jpg
   twitter: printstacktrace
+
+carlos_salazar:
+  name: Carlos Salazar
+  web: http://carlos-salazar.com/
+  avatar: hhttp://carlos-salazar.com/images/intro.png
+  twitter: chuucksc
+
+didier_valentin:
+  name: Didier Valentin
+  web:
+  avatar: https://secure.meetupstatic.com/photos/member/a/8/2/2/member_264703042.jpeg
+  twitter:
+
+edson_yanaga:
+  name: Edson Yanaga
+  web: https://yanaga.io/
+  avatar: https://pbs.twimg.com/profile_images/446736945419259904/VfIK-92w_400x400.jpeg
+  twitter: yanaga
+
+andres_almiray:
+  name: Andres Almiray
+  web: https://www.patreon.com/aalmiray
+  avatar: https://pbs.twimg.com/profile_images/2860289112/5f6f3b566ba6c2c3e2cc932a42d13b75_400x400.png
+  twitter: aalmiray
+
+mark_heckler:
+  name: Mark Heckler
+  web: https://thehecklers.com/
+  avatar: https://pbs.twimg.com/profile_images/889860575207051266/mfFnoV-u_400x400.jpg
+  twitter: MkHeck
