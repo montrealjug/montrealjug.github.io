@@ -22,7 +22,7 @@ Kronos est le leader mondial en solutions de gestion des effectifs qui permetten
 
 Kronos is the global leader in workforce management solutions that enable organizations to control labor costs, minimize compliance risk, and improve workforce productivity.
 
-Google Cloud / SAAS HR Software company |300 employees @Côte-des-Neiges metro | Stack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
+Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
 ### Or
 
