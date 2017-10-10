@@ -16,7 +16,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 ### Platine
 
-[Intéressé?](/sponsoring)
+<a href="https://www.kronos.ca/" title="Kronos" target="_blank"><img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;"></a>
 
 ### Or
 
