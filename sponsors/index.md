@@ -18,6 +18,10 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 <a href="https://www.kronos.ca/" title="Kronos" target="_blank"><img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;"></a>
 
+Kronos est le leader mondial en solutions de gestion des effectifs qui permettent aux organisations de contrôler les coûts de main-d’œuvre, de minimiser les risques associés à la non-conformité et d’améliorer la productivité.
+
+Kronos is the global leader in workforce management solutions that enable organizations to control labor costs, minimize compliance risk, and improve workforce productivity.
+
 ### Or
 
 <a href="https://softwareag.com" title="Software AG" target="_blank"><img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;"></a>
