@@ -12,7 +12,7 @@ comments: true
 share: true
 image:
   feature:
-date: 2017-11-07T17:30:00-05:00
+date: 2017-11-06T17:30:00-05:00
 ---
 
 __Spring Security and Oauth 2__
