@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Spring Security and Oauth 2 by Carlos Salazar"
+title: "??? by Venkat Subramaniam"
 excerpt: ""
 meetup: 243825218
 modified:
 categories: meetup
 hidden: true
-author: carlos_salazar
+author: venkat_subramaniam
 tags: []
 comments: true
 share: true
@@ -19,6 +19,6 @@ __Spring Security and Oauth 2__
 
 TALK DESCRIPTION
 
-__Carlos Salazar__
+__Venkat Subramaniam__
 
 BIO
