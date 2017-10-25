@@ -39,6 +39,8 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 <a href="http://hybris.com/" title="SAP Hybris" target="_blank"><img src="/images/sponsors/saphybris.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://fr.shopify.ca/" title="Shopify" target="_blank"><img src="/images/sponsors/shopify.png" width="80px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
+<a href="http://notman.org/" title="Notman House" target="_blank"><img src="/images/sponsors/notman.png" width="80px" style="vertical-align: top;"></a>
 
 ### Partenaires
 
