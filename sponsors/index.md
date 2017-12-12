@@ -34,8 +34,6 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 
 <a href="https://www.oracle.com/" title="Oracle" target="_blank"><img src="/images/sponsors/oracle.gif" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
-<a href="https://www.wework.com/fr-CA/l/montreal--QC" title="WeWork" target="_blank"><img src="/images/sponsors/wework.png" width="80px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
 <a href="http://hybris.com/" title="SAP Hybris" target="_blank"><img src="/images/sponsors/saphybris.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://fr.shopify.ca/" title="Shopify" target="_blank"><img src="/images/sponsors/shopify.png" width="80px" style="vertical-align: top;"></a>
