@@ -17,7 +17,7 @@ date: 2018-01-12T17:30:00-05:00
 
 __From Functional to Reactive Programming__
 
-**Sponsored by ![DevNexus](/images/sponsors/devnexus.png){:class="img-responsive"}**. The well-known and awesome conference 
+**Sponsored by ![DevNexus](/images/sponsors/devnexus.png){:class="img-responsive"}** The well-known and awesome conference 
 that we are always pleased to attend. February 21-23 2018. [Register](https://devnexus2018.ajug.org/s/register-overview) now.
 
 We're in the midst of renewed interest in functional programming. At the same time we see quite a bit of excitement around 
