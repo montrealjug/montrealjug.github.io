@@ -34,3 +34,12 @@ and Asia, and is a regularly-invited speaker at several international conference
 apply and succeed with sustainable agile practices on their software projects. Venkat is a (co)author of multiple technical books, 
 including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books 
 at [agiledeveloper.com](http://agiledeveloper.com/).
+
+__Hôte: Ulule__
+
+Plateforme pionnière du financement participatif, [Ulule](http://ulule.ca/) permet aux projet créatifs, innovants et solidaires de 
+collecter des fonds, tester une idée, réunir et faire grandir une communauté.
+
+En l’espace de 6 ans, Ulule est devenu le premier site de financement participatif européen avec plus de 20 000 projets financés, 
+plus de 1,8 million de membres dans le monde entier. Notre ambition: donner du pouvoir aux créateurs et aux entrepreneurs, à grande 
+échelle.
