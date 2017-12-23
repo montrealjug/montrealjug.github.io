@@ -24,6 +24,10 @@ Kronos is the global leader in workforce management solutions that enable organi
 
 Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
+<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank"><img src="/images/sponsors/desjardins.png" width="400px" style="vertical-align: top;"></a>
+
+<a href="http://logimethods.com/" title="Logimethods" target="_blank"><img src="/images/sponsors/logimethods.png" width="400px" style="vertical-align: top;"></a>
+
 ### Or
 
 <a href="https://softwareag.com" title="Software AG" target="_blank"><img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;"></a>
