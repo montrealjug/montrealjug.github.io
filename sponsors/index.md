@@ -16,7 +16,9 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 ### Platine
 
-<a href="https://www.kronos.ca/" title="Kronos" target="_blank"><img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;"></a>
+<a href="https://www.kronos.ca/" title="Kronos" target="_blank">
+  <img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
+</a>
 
 Kronos est le leader mondial en solutions de gestion des effectifs qui permettent aux organisations de contrôler les coûts de main-d’œuvre, de minimiser les risques associés à la non-conformité et d’améliorer la productivité.
 
@@ -24,9 +26,13 @@ Kronos is the global leader in workforce management solutions that enable organi
 
 Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
-<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank"><img src="/images/sponsors/desjardins.png" width="400px" style="vertical-align: top;"></a>
+<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
+  <img src="/images/sponsors/desjardins.jpg" width="400px" style="vertical-align: top;">
+</a>
 
-<a href="http://logimethods.com/" title="Logimethods" target="_blank"><img src="/images/sponsors/logimethods.png" width="400px" style="vertical-align: top;"></a>
+<a href="http://logimethods.com/" title="Logimethods" target="_blank">
+  <img src="/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
+</a>
 
 ### Or
 
