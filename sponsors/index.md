@@ -54,7 +54,7 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 
 ### Partenaires
 
-Ils donnent à nos membres divers avantages en nature et matériels (i.e. ordinateurs portables usagés) pour le Montreal JUG et le Devoxx4Kids.
+Ils donnent à nos membres divers avantages en nature et matériels (i.e. ordinateurs portables usagés) pour le Montréal JUG et le Devoxx4Kids.
 
 <a href="http://www.testatoo.org/" title="Ovea / testatoo" target="_blank"><img src="/images/sponsors/ovea.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Devenir membre
-excerpt: "Devenir membre du Montreal JUG"
+excerpt: "Devenir membre du Montréal JUG"
 modified:
 image:
   feature:

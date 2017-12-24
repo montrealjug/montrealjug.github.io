@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Annonces
-excerpt: "Toutes les annonces du Montreal JUG"
+excerpt: "Toutes les annonces du Montréal JUG"
 ---
 
 <ul class="post-list">

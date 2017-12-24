@@ -22,7 +22,7 @@ Software Engineer, Adobe | @aniskadri
 
 Anis is a Software Engineer at Adobe. He works on PhoneGap and Cordova full-time and has been contributing to the project since its early inception. Lately, he’s been interested in trying to introduce PhoneGap solutions to the enterprise world.
 
-Anis arrive bientôt pour quelques jours sur Montréal et va pouvoir faire une présentation de PhoneGap au Montreal JUG!
+Anis arrive bientôt pour quelques jours sur Montréal et va pouvoir faire une présentation de PhoneGap au Montréal JUG!
 
 __Talk description:__
 

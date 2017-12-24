@@ -17,7 +17,7 @@ date: 2015-02-16T13:00:00-05:00
 
 Bonjour,
 
-Nous vous rappelons que [JetBrains](https://www.jetbrains.com/) sponsorise le Montreal JUG depuis plusieurs années.
+Nous vous rappelons que [JetBrains](https://www.jetbrains.com/) sponsorise le Montréal JUG depuis plusieurs années.
 
 __Une licence Intellij IDEA Ultimate de 1 an peut être distribuée à l'issue de chaque rencontre.__
 

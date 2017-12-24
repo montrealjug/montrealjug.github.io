@@ -21,7 +21,7 @@ Felix is a Software Engineering Manager for Intact Financial Corporation in Mont
 
 Being an Innovation Evangelist, Felix is also leading a R&D team, which focuses on improving development life cycle in different areas such as: Continuous Integration & Delivery, Container Base Deployment as well as initiating a change towards a DevOps culture. Believing in the added value of the community, 
 
-Felix is very involved in many user groups in the Montreal area such as: the Montreal JUG and Montreal Docker User Group. Furthermore, Felix is also a council member of the Dynatrace User Group and a Speaker at JavaOne 2016.
+Felix is very involved in many user groups in the Montreal area such as: the Montréal JUG and Montreal Docker User Group. Furthermore, Felix is also a council member of the Dynatrace User Group and a Speaker at JavaOne 2016.
 
 __Talk__
 

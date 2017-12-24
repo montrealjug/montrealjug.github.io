@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meetups
-excerpt: "Tous les Meetups du Montreal JUG"
+excerpt: "Tous les Meetups du Montréal JUG"
 ---
 
 <ul class="post-list">

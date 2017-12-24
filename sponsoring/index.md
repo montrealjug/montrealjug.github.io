@@ -9,10 +9,10 @@ image:
   creditlink:
 ---
 
-Être commanditaire du Montreal JUG, c'est être commenditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
+Être commanditaire du Montréal JUG, c'est être commenditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
 une visibilité conséquente dans le monde Java à Montréal.
 
-Être commanditaire du Montreal JUG, c'est aussi être commenditaire de <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
+Être commanditaire du Montréal JUG, c'est aussi être commenditaire de <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
 s'agit de la branche montréalaise d'un **mouvement mondial** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
 robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
 enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
@@ -21,7 +21,7 @@ De leur part et de notre part, **merci**.
 
 ## Statistiques
 
-|  | __Montreal JUG__ | __Devoxx4Kids QC__ |
+|  | __Montréal JUG__ | __Devoxx4Kids QC__ |
 |--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
 | __Sites__ | [Site web](http://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](http://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
 | __Depuis__ | 2010 (7 ans) | 2014 (3 ans) |
@@ -54,7 +54,7 @@ Nous ne garantissons pas le nombre de conférences et ateliers.
 
 ## Utilisation des fonds
 
-Le Montreal JUG est une OBNL. Les fonds sont utilisés pour
+Le Montréal JUG est une OBNL. Les fonds sont utilisés pour
 * Payer les divers frais administratifs
 * Défrayer les orateurs
 * Imprimer des T-shirts et autres objets promotionnels

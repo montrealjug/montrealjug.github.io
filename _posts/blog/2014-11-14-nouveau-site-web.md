@@ -15,6 +15,6 @@ image:
 date: 2014-11-14T08:47:01-05:00
 ---
 
-Le nouveau site du Montreal JUG est live! On espère qu'il vous plaira!
+Le nouveau site du Montréal JUG est live! On espère qu'il vous plaira!
 
 Vous pouvez nous laissez vos commentaires en bas.
