@@ -5,7 +5,6 @@
 {% include ad-footer.html %}
 {% endif %}
 <div>
-	<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
   <div class="social-icons">
     <a href="https://www.kronos.ca" title="Kronos" target="_blank"><img src="/images/sponsors/kronos.jpg" width="200px" style="vertical-align: top;"></a>
     <a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank"><img src="/images/sponsors/desjardins.png" width="200px" style="vertical-align: top;"></a>
@@ -37,4 +36,5 @@
 		{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="fa fa-tumblr-square fa-2x"></i></a>{% endif %}
 		<a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 	</div><!-- /.social-icons -->
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 </div>
