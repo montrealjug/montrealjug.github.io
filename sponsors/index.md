@@ -30,13 +30,33 @@ Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, 
   <img src="/images/sponsors/desjardins.jpg" width="400px" style="vertical-align: top;">
 </a>
 
+La mission du mouvement Desjardins est de contribuer au mieux-être économique et social des personnes et des collectivités dans les limites compatibles de notre champ d'action:
+
+* en développant un réseau coopératif intégré de services financiers sécuritaires et rentables, sur une base permanente, propriété des membres et administré par eux, et un réseau d'entreprises financières complémentaires, à rendement concurrentiel et contrôlé par eux.
+* en faisant l'éducation à la démocratie, à l'économie, à la solidarité et à la responsabilité individuelle et collective, particulièrement auprès de nos membres, de nos dirigeants et de nos employés.
+
 <a href="http://logimethods.com/" title="Logimethods" target="_blank">
   <img src="/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
 </a>
 
+Logimethods accompagne ses clients dans l’adoption réussie des technologies informatiques requises pour la transformation numérique. 
+Ceci grâce à ses compétences et expertises spécifiques, incluant des accélérateurs couvrant le cycle de vie complet des solutions. 
+Nos services couvrent l’ensemble des aspects des projets informatiques, de la gouvernance globale à la gestion opérationnelle, en passant par l’architecture ainsi que par la réalisation.
+
+**Architecture:** nos services-conseils permettent aux organisations de tirer pleinement parti des architectures déployées sur l’infonuagique, notamment en établissant une feuille de route pour une migration graduelle des systèmes existants. 
+
+**Livraison:** visant une optimisation des coûts de livraison des TI, nos Services d’usine logicielle Logi-Labs utilisent une approche locale généralement plus efficace que les options passant par l’étranger. 
+
+**Soutien:** les Services gérés de Logimethods suppriment la complexité et les coûts superflus de soutien et de maintien des infrastructures d’intégration. Dès lors, nos clients peuvent consacrer la totalité de leurs ressources à leurs vraies priorités d’affaires ; Logimethods s’occupant de l’assurance service, de la maintenance et du développement sur demande.  Les entreprises numériques peuvent également tirer profit de la plateforme de Données massives de Logimethods, une solution - basée sur du code source ouvert - extrêmement évolutive aidant à accélérer leur analytique et les efforts d’IdO.
+
 ### Or
 
-<a href="https://softwareag.com" title="Software AG" target="_blank"><img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;"></a>
+<a href="https://softwareag.com" title="Software AG" target="_blank">
+  <img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;">
+</a>
+
+Software AG offre la première Digital Business Platform de bout en bout – basée sur des standards ouverts permettant l‘intégration, la gestion des processus, le développement d’applications adaptives, l’analytique en temps réel 
+et la gestion d‘architecture d’entreprise en tant que fondamentaux essentiels – pour aider les clients à construire leur avenir digital aujourd’hui.
 
 ### Hôtes
 
