@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-excerpt: "Sponsors du Montreal Java User Group et Devoxx4Kids Québec"
+excerpt: "Commanditaires du Montréal Java User Group et Devoxx4Kids Québec"
 modified: 2017-03-07T20:13:38.564948-05:00
 image:
   feature:

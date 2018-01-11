@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsoring
-excerpt: "Plans de sponsoring Montreal Java User Group et Devoxx4Kids Québec"
+excerpt: "Plans de commandite Montréal Java User Group et Devoxx4Kids Québec"
 modified: 2017-03-08T11:09:38.564948-05:00
 image:
   feature:
