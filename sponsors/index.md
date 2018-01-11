@@ -83,3 +83,7 @@ Ils donnent à nos membres divers avantages en nature et matériels (i.e. ordina
 <a href="http://www.normandin-beaudry.ca/" title="Normandin Beaudry" target="_blank"><img src="/images/sponsors/nb.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://devnexus.com/" title="DevNexus" target="_blank"><img src="/images/sponsors/devnexus.png" width="80px" style="vertical-align: top;"></a>
+
+### Donations individuelles
+
+* [Didier Valentin](https://www.docommerce.me/index.html)
