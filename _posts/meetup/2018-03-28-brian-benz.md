@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 247993357
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: brian_benz
 tags: []
 comments: true
