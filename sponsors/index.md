@@ -76,6 +76,8 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 
 Ils donnent à nos membres divers avantages en nature et matériels (i.e. ordinateurs portables usagés) pour le Montréal JUG et le Devoxx4Kids.
 
+<a href="http://www.cgi.com/" title="CGI" target="_blank"><img src="/images/sponsors/cgi.png" width="80px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
 <a href="http://www.testatoo.org/" title="Ovea / testatoo" target="_blank"><img src="/images/sponsors/ovea.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://www.jetbrains.com/" title="JetBrains" target="_blank"><img src="/images/sponsors/jetbrains.png" width="80px" style="vertical-align: top;"></a>
