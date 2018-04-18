@@ -58,6 +58,14 @@ Nos services couvrent l’ensemble des aspects des projets informatiques, de la 
 Software AG offre la première Digital Business Platform de bout en bout – basée sur des standards ouverts permettant l‘intégration, la gestion des processus, le développement d’applications adaptives, l’analytique en temps réel 
 et la gestion d‘architecture d’entreprise en tant que fondamentaux essentiels – pour aider les clients à construire leur avenir digital aujourd’hui.
 
+<a href="http://www.gologic.ca/" title="Gologic" target="_blank">
+  <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
+</a>
+
+L'EXPÉRIENCE DEVOPS À VOTRE PORTÉE!
+
+Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  Automatisons vos processus d’exploitation et implémentons une culture de collaboration ensemble pour laisser place à l’innovation.
+
 ### Hôtes
 
 Ils offrent le gîte et parfois le couvert. Merci à eux.
