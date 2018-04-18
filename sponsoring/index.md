@@ -73,8 +73,9 @@ __Plan de sponsoring (1 an, renouvelable sur demande)__
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3N4FDQ8Y4U5V6">
+<input type="hidden" name="on0" value="Sponsoring Plan">
 <table>
-<tr><td><input type="hidden" name="on0" value="Sponsoring Plan">Sponsoring Plan</td></tr><tr><td><select name="os0">
+  <tr><td><select name="os0">
 	<option value="Platinium">Platinium $1 500,00 CAD</option>
 	<option value="Gold">Gold $750,00 CAD</option>
 </select> </td></tr>
