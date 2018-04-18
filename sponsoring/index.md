@@ -66,25 +66,23 @@ où c'est le plus utile. En nous aidant, vous aidez donc d'abord et avant tout *
 
 ## Achats et dons
 
-__Plan de sponsoring (abonnements annuels)__
+__Plan de sponsoring (1 an, renouvelable sur demande)__
 
 <div style="text-align:center;">
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JPVULGUCZ2P8S">
+<input type="hidden" name="hosted_button_id" value="3N4FDQ8Y4U5V6">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sponsoring Plan">Sponsoring Plan</td></tr><tr><td><select name="os0">
-	<option value="Platinium">Platinium : $1 500,00 CAD - par an</option>
-	<option value="Gold">Gold : $750,00 CAD - par an</option>
+	<option value="Platinium">Platinium $1 500,00 CAD</option>
+	<option value="Gold">Gold $750,00 CAD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="CAD">
-<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-<A HREF="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=89A5GQ84PUL4N"><IMG SRC="https://www.paypalobjects.com/fr_CA/i/btn/btn_unsubscribe_SM.gif" BORDER="0"></A>
 
 </div>
 
