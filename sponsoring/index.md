@@ -66,7 +66,7 @@ où c'est le plus utile. En nous aidant, vous aidez donc d'abord et avant tout *
 
 ## Achats et dons
 
-__Plan de sponsoring__
+__Plan de sponsoring (abonnements annuels)__
 
 <div style="text-align:center;">
 
@@ -88,7 +88,7 @@ __Plan de sponsoring__
 
 </div>
 
-__Annonce__
+__Achat ponctuel d'une annonce__
 
 <div style="text-align:center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -98,7 +98,7 @@ __Annonce__
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form>
 </div>
 
-__Faire un don__
+__Faire un don (ponctuel ou mensuel)__
 
 Vous souhaitez nous aider à fonctionner? Que vous soyez une entreprise ou un particulier, merci d'avance.
 
