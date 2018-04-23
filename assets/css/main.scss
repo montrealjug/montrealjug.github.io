@@ -39,3 +39,10 @@ a:visited {
 #home .entry-wrapper, #page .entry-wrapper {
   max-width: 60em;
 }
+
+.entry-content p>a, .entry-content li>a {
+    border: none;
+}
+.entry-content p>a:hover, .entry-content li>a:hover {
+    border: none;
+}
