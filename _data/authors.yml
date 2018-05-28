@@ -1,5 +1,11 @@
 # Authors
 
+montreal_jug:
+  name: Montréal JUG
+  web: http://www.montreal-jug.org/
+  avatar: http://montreal-jug.org/images/logo.png
+  twitter: montrealjug
+
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
@@ -21,7 +27,7 @@ anis_kadri:
 henri_tremblay:
   name: Henri Tremblay
   web: http://blog.tremblay.pro/
-  avatar: https://media.licdn.com/mpr/mpr/p/2/000/084/0c9/2e9c8af.jpg
+  avatar: http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03
   twitter: henri_tremblay
 
 adib_saikali:
