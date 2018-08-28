@@ -56,7 +56,7 @@ Nos services couvrent l’ensemble des aspects des projets informatiques, de la 
 
 Plusgrade est le numéro un mondial des solutions de surclassement pour les compagnies aériennes. Un segment-clé dans le domaine à forte croissance des revenus accessoires et du marchandisages dans l’industrie globale du voyage.
 
-Les solutions logicielles de notre compagnie permettre à notre portefeuille de plus de 60 compagnies aériennes d'améliorer et d’optimiser leur revenus. La plateforme SaaS propriétaire de Plusgrade a reçu l’approbation de nombreux participants à travers l’industrie et plusieurs publications de médias reconnus. Pour la deuxième année consécutive, Plusgrade a été honorée par les listes Deloitte Technology Fast 50™ (Canada) et Fast 500™(North America) pour les compagnies technologiques en rapide croissance.
+Les solutions logicielles de notre compagnie permettent à notre portefeuille de plus de 60 compagnies aériennes d'améliorer et d’optimiser leur revenus. La plateforme SaaS propriétaire de Plusgrade a reçu l’approbation de nombreux participants à travers l’industrie et plusieurs publications de médias reconnus. Pour la deuxième année consécutive, Plusgrade a été honorée par les listes Deloitte Technology Fast 50™ (Canada) et Fast 500™(North America) pour les compagnies technologiques en rapide croissance.
 
 Fondée en 2009, Plusgrade possède des bureaux à Montréal et New York, et bientôt, Singapour.
 
