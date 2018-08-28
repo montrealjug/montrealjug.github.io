@@ -49,6 +49,17 @@ Nos services couvrent l’ensemble des aspects des projets informatiques, de la 
 
 **Soutien:** les Services gérés de Logimethods suppriment la complexité et les coûts superflus de soutien et de maintien des infrastructures d’intégration. Dès lors, nos clients peuvent consacrer la totalité de leurs ressources à leurs vraies priorités d’affaires ; Logimethods s’occupant de l’assurance service, de la maintenance et du développement sur demande.  Les entreprises numériques peuvent également tirer profit de la plateforme de Données massives de Logimethods, une solution - basée sur du code source ouvert - extrêmement évolutive aidant à accélérer leur analytique et les efforts d’IdO.
 
+
+<a href="http://www.plusgrade.com" title="Plusgrade" target="_blank">
+  <img src="/images/sponsors/plusgrade.png" width="400px" style="vertical-align: top;">
+</a>
+
+Plusgrade est le numéro un mondial des solutions de surclassement pour les compagnies aériennes. Un segment-clé dans le domaine à forte croissance des revenus accessoires et du marchandisages dans l’industrie globale du voyage.
+
+Les solutions logicielles de notre compagnie permettre à notre portefeuille de plus de 60 compagnies aériennes d'améliorer et d’optimiser leur revenus. La plateforme SaaS propriétaire de Plusgrade a reçu l’approbation de nombreux participants à travers l’industrie et plusieurs publications de médias reconnus. Pour la deuxième année consécutive, Plusgrade a été honorée par les listes Deloitte Technology Fast 50™ (Canada) et Fast 500™(North America) pour les compagnies technologiques en rapide croissance.
+
+Fondée en 2009, Plusgrade possède des bureaux à Montréal et New York, et bientôt, Singapour.
+
 ### Or
 
 <a href="https://softwareag.com" title="Software AG" target="_blank">
