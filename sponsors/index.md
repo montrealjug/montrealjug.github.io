@@ -60,6 +60,12 @@ Les solutions logicielles de notre compagnie permettent à notre portefeuille de
 
 Fondée en 2009, Plusgrade possède des bureaux à Montréal et New York, et bientôt, Singapour.
 
+<a href="http://www.desjardins.com" title="Desjardins" target="_blank">
+  <img src="/images/sponsors/desjardins-digitale.png" width="400px" style="vertical-align: top;">
+</a>
+
+Desjardins Digital est un nouveau centre de développement de solutions numériques s'appuyant sur les meilleures pratiques de l'Agile et du Devops. Nous sommes un des leviers prioritaires pour accélérer la transformation numérique du Mouvement Desjardins. Notre mandat est de transformer la façon dont les technologies sont développées et déployées, en réinventant l'expérience des membres et clients, afin de mieux répondre aux attentes de ceux-ci tout en générant de la valeur en continu. Situés au centre-ville de Montréal, nous sommes une usine numérique combinant l'agilité et la convivialité d'une startup aux ressources et les moyens d'une grande entreprise.
+
 ### Or
 
 <a href="https://softwareag.com" title="Software AG" target="_blank">
