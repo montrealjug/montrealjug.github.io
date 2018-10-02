@@ -68,6 +68,14 @@ où c'est le plus utile. En nous aidant, vous aidez donc d'abord et avant tout *
 
 __Plan de sponsoring (1 an, renouvelable sur demande)__
 
+Possibilités de payement: 
+ - Paypal (en ligne)
+ - Virement bancaire (nous contacter pour les coordonnées)
+
+<p><font color="red">ATTENTION!</font></p>
+
+Il y a des frais de transaction (Paypal) qui s'ajoutent lors d'un paiement en ligne.
+
 <div style="text-align:center;">
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
