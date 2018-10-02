@@ -72,7 +72,7 @@ Possibilités de payement:
  - Paypal (en ligne)
  - Virement bancaire (nous contacter pour les coordonnées)
 
-<p><font color="red">ATTENTION!</font></p>
+<font color="red">ATTENTION!</font>
 
 Il y a des frais de transaction (Paypal) qui s'ajoutent lors d'un paiement en ligne.
 
