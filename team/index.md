@@ -15,7 +15,7 @@ L'équipe Montreal JUG et Devoxx4Kids organise les conférence mensuelle pour ad
 
 - David Avenante (david@montreal-jug.org)
 - Henri Tremblay (henri@montreal-jug.org)
-- Mathieu Carbou (mathieu@montreal-jug.org)
+- <img class="bio-photo" src="https://www.gravatar.com/avatar/9db6fc82f800e193111dd725dd3a7b52?s=100"></img> Mathieu Carbou (mathieu@montreal-jug.org)
 - Jérémie Lagarde (jeremie@montreal-jug.org)
 - Alex Snaps (alex@montreal-jug.org)
 - Xavier Bouclet (xavier@montreal-jug.org)
