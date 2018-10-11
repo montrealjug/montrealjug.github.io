@@ -46,3 +46,10 @@ a:visited {
 .entry-content p>a:hover, .entry-content li>a:hover {
     border: none;
 }
+
+.bio-member {
+  display: inline-block !important;
+  width: auto  !important;
+  height: auto  !important;
+  margin-right: 20px;
+}
