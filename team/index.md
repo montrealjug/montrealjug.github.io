@@ -29,7 +29,7 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les ateliers Devoxx4Kids pour les enfants!
 
 - Aurélie Moreau
-- Isabelle
+- Isabelle Joachim
 - Benjamin Lallement
 - Christophe Blot
 - Frédéric Minatchy
