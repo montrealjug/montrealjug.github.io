@@ -66,14 +66,14 @@ Fondée en 2009, Plusgrade possède des bureaux à Montréal et New York, et bie
 
 Desjardins Digital est un nouveau centre de développement de solutions numériques s'appuyant sur les meilleures pratiques de l'Agile et du Devops. Nous sommes un des leviers prioritaires pour accélérer la transformation numérique du Mouvement Desjardins. Notre mandat est de transformer la façon dont les technologies sont développées et déployées, en réinventant l'expérience des membres et clients, afin de mieux répondre aux attentes de ceux-ci tout en générant de la valeur en continu. Situés au centre-ville de Montréal, nous sommes une usine numérique combinant l'agilité et la convivialité d'une startup aux ressources et les moyens d'une grande entreprise.
 
-### Or
-
-<a href="https://softwareag.com" title="Software AG" target="_blank">
-  <img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;">
+<a href="https://weareadaptive.com" title="Adaptive" target="_blank">
+  <img src="/images/sponsors/weareadaptive.png" width="400px" style="vertical-align: top;">
 </a>
 
-Software AG offre la première Digital Business Platform de bout en bout – basée sur des standards ouverts permettant l‘intégration, la gestion des processus, le développement d’applications adaptives, l’analytique en temps réel 
-et la gestion d‘architecture d’entreprise en tant que fondamentaux essentiels – pour aider les clients à construire leur avenir digital aujourd’hui.
+Chez Adaptive nous sommes spécialisés dans le développement de plateforme de courtage en temps réel. Conscients que cette technologie apporte de profondes modifications aux pratiques d’affaires du monde de la finance, nous travaillons de pair avec nos clients pour leur délivrer des solutions sur mesure.
+Nous concevons, produisons et opérons des solutions technologiques de dernier cri pour des clients tels que des banques d’investissement et des entreprises de commodités parmis les plus importantes au monde.
+Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexes du courtage en temps réel et en simplifie le développement, le déploiement et le support, permettant ainsi de prioriser la conception de la logique d'affaires dès le début du projet.
+### Or
 
 <a href="http://www.gologic.ca/" title="Gologic" target="_blank">
   <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
