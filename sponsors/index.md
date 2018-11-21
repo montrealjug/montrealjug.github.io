@@ -26,15 +26,6 @@ Kronos is the global leader in workforce management solutions that enable organi
 
 Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
-<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
-  <img src="/images/sponsors/desjardins.jpg" width="400px" style="vertical-align: top;">
-</a>
-
-La mission du mouvement Desjardins est de contribuer au mieux-être économique et social des personnes et des collectivités dans les limites compatibles de notre champ d'action:
-
-* en développant un réseau coopératif intégré de services financiers sécuritaires et rentables, sur une base permanente, propriété des membres et administré par eux, et un réseau d'entreprises financières complémentaires, à rendement concurrentiel et contrôlé par eux.
-* en faisant l'éducation à la démocratie, à l'économie, à la solidarité et à la responsabilité individuelle et collective, particulièrement auprès de nos membres, de nos dirigeants et de nos employés.
-
 <a href="http://logimethods.com/" title="Logimethods" target="_blank">
   <img src="/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
 </a>
@@ -73,6 +64,15 @@ Desjardins Digital est un nouveau centre de développement de solutions numériq
 Chez Adaptive nous sommes spécialisés dans le développement de plateforme de courtage en temps réel. Conscients que cette technologie apporte de profondes modifications aux pratiques d’affaires du monde de la finance, nous travaillons de pair avec nos clients pour leur délivrer des solutions sur mesure.
 Nous concevons, produisons et opérons des solutions technologiques de dernier cri pour des clients tels que des banques d'investissement et des entreprises de commodités parmis les plus importantes au monde.
 Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexes du courtage en temps réel et en simplifie le développement, le déploiement et le support, permettant ainsi de prioriser la conception de la logique d'affaires dès le début du projet.
+
+<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
+  <img src="/images/sponsors/desjardins-admin.png" width="400px" style="vertical-align: top;">
+</a>
+
+La mission du mouvement Desjardins est de contribuer au mieux-être économique et social des personnes et des collectivités dans les limites compatibles de notre champ d'action:
+
+* en développant un réseau coopératif intégré de services financiers sécuritaires et rentables, sur une base permanente, propriété des membres et administré par eux, et un réseau d'entreprises financières complémentaires, à rendement concurrentiel et contrôlé par eux.
+* en faisant l'éducation à la démocratie, à l'économie, à la solidarité et à la responsabilité individuelle et collective, particulièrement auprès de nos membres, de nos dirigeants et de nos employés.
 
 ### Or
 
