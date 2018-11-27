@@ -12,7 +12,7 @@ comments: true
 share: true
 image:
   feature:
-date: 2018-11-29T17:30:00-04:00
+date: 2018-12-11T17:30:00-05:00
 ---
 
 How would you apply an algorithm over hundreds of million data points?
