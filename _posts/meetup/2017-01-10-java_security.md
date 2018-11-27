@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La sécurité Java en 2017"
+title: "La sécurité Java en 2017, par Philippe Arteau"
 excerpt: ""
 meetup: 236640158
 modified:

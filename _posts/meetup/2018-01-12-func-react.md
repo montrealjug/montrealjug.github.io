@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Functional to Reactive Programming by Venkat Subramaniam"
+title: "From Functional to Reactive Programming, by Venkat Subramaniam"
 excerpt: ""
 meetup: 246013593
 modified:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Security and Oauth 2 by Carlos Salazar"
+title: "Spring Security and Oauth 2, by Carlos Salazar"
 excerpt: ""
 meetup: 243825218
 modified:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Conversation about Performance"
+title: "A Conversation about Performance, by Kirk Pepperdine"
 excerpt: ""
 meetup: 237430158
 modified:
