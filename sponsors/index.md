@@ -74,6 +74,15 @@ La mission du mouvement Desjardins est de contribuer au mieux-être économique 
 * en développant un réseau coopératif intégré de services financiers sécuritaires et rentables, sur une base permanente, propriété des membres et administré par eux, et un réseau d'entreprises financières complémentaires, à rendement concurrentiel et contrôlé par eux.
 * en faisant l'éducation à la démocratie, à l'économie, à la solidarité et à la responsabilité individuelle et collective, particulièrement auprès de nos membres, de nos dirigeants et de nos employés.
 
+<a href="https://www.intactlab.ca/" title="Intact Lab" target="_blank">
+  <img src="/images/sponsors/intact.png" width="400px" style="vertical-align: top;">
+</a>
+
+En tant que labo d’innovation pour Intact Corporation financière, nous réinventons entièrement l’expérience en assurance par le design, les produits et la solution logicielle. 
+Et ça ne s’arrête pas là. 
+Nous redéfinissons le travail dans notre industrie. 
+Rien que ça.
+
 ### Or
 
 <a href="http://www.gologic.ca/" title="Gologic" target="_blank">
