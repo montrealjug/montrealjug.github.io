@@ -14,16 +14,10 @@ image:
   feature:
 date: 2019-01-11T00:00:00-05:00
 ---
-Hier, le Jeudi 10 Janvier, nous avons la chance d'accueillir deux conférenciers de renom lors de notre session mensuelle : Pratik Patel () et Josh Long.
+Hier, le Jeudi 10 Janvier, nous avons la chance d'accueillir deux conférenciers de renom lors de notre session mensuelle : [Pratik Patel](https://twitter.com/prpatel) et [Josh Long](https://twitter.com/starbuxman) lors de [notre rencontre mensuelle de Janvier](https://www.meetup.com/montreal-jug/events/257561730/)
 
-Avant de démarrer les sessions, l'équipe du JUG a remercié ses sponsors et en particulier Desjardins pour nous avoir réservé l'excellente de Bell Canada sur la rue du Beaver Hall.
+Avant de démarrer les sessions, l'équipe du JUG a remercié ses sponsors et en particulier Desjardins pour nous avoir réservé l'excellente salle  de Bell Canada sur la rue du Beaver Hall.
 
-L'équipe a aussi rappelé que la conférence Dawscon avait lieu le 11 Janvier, ainsi que Confoo du 11 au 15 Mars (bravo à nos 2 gagnants Kévin CS et Olivier M qui ont gagné chacun une entrée lors des tirages en Novembre et Décembre)
+L'équipe a aussi rappelé que la [conférence Dawscon](https://www.dawsoncollege.qc.ca/dawscon/) aurait lieu le 11 Janvier, ainsi que [Confoo](https://confoo.ca/fr) du 11 au 15 Mars (bravo à nos 2 gagnants Kévin C.S. et Olivier M. qui ont gagné chacun une entrée lors des tirages en Novembre et Décembre)
 
-Bonjour,
-
-Le prochain [Devoxx4Kids](http://www.devoxx4kids.org/) aura lieu le __samedi 10 février 2018__!
-
-Inscription: [https://goo.gl/1nkBLp](https://goo.gl/1nkBLp)
-
-Sponsors: [http://www.devoxx4kids.org/quebec/sponsors/](http://www.devoxx4kids.org/quebec/sponsors/)
+La prochaine rencontre qui aura lieu en Février sera annoncée sous peu !
