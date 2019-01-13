@@ -5,7 +5,7 @@ excerpt:
 meetup:
 modified:
 categories: blog
-hidden: true
+hidden: false
 author: Anthony Dahanne
 tags: []
 comments: true
