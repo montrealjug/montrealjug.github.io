@@ -23,7 +23,7 @@ L'équipe a aussi rappelé que la [conférence Dawscon](https://www.dawsoncolleg
 __Cadeaux !__
 
 * Bravo à nos 2 gagnants Kévin C.S. et Olivier M. qui ont gagné chacun une entrée offerte par Confoo lors des tirages en Novembre et Décembre !
-* Bravo à nos 2 gagnants Christian B. et Olivier M. (chanceux !) qui ont gagné chacune une license pour Intellij IDEA ultimate !
+* Bravo à nos 2 gagnants Christian B. et Olivier M. (chanceux !) qui ont gagné chacun une license pour Intellij IDEA ultimate !
 
 
 La prochaine rencontre qui aura lieu en Février sera annoncée sous peu !
