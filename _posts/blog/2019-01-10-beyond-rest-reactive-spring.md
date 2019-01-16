@@ -18,6 +18,12 @@ Hier, le Jeudi 10 Janvier, nous avons la chance d'accueillir deux conférenciers
 
 Avant de démarrer les sessions, l'équipe du JUG a remercié ses sponsors et en particulier Desjardins pour nous avoir réservé l'excellente salle  de Bell Canada sur la rue du Beaver Hall.
 
-L'équipe a aussi rappelé que la [conférence Dawscon](https://www.dawsoncollege.qc.ca/dawscon/) aurait lieu le 11 Janvier, ainsi que [Confoo](https://confoo.ca/fr) du 11 au 15 Mars (bravo à nos 2 gagnants Kévin C.S. et Olivier M. qui ont gagné chacun une entrée lors des tirages en Novembre et Décembre)
+L'équipe a aussi rappelé que la [conférence Dawscon](https://www.dawsoncollege.qc.ca/dawscon/) aurait lieu le 11 Janvier, ainsi que [Confoo](https://confoo.ca/fr) du 11 au 15 Mars
+
+__Cadeaux !__
+
+* Bravo à nos 2 gagnants Kévin C.S. et Olivier M. qui ont gagné chacun une entrée offerte par Confoo lors des tirages en Novembre et Décembre !
+* Bravo à nos 2 gagnants Christian B. et Olivier M. (chanceux !) qui ont gagné chacune une license pour Intellij IDEA ultimate !
+
 
 La prochaine rencontre qui aura lieu en Février sera annoncée sous peu !
