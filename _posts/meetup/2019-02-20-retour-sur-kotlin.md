@@ -2,7 +2,7 @@
 layout: post
 title: "Retour sur Kotlin, par Vincent Tence"
 excerpt: ""
-meetup: 257561730
+meetup: 258311418
 modified:
 categories: meetup
 hidden: false
