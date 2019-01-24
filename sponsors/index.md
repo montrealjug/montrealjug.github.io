@@ -79,9 +79,7 @@ La mission du mouvement Desjardins est de contribuer au mieux-être économique 
 </a>
 
 En tant que labo d’innovation pour Intact Corporation financière, nous réinventons entièrement l’expérience en assurance par le design, les produits et la solution logicielle. 
-Et ça ne s’arrête pas là. 
-Nous redéfinissons le travail dans notre industrie. 
-Rien que ça.
+Véritable startup au sein d’une grande entreprise, nous remettons en question les règles établies et cultivons les idées rebelles, tout ça dans le plaisir!
 
 ### Or
 
