@@ -26,20 +26,6 @@ Kronos is the global leader in workforce management solutions that enable organi
 
 Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
-<a href="http://logimethods.com/" title="Logimethods" target="_blank">
-  <img src="/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
-</a>
-
-Logimethods accompagne ses clients dans l’adoption réussie des technologies informatiques requises pour la transformation numérique. 
-Ceci grâce à ses compétences et expertises spécifiques, incluant des accélérateurs couvrant le cycle de vie complet des solutions. 
-Nos services couvrent l’ensemble des aspects des projets informatiques, de la gouvernance globale à la gestion opérationnelle, en passant par l’architecture ainsi que par la réalisation.
-
-**Architecture:** nos services-conseils permettent aux organisations de tirer pleinement parti des architectures déployées sur l’infonuagique, notamment en établissant une feuille de route pour une migration graduelle des systèmes existants. 
-
-**Livraison:** visant une optimisation des coûts de livraison des TI, nos Services d’usine logicielle Logi-Labs utilisent une approche locale généralement plus efficace que les options passant par l’étranger. 
-
-**Soutien:** les Services gérés de Logimethods suppriment la complexité et les coûts superflus de soutien et de maintien des infrastructures d’intégration. Dès lors, nos clients peuvent consacrer la totalité de leurs ressources à leurs vraies priorités d’affaires ; Logimethods s’occupant de l’assurance service, de la maintenance et du développement sur demande.  Les entreprises numériques peuvent également tirer profit de la plateforme de Données massives de Logimethods, une solution - basée sur du code source ouvert - extrêmement évolutive aidant à accélérer leur analytique et les efforts d’IdO.
-
 
 <a href="http://www.plusgrade.com" title="Plusgrade" target="_blank">
   <img src="/images/sponsors/plusgrade.png" width="400px" style="vertical-align: top;">
