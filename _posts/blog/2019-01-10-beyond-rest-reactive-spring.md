@@ -6,7 +6,7 @@ meetup:
 modified:
 categories: blog
 hidden: false
-author: Anthony Dahanne
+author: anthony_dahanne
 tags: []
 comments: true
 share: true
