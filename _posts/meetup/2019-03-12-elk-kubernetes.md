@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Soirée spéciale \"Confoo\" / Confoo Evening"
+title: "Elastic Search / Kubernetes Service Mesh"
 excerpt: ""
 meetup: 259314381
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: montreal_jug
 tags: []
 comments: true
@@ -14,9 +14,9 @@ image:
   feature:
 date: 2019-03-12T17:30:00-04:00
 ---
-Nous vous proposons pour notre prochain meetup soirée spéciale "Confoo" avec deux speakers venus d’Europe.
+Nous vous proposons pour notre prochain meetup soirée "Elastic Search et Kubernetes Service Mesh" avec deux speakers venus d’Europe.
 
-For the next meeting, we have a special "Confoo" evening with two speakers coming from Europe.
+For the next meeting, we have a special "Elastic Search and Kubernetes Service Mesh" evening with two speakers coming from Europe.
 
 __1. Cloud Native, Service-Meshed Java Enterprise With Istio (in English / en Anglais)__
 
