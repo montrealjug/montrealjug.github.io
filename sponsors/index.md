@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-Grâce à eux, le JUG, mais aussi <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a> peuvent 
+Grâce à eux, le [JUG](http://www.montreal-jug.org/), mais aussi <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a> peuvent 
 vivre et s'épanouir.
  
 De notre part et de tous les enfants que vous rendez heureux, **merci**.
