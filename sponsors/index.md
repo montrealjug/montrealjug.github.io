@@ -67,6 +67,13 @@ La mission du mouvement Desjardins est de contribuer au mieux-être économique 
 En tant que labo d’innovation pour Intact Corporation financière, nous réinventons entièrement l’expérience en assurance par le design, les produits et la solution logicielle. 
 Véritable startup au sein d’une grande entreprise, nous remettons en question les règles établies et cultivons les idées rebelles, tout ça dans le plaisir!
 
+<a href="https://alithya.com/" title="Alithya" target="_blank">
+  <img src="/images/sponsors/alithya.png" width="400px" style="vertical-align: top;">
+</a>
+
+Alithya est un chef de file en stratégie et en technologies numériques, regroupant 2 000 professionnels hautement qualifiés partout au Canada, aux États-Unis et en Europe. Notre offre intégrée fait de nous un partenaire de choix pour concevoir et bâtir des solutions numériques novatrices et efficaces pour répondre aux enjeux d’affaires complexes. 
+Alithya is a leader in strategy and digital technology, with 2,000 professionals in Canada, the US and Europe. Our integrated offerings position us as a leading digital technology partner, highly skilled in designing and building innovative and efficient digital solutions for complex business challenges.
+
 ### Or
 
 <a href="http://www.gologic.ca/" title="Gologic" target="_blank">
