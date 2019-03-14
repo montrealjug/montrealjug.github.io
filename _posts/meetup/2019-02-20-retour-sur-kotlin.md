@@ -3,7 +3,7 @@ layout: post
 title: "Retour sur Kotlin, par Vincent Tence"
 excerpt: ""
 meetup: 258311418
-modified:
+modified: 2019-03-14T17:30:00-05:00
 categories: meetup
 hidden: false
 author: vincent_tence
@@ -16,6 +16,16 @@ date: 2019-02-20T17:30:00-05:00
 ---
 
 __Retour sur Kotlin, par Vincent Tence__
+
+Le Mercredi 20 Février, nous avons eu droit à une présentation sur Kotlin par Vincent Tence.
+
+Voici [les diapositives de sa présentation sur Kotlin](https://github.com/montrealjug/montrealjug.github.io/raw/master/_posts/meetup/Kotlin%20-%20JUG%2020%20fe%CC%81vrier%202019.pdf).
+
+__Cadeaux !__
+
+* Bravo à nos 2 gagnants Hector S. et Kevin C.S. qui ont gagné chacun une license pour Intellij IDEA ultimate !
+
+__Annonce Originale__
 
 La communauté des développeurs Kotlin prend de l’ampleur chaque année, et pourtant le taux d’adoption pour les développements en dehors de l’univers mobile reste encore modeste.
 
