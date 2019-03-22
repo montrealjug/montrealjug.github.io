@@ -55,8 +55,6 @@ __Saison:__ de Septembre à Juin
 Nous ne pouvons pas pas garantir le nombre de conférences (JUG) et ateliers (Devoxx4Kids).
 <br>Les plans ne sont pas exclusifs: nous acceptons plusieurs sponsors avec le même plan.
 
-`*` Pour l’événement dans la salle
-
 ## Utilisation des fonds
 
 Le Montréal JUG est une OBNL. Les fonds sont utilisés pour
