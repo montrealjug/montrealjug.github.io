@@ -13,7 +13,7 @@ image:
 une visibilité conséquente dans le monde Java à Montréal.
 
 Être commanditaire du Montréal JUG, c'est aussi être commenditaire de <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
-s'agit de la branche montréalaise d'un **mouvement mondial** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
+s'agit de la branche montréalaise d'un **[mouvement mondial](http://www.devoxx4kids.org/events/)** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
 robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
 enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
 
