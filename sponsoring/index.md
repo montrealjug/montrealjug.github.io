@@ -30,7 +30,7 @@ De leur part et de notre part, **merci**.
 | __Fréquence__ | 1 conférence par mois, ou plus si possible | ~ 2 journées d’ateliers par an, ou plus si possible |
 | __Audience (RSVP)__ | ~ 65 personnes / conférence<br>Parmi les plus gros au monde! | ~ 80-100 enfants / journée<br> ~ 8 workshops / journée |
 | __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
-| __Membres__ | ~2250 membres (mars 2019)<br>~ 40 nouveaux membres / mois (2014-2019) | N/A |
+| __Membres__ | ~2250 membres (mars 2019)<br>~ 40 nouveaux membres / mois | N/A |
 | __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10<br>2017-2018: 10<br>2018-2019: A venir | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 3<br>2018: 3<br>2019: A venir |
 
 ## Plans de commandite
