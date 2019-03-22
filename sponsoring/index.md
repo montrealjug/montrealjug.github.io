@@ -44,11 +44,11 @@ __Saison:__ de Septembre à Juin
 
 |                                                   | __Diamant__ | __Platine__ | __Or__      | __Hébergeur__ |
 |---------------------------------------------------|:-----------:|:-----------:|:-----------:|:-------------:|
-| __Présence sur le site Web__                      | ✅ (grand)  | ✅ (moyen)  | ✅ (petit) | ❌            |
+| __Présence sur le site Web__                      | ✅<br/>(grand)  | ✅<br/>(moyen)  | ✅<br/>(petit) | ❌            |
 | __Présence sur le groupe Meetup__                 | ✅          | ✅          | ✅         | ❌            |
 | __Présence dans les annonces des conférences__    | ✅          | ✅          | ✅         | ❌            |
-| __Présence sur l'écran au début des conférences__ | ✅ (grand)  | ✅ (moyen)  | ✅ (petit) | ❌            |
-| __Annonce sur notre mailing-list__                | ✅ (6/an)   | ❌          | ❌         | ❌            |
+| __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)  | ✅<br/>(moyen)  | ✅<br/>(petit) | ❌            |
+| __Annonce sur notre mailing-list__                | ✅<br/>(6/an)   | ❌          | ❌         | ❌            |
 | __Discours de 5min avant la conférence__          | ❌          | ❌          | ❌         | ✅            |
 | __Prix par saison__                               | 3,000$      | 1,500$      | 750$        | Gratuit       |
 
