@@ -49,7 +49,7 @@ __Saison:__ de Septembre à Juin
 | __Présence dans les annonces des conférences__    | ✅          | ✅          | ✅         | ❌            |
 | __Présence sur l'écran au début des conférences__ | ✅ (grand)  | ✅ (moyen)  | ✅ (petit) | ❌            |
 | __Annonce sur notre mailing-list__                | ✅ (6/an)   | ❌          | ❌         | ❌            |
-| __Annonce sur place lors des conférences__        | ❌          | ❌          | ❌         | ✅            |
+| __Discours de 5min avant la conférence__          | ❌          | ❌          | ❌         | ✅            |
 | __Prix par saison__                               | 3,000$      | 1,500$      | 750$        | Gratuit       |
 
 Nous ne pouvons pas pas garantir le nombre de conférences (JUG) et ateliers (Devoxx4Kids).
