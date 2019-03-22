@@ -53,3 +53,25 @@ a:visited {
   height: auto  !important;
   margin-right: 20px;
 }
+
+.social-icons.sponsors {
+  border-bottom: lightgray solid 1px;
+  padding-bottom: 1em;
+}
+
+.social-icons.sponsors img {
+  vertical-align: top;
+}
+
+.social-icons.sponsors.diamant img {
+  max-height: 130px;
+}
+
+.social-icons.sponsors.platinium img {
+    max-height: 100px;
+}
+
+.social-icons.sponsors.gold img {
+    max-height: 60px;
+}
+
