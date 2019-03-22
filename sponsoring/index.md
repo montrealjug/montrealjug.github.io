@@ -48,7 +48,7 @@ __Saison:__ de Septembre à Juin
 | __Présence sur le groupe Meetup__                 | ✅          | ✅          | ✅         | ❌            |
 | __Présence dans les annonces des conférences__    | ✅          | ✅          | ✅         | ❌            |
 | __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)  | ✅<br/>(moyen)  | ✅<br/>(petit) | ❌            |
-| __Annonce sur notre mailing-list__                | ✅<br/>(6/an)   | ❌          | ❌         | ❌            |
+| __Annonce sur notre mailing-list__                | ✅<br/>(8/an)   | ❌          | ❌         | ❌            |
 | __Discours de 5min avant la conférence__          | ❌          | ❌          | ❌         | ✅            |
 | __Prix par saison__                               | 3,000$      | 1,500$      | 750$        | Gratuit       |
 
