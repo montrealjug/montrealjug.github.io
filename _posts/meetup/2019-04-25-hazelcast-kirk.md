@@ -2,7 +2,7 @@
 layout: post
 title: "Trouble with Memory / Low latency in applications by Kirk Pepperdine and Joe Sherwin"
 excerpt: ""
-meetup: xxxx
+meetup: 260466213
 modified:
 categories: meetup
 hidden: false
