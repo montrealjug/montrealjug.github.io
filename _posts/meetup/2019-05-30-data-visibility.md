@@ -2,10 +2,10 @@
 layout: post
 title: "Comprendre la visibilité des données en Java par Henri Tremblay"
 excerpt: ""
-meetup: 260466213
+meetup: 261439355
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: henri_tremblay
 tags: []
 comments: true
