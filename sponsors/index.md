@@ -92,6 +92,16 @@ Nous fournissons des services de gestion et de transmission d'exécutions aux ma
 Nous offrons aussi bien des plates-formes de transactions électroniques, des données de marché, qu’une infrastructure financière infonuagique mondiale. 
 Nous avons la suite technologique la plus complète et la plus conforme de l’industrie.
 
+<a href="https://www.ei3.com" title="ei3" target="_blank">
+  <img src="/images/sponsors/ei3.png" width="140px" style="vertical-align: top;">
+</a>
+
+ei3 is both cutting edge and rooted in history. Since 1999, we have been the trusted guide for IIoT visionaries, helping them navigate from connecting machines, through to data collection, to achieve true predictive analytics capabilities. Our no-code approach ensures fast and efficient deployment. We are proud to serve 15000 clients in over 100 countries.
+ 
+By using our private data centers we ensure full security and transparency. We operate in compliance with some of the most stringent security requirements and privacy controls. After an in-depth review, DEKRA Certification B.V. awarded ei3 a certificate of compliance with the International Standard Organization (ISO) 27001:2013.
+ 
+ei3’s data centers are located in the United States, Germany, Switzerland. We have offices in North America and Europe.
+
 ### Hôtes
 
 Ils offrent le gîte et parfois le couvert. Merci à eux.
