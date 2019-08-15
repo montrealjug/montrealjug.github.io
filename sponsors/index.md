@@ -26,23 +26,6 @@ Kronos is the global leader in workforce management solutions that enable organi
 
 Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
 
-
-<a href="http://www.plusgrade.com" title="Plusgrade" target="_blank">
-  <img src="/images/sponsors/plusgrade.png" width="400px" style="vertical-align: top;">
-</a>
-
-Plusgrade est le numéro un mondial des solutions de surclassement pour les compagnies aériennes. Un segment-clé dans le domaine à forte croissance des revenus accessoires et du marchandisages dans l’industrie globale du voyage.
-
-Les solutions logicielles de notre compagnie permettent à notre portefeuille de plus de 60 compagnies aériennes d'améliorer et d’optimiser leur revenus. La plateforme SaaS propriétaire de Plusgrade a reçu l’approbation de nombreux participants à travers l’industrie et plusieurs publications de médias reconnus. Pour la deuxième année consécutive, Plusgrade a été honorée par les listes Deloitte Technology Fast 50™ (Canada) et Fast 500™(North America) pour les compagnies technologiques en rapide croissance.
-
-Fondée en 2009, Plusgrade possède des bureaux à Montréal et New York, et bientôt, Singapour.
-
-<a href="http://www.desjardins.com" title="Desjardins" target="_blank">
-  <img src="/images/sponsors/desjardins-digitale.png" width="400px" style="vertical-align: top;">
-</a>
-
-Desjardins Digital est un nouveau centre de développement de solutions numériques s'appuyant sur les meilleures pratiques de l'Agile et du Devops. Nous sommes un des leviers prioritaires pour accélérer la transformation numérique du Mouvement Desjardins. Notre mandat est de transformer la façon dont les technologies sont développées et déployées, en réinventant l'expérience des membres et clients, afin de mieux répondre aux attentes de ceux-ci tout en générant de la valeur en continu. Situés au centre-ville de Montréal, nous sommes une usine numérique combinant l'agilité et la convivialité d'une startup aux ressources et les moyens d'une grande entreprise.
-
 <a href="https://weareadaptive.com" title="Adaptive" target="_blank">
   <img src="/images/sponsors/weareadaptive.png" width="400px" style="vertical-align: top;">
 </a>
