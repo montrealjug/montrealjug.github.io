@@ -6,7 +6,7 @@ meetup:
 modified:
 categories: blog
 hidden: false
-author: xavier_bouclet
+author: montreal_jug
 tags: []
 comments: true
 share: true
