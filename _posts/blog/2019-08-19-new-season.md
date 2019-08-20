@@ -15,7 +15,7 @@ image:
 date: 2019-08-19T00:00:00-05:00
 ---
 
-__Saison 2019-2020 appel au speaker / 2019-2020 season call for speaker__
+__Saison 2019-2020 appel aux speakers / 2019-2020 season call for speakers__
 
 C’est avec plaisir que nous allons lancer la nouvelle saison du Montreal JUG. 
 Nous sommes à la recherche de speakers  pour nos prochains événements! 
