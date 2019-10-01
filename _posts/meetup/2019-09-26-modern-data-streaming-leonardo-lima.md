@@ -40,5 +40,9 @@ He has more than fourteen years of development and architectural experience on m
 [Lima](https://leomrlima.wordpress.com/author/leomrlima/) is V2COM's primary representative in the JCP Executive Committee since 2014, JSR 363 co-spec lead and was nominated Java Champion in 2017 for fostering use of Java from edge to cloud.
 
 
+__Retour sur l'événement__
 
+Merci à BNC pour les locaux! et Leonardo pour sa présentation!
+
+Félicitations à Martin L. et à Gabriel B. pour avoir gagné chacun une license d'un an pour IntelliJ IDEA Ultimate!
 
