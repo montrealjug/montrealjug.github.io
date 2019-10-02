@@ -6,7 +6,7 @@ meetup: 265316243
 modified:
 categories: meetup
 hidden: false
-author: khartik_lalithraj
+author: karthik_lalithraj
 tags: []
 comments: true
 share: true
