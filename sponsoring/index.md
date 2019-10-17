@@ -19,6 +19,9 @@ enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé �
 
 De leur part et de notre part, **merci**.
 
+![](/images/Flyer%20RECTO.png =400x)
+![](/images/Flyer%20VERSO.png =400x)
+
 ## Statistiques
 
 |  | __Montréal JUG__ | __Devoxx4Kids QC__ |
