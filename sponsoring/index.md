@@ -90,7 +90,7 @@ Des frais de transaction (Paypal) s'ajoutent lors d'un paiement en ligne.
   <tr><td style="border: none;">
 <select name="os0">
   <option value="Diamant">Diamant $3 000,00 CAD</option>
-	<option value="Platine">Gold $1 500,00 CAD</option>
+	<option value="Platine">Platine $1 500,00 CAD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="CAD">
