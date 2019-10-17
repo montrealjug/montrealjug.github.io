@@ -42,7 +42,7 @@ Les anciens plans pour les commanditaires actuels sont [disponibles ici](http://
 
 __Saison:__ de Septembre à Juin
 
-|                                                   | __Diamant__   | __Or__        | __Hébergeur__ |
+|                                                   | __Diamant__   | __Platine__   | __Hébergeur__ |
 |---------------------------------------------------|:-------------:|:-------------:|:-------------:|
 | __Présence sur le site Web__                      | ✅<br/>(grand)| ✅<br/>(petit)| ❌           |
 | __Présence sur le groupe Meetup__                 | ✅            | ✅            | ❌           |
@@ -90,7 +90,7 @@ Des frais de transaction (Paypal) s'ajoutent lors d'un paiement en ligne.
   <tr><td style="border: none;">
 <select name="os0">
   <option value="Diamant">Diamant $3 000,00 CAD</option>
-	<option value="Gold">Gold $1 500,00 CAD</option>
+	<option value="Platine">Gold $1 500,00 CAD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="CAD">
