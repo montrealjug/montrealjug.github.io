@@ -31,7 +31,7 @@ De leur part et de notre part, **merci**.
 | __Audience (RSVP)__ | ~ 65 personnes / conférence<br>Parmi les plus gros au monde! | ~ 80-100 enfants / journée<br> ~ 8 workshops / journée |
 | __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
 | __Membres__ | ~2250 membres (mars 2019)<br>~ 40 nouveaux membres / mois | N/A |
-| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10<br>2017-2018: 10<br>2018-2019: A venir | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 3<br>2018: 3<br>2019: A venir |
+| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10<br>2017-2018: 10<br>2018-2019: 10<br>2019-2020: A venir | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 3<br>2018: 3<br>2019: 3<br>2020: A venir |
 
 ## Plans de commandite
 
@@ -42,15 +42,15 @@ Les anciens plans pour les commanditaires actuels sont [disponibles ici](http://
 
 __Saison:__ de Septembre à Juin
 
-|                                                   | __Diamant__ | __Platine__ | __Or__      | __Hébergeur__ |
-|---------------------------------------------------|:-----------:|:-----------:|:-----------:|:-------------:|
-| __Présence sur le site Web__                      | ✅<br/>(grand)  | ✅<br/>(moyen)  | ✅<br/>(petit) | ❌            |
-| __Présence sur le groupe Meetup__                 | ✅          | ✅          | ✅         | ❌            |
-| __Présence dans les annonces des conférences__    | ✅          | ✅          | ✅         | ❌            |
-| __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)  | ✅<br/>(moyen)  | ✅<br/>(petit) | ❌            |
-| __Annonce sur notre mailing-list__                | ✅<br/>(8/an)   | ❌          | ❌         | ❌            |
-| __Discours de 5min avant la conférence__          | 🏢<br/>(si hébergeur)          | 🏢<br/>(si hébergeur)          | 🏢<br/>(si hébergeur)         | ✅            |
-| __Prix par saison__                               | 3,000$      | 1,500$      | 750$        | Gratuit       |
+|                                                   | __Diamant__   | __Or__        | __Hébergeur__ |
+|---------------------------------------------------|:-------------:|:-------------:|:-------------:|
+| __Présence sur le site Web__                      | ✅<br/>(grand)| ✅<br/>(petit)| ❌           |
+| __Présence sur le groupe Meetup__                 | ✅            | ✅            | ❌           |
+| __Présence dans les annonces des conférences__    | ✅            | ✅            | ❌           |
+| __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)| ✅<br/>(petit)| ❌           |
+| __Annonce sur notre mailing-list__                | ✅<br/>(1x/mois) | ❌         | ❌           |
+| __Discours de 5min avant la conférence__          | 🏢<br/>(si hébergeur) | 🏢<br/>(si hébergeur)| ✅ |
+| __Prix par saison__                               | 3,000$        | 1,500$        | Gratuit       |
 
 Nous ne pouvons pas pas garantir le nombre de conférences (JUG) et ateliers (Devoxx4Kids).
 <br>Les plans ne sont pas exclusifs: nous acceptons plusieurs sponsors avec le même plan.
@@ -90,8 +90,7 @@ Des frais de transaction (Paypal) s'ajoutent lors d'un paiement en ligne.
   <tr><td style="border: none;">
 <select name="os0">
   <option value="Diamant">Diamant $3 000,00 CAD</option>
-	<option value="Platinium">Platinium $1 500,00 CAD</option>
-	<option value="Gold">Gold $750,00 CAD</option>
+	<option value="Gold">Gold $1 500,00 CAD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="CAD">
