@@ -83,17 +83,30 @@ Des frais de transaction (Paypal) s'ajoutent lors d'un paiement en ligne.
 <div style="text-align:center;">
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="3N4FDQ8Y4U5V6">
-<input type="hidden" name="on0" value="Sponsoring Plan">
+
 <table>
-  <tr><td style="border: none;">
-<select name="os0">
-  <option value="Diamant">Diamant $3 000,00 CAD</option>
+<tr><td><input type="hidden" name="on0" value="Sponsoring Plan">Sponsoring Plan</td></tr><tr><td><select name="os0">
+	<option value="Diamant">Diamant $3 000,00 CAD</option>
 	<option value="Platine">Platine $1 500,00 CAD</option>
 </select> </td></tr>
 </table>
+
+<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3YGLS4V8KJBBL">
+<input type="hidden" name="on0" value="Sponsoring Plan">
 <input type="hidden" name="currency_code" value="CAD">
+<table><tr><td style="border: none;">
+<select name="os0">
+  <option value="Diamant">Diamant $3 000,00 CAD</option>
+	<option value="Platine">Platine $1 500,00 CAD</option>
+</select>
+</td></tr></table>
 <input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1">
 </form>
