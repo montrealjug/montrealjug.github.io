@@ -51,8 +51,8 @@ __Saison:__ de Septembre à Juin
 | __Présence sur le groupe Meetup__                 | ✅            | ✅            | ❌           |
 | __Présence dans les annonces des conférences__    | ✅            | ✅            | ❌           |
 | __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)| ✅<br/>(petit)| ❌           |
-| __Annonce sur notre mailing-list__                | ✅<br/>(1x/mois) | ❌         | ❌           |
-| __Discours de 5min avant la conférence__          | 🏢<br/>(si hébergeur) | 🏢<br/>(si hébergeur)| ✅ |
+| __Annonce sur notre mailing-list__                | ✅<br/>(1x/mois)| ✅<br/>1   | ❌           |
+| __Discours de 5min avant la conférence__          | 🏢<br/>(si hébergeur)| 🏢<br/>(si hébergeur)| ✅ |
 | __Prix par saison__                               | 3,000$        | 1,500$        | Gratuit       |
 
 Nous ne pouvons pas pas garantir le nombre de conférences (JUG) et ateliers (Devoxx4Kids).
