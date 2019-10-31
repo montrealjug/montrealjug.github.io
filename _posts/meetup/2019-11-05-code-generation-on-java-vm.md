@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 266093733
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: montreal_jug
 tags: []
 comments: true
@@ -15,11 +15,11 @@ image:
 date: 2019-11-05T17:30:00-04:00
 ---
 
-__Code Generation on the Java VM by Sean Sullivan (en anglais)__
+__Code Generation on the JVM by Sean Sullivan (en anglais)__
 
 * Nous vous proposons ce mois-ci une soirée génération de code sur la machine virtuelle java. 
 Sean Sullivan nous présentera des techniques de génération de code pour accélérer le développement.
-* This month, we offer you a presentation about code generation on the Java VM. 
+* This month, we offer you a presentation about code generation on the JVM. 
 Sean Sullivan will present to us some code generation techniques to speed up development.
 
 __Description__
