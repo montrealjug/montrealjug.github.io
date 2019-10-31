@@ -6,7 +6,7 @@ meetup: 266093733
 modified:
 categories: meetup
 hidden: true
-author: sean_sullivan
+author: montreal_jug
 tags: []
 comments: true
 share: true
