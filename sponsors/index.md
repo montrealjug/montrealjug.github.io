@@ -16,16 +16,6 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 ### Platine
 
-<a href="https://www.kronos.ca/" title="Kronos" target="_blank">
-  <img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
-</a>
-
-Kronos est le leader mondial en solutions de gestion des effectifs qui permettent aux organisations de contrôler les coûts de main-d’œuvre, de minimiser les risques associés à la non-conformité et d’améliorer la productivité.
-
-Kronos is the global leader in workforce management solutions that enable organizations to control labor costs, minimize compliance risk, and improve workforce productivity.
-
-Google Cloud / SAAS HR Software company, 300 employees @Côte-des-Neiges metro, tack : Google Cloud, Angular.js (Angular 4 en 2018), Node.js, Java 8 (Spring), Docker, Kubernetes, Nginx, React.js, C/C++, SCALA …
-
 <a href="https://weareadaptive.com" title="Adaptive" target="_blank">
   <img src="/images/sponsors/weareadaptive.png" width="400px" style="vertical-align: top;">
 </a>
