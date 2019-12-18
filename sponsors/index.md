@@ -14,15 +14,17 @@ vivre et s'épanouir.
  
 De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
-### Platine
+### Diamant
 
 <a href="https://weareadaptive.com" title="Adaptive" target="_blank">
-  <img src="/images/sponsors/weareadaptive.png" width="400px" style="vertical-align: top;">
+  <img src="/images/sponsors/weareadaptive.png" width="600px" style="vertical-align: top;">
 </a>
 
 Chez Adaptive nous sommes spécialisés dans le développement de plateforme de courtage en temps réel. Conscients que cette technologie apporte de profondes modifications aux pratiques d’affaires du monde de la finance, nous travaillons de pair avec nos clients pour leur délivrer des solutions sur mesure.
 Nous concevons, produisons et opérons des solutions technologiques de dernier cri pour des clients tels que des banques d'investissement et des entreprises de commodités parmis les plus importantes au monde.
 Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexes du courtage en temps réel et en simplifie le développement, le déploiement et le support, permettant ainsi de prioriser la conception de la logique d'affaires dès le début du projet.
+
+### Platine
 
 <a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
   <img src="/images/sponsors/desjardins-admin.png" width="400px" style="vertical-align: top;">
@@ -80,8 +82,6 @@ ei3’s data centers are located in the United States, Germany, Switzerland. We 
 Ils offrent le gîte et parfois le couvert. Merci à eux.
 
 <a href="https://www.oracle.com/" title="Oracle" target="_blank"><img src="/images/sponsors/oracle.gif" width="80px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
-<a href="http://hybris.com/" title="SAP Hybris" target="_blank"><img src="/images/sponsors/saphybris.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="http://ulule.ca/" title="Ulule" target="_blank"><img src="/images/sponsors/ulule.jpg" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
