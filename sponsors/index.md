@@ -58,15 +58,6 @@ Alithya is a leader in strategy and digital technology, with 2,000 professionals
 Gologic fournit du services-conseils sur place afin de comprendre vos besoins, d'implémenter une solution et d'utiliser les outils du DevOps dans l'automatisation de vos processus.  Vous avez besoin de services-conseils en DevOps? Nous avons sûrement parmi nous votre DevOps. Nous cultivons et appliquons le DevOps depuis déjà plusieurs années et ce pour tout type d'industrie. Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  Automatisons vos processus d'exploitation et implémentons une culture de collaboration ensemble pour laisser place à l'innovation.<br/>
 L'EXPÉRIENCE DEVOPS À VOTRE PORTÉE! 
 
-<a href="https://www.tradingscreen.com/" title="TradingScreen" target="_blank">
-  <img src="/images/sponsors/tradingscreen.jpg" width="140px" style="vertical-align: top;">
-</a>
-
-TradingScreen est le premier fournisseur mondial de systèmes de négociation d’instruments financiers, tant du côté acheteur que vendeur. 
-Nous fournissons des services de gestion et de transmission d'exécutions aux marchés financiers mondiaux depuis près de deux décennies. 
-Nous offrons aussi bien des plates-formes de transactions électroniques, des données de marché, qu’une infrastructure financière infonuagique mondiale. 
-Nous avons la suite technologique la plus complète et la plus conforme de l’industrie.
-
 <a href="https://www.ei3.com" title="ei3" target="_blank">
   <img src="/images/sponsors/ei3.png" width="140px" style="vertical-align: top;">
 </a>
