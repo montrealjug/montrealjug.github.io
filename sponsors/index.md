@@ -51,7 +51,7 @@ Alithya is a leader in strategy and digital technology, with 2,000 professionals
 
 ### Or
 
-<a href="http://www.gologic.ca/" title="Gologic" target="_blank">
+<a href="https://www.gologic.ca/" title="Gologic" target="_blank">
   <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
 </a>
 
@@ -74,11 +74,11 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 
 <a href="https://www.oracle.com/" title="Oracle" target="_blank"><img src="/images/sponsors/oracle.gif" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
-<a href="http://ulule.ca/" title="Ulule" target="_blank"><img src="/images/sponsors/ulule.jpg" width="80px" style="vertical-align: top;"></a>
+<a href="https://ulule.ca/" title="Ulule" target="_blank"><img src="/images/sponsors/ulule.jpg" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://fr.shopify.ca/" title="Shopify" target="_blank"><img src="/images/sponsors/shopify.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
-<a href="http://notman.org/" title="Notman House" target="_blank"><img src="/images/sponsors/notman.png" width="80px" style="vertical-align: top;"></a>
+<a href="https://notman.org/" title="Notman House" target="_blank"><img src="/images/sponsors/notman.png" width="80px" style="vertical-align: top;"></a>
 
 ### Partenaires
 

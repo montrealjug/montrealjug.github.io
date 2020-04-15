@@ -12,4 +12,4 @@ excerpt: "Tous les Meetups du Montréal JUG"
 {% endfor %}
 </ul>
 
-__Page MEETUP avec détails des conférences:__ [http://www.meetup.com/montreal-jug](http://www.meetup.com/montreal-jug)
+__Page MEETUP avec détails des conférences:__ [https://www.meetup.com/montreal-jug](https://www.meetup.com/montreal-jug)

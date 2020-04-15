@@ -1,31 +1,31 @@
 montreal_jug:
   name: Montréal JUG
   web: https://www.montreal-jug.org/
-  avatar: http://montreal-jug.org/images/logo.png
+  avatar: https://montreal-jug.org/images/logo.png
   twitter: montrealjug
 
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
-  avatar: http://www.gravatar.com/avatar/fb08f7ad59d657604aa6b8024da025e2
+  avatar: https://www.gravatar.com/avatar/fb08f7ad59d657604aa6b8024da025e2
   twitter: JeromeMirc
 
 alex_snaps:
   name: Alex Snaps
   web: https://www.codespot.net
-  avatar: http://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
+  avatar: https://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
   twitter: alexsnaps
 
 anis_kadri:
   name: Anis Kadri
   web: https://imhotep.koalabs.org/
-  avatar: http://pgday.phonegap.com/images/bio/anis.png
+  avatar: https://pgday.phonegap.com/images/bio/anis.png
   twitter: aniskadri
 
 henri_tremblay:
   name: Henri Tremblay
   web: https://blog.tremblay.pro/
-  avatar: http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03
+  avatar: https://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03
   twitter: henri_tremblay
 
 adib_saikali:
@@ -43,7 +43,7 @@ philippe_arteau:
 andreas_grabner:
   name: Andreas Grabner
   web: https://de.slideshare.net/grabnerandi
-  avatar: http://cdn.slidesharecdn.com/profile-photo-grabnerandi-96x96.jpg?cb=1424887435
+  avatar: https://cdn.slidesharecdn.com/profile-photo-grabnerandi-96x96.jpg?cb=1424887435
   twitter: grabnerandi
 
 martin_naumann:
@@ -88,7 +88,7 @@ mike_milinkovich:
 
 nicolas_rigaud:
   name: Nicolas Rigaud
-  web: http://www.ofbotsandmen.com/
+  web: https://www.ofbotsandmen.com/
   avatar: https://pbs.twimg.com/profile_images/554557191307272192/BXugY_M8_400x400.jpeg
   twitter: wtfirl
 
@@ -100,7 +100,7 @@ felix_roberge:
 
 andrus_adamchik:
   name: Andrus Adamchik
-  web: http://bootique.io/
+  web: https://bootique.io/
   avatar: https://pbs.twimg.com/profile_images/698563673783169028/r224fFf9_400x400.jpg
   twitter: andrus_a
 
@@ -130,20 +130,20 @@ heather_vancura:
 
 james_weaver:
   name: James Weaver
-  web: http://javafxpert.com/
+  web: https://javafxpert.com/
   avatar: https://pbs.twimg.com/profile_images/867782750706774016/Q8aCS79Q_400x400.jpg
   twitter: JavaFXpert
 
 jeremie_lagarde:
   name: Jérémie Lagarde
-  web: http://www.devoxx4kids.org/quebec/
+  web: https://www.devoxx4kids.org/quebec/
   avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/070/339/261bdd6.jpg
   twitter: printstacktrace
 
 carlos_salazar:
   name: Carlos Salazar
-  web: http://carlos-salazar.com/
-  avatar: http://carlos-salazar.com/images/intro.png
+  web: https://carlos-salazar.com/
+  avatar: https://carlos-salazar.com/images/intro.png
   twitter: chuucksc
 
 didier_valentin:
@@ -172,26 +172,26 @@ mark_heckler:
 
 bruce_eckel:
   name: Bruce Eckel
-  web: http://bruceeckel.github.io/
+  web: https://bruceeckel.github.io/
   avatar: https://pbs.twimg.com/profile_images/1256829460/image_400x400.jpg
   twitter: BruceEckel
 
 venkat_subramaniam:
   name: Venkat Subramaniam
-  web: http://www.agiledeveloper.com/
+  web: https://www.agiledeveloper.com/
   avatar: https://pbs.twimg.com/profile_images/633469991/venkatsubramaniam_400x400.jpg
   twitter: venkat_s
 
 brian_benz:
   name: Brian Benz
-  web: http://brianbenz.com/
+  web: https://brianbenz.com/
   avatar: https://pbs.twimg.com/profile_images/73144013/headshot1_400x400.jpg
   twitter: bbenz
 
 gologic:
   name: Gologic
   web: https://www.gologic.ca
-  avatar: http://montreal-jug.org/images/gologic_mini.png
+  avatar: https://montreal-jug.org/images/gologic_mini.png
   twitter: GologicMTL
 
 martin_tapp:
@@ -202,8 +202,8 @@ martin_tapp:
 
 josh_long:
   name: Josh Long
-  web: http://joshlong.com/
-  avatar: http://joshlong.com/media/josh-0.png
+  web: https://joshlong.com/
+  avatar: https://joshlong.com/media/josh-0.png
   twitter: starbuxman
 
 louis_jacomet:

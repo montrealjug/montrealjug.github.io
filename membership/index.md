@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-Pour participer aux évènements il suffit de vous inscrire au <a href="http://www.meetup.com/montreal-jug/" target="_blank">meetup</a>. 
+Pour participer aux évènements il suffit de vous inscrire au <a href="https://www.meetup.com/montreal-jug/" target="_blank">meetup</a>. 
 Nous avons des rencontres approximativement mensuelles. En fonction de la langue de l'orateur, la session a lieu en français 
 ou en anglais. 
 
