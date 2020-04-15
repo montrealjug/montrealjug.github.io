@@ -35,6 +35,6 @@ __Carlos Salazar__
 
 Carlos Salazar is the founder of [https://codesolt.com](https://codesolt.com), an online community for Java Developers that offers free online programming courses and has 10k page-views per month.
 
-Also works as a Java Architect at [http://www.totalplay.com.mx](http://www.totalplay.com.mx). the best  Internet Service Provider at Mexico (according to Netflix) and has more than 5 years of experience in companies such as Scotiabank and Avon.
+Also works as a Java Architect at [https://www.totalplay.com.mx](https://www.totalplay.com.mx). the best  Internet Service Provider at Mexico (according to Netflix) and has more than 5 years of experience in companies such as Scotiabank and Avon.
 
 He has been giving tech conferences for the past 2 years in Mexico in front of audiences bigger than 1500 people. Here you can see one of them: [https://www.youtube.com/watch?v=vGsMoD0hLUc](https://www.youtube.com/watch?v=vGsMoD0hLUc)

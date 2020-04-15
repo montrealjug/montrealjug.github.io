@@ -21,8 +21,8 @@ __Andrus Adamchik ([@andrus_a](https://twitter.com/andrus_a)):__
 Andrus Adamchik is a member of the __Apache Software Foundation__ and a passionate open-source developer. 
 He started programming in Java back in 1998, founding a number of open-source projects since then. 
 The first notable project was __Apache Cayenne__, a developer-friendly ORM.
-More recently he created [Bootique](http://bootique.io/), a minimally-opinionated technology for building runnable Java applications. 
-In his dayjob Andrus is an IT entrepreneur, running a great software company called [ObjectStyle](http://www.objectstyle.com/).
+More recently he created [Bootique](https://bootique.io/), a minimally-opinionated technology for building runnable Java applications. 
+In his dayjob Andrus is an IT entrepreneur, running a great software company called [ObjectStyle](https://www.objectstyle.com/).
 
 __No container: a Modern Java Stack with Bootique.io__
 

@@ -17,8 +17,8 @@ date: 2018-01-30T00:00:00-05:00
 
 Bonjour,
 
-Le prochain [Devoxx4Kids](http://www.devoxx4kids.org/) aura lieu le __samedi 10 février 2018__!
+Le prochain [Devoxx4Kids](https://www.devoxx4kids.org/) aura lieu le __samedi 10 février 2018__!
 
 Inscription: [https://goo.gl/1nkBLp](https://goo.gl/1nkBLp)
 
-Sponsors: [http://www.devoxx4kids.org/quebec/sponsors/](http://www.devoxx4kids.org/quebec/sponsors/)
+Sponsors: [https://www.devoxx4kids.org/quebec/sponsors/](https://www.devoxx4kids.org/quebec/sponsors/)

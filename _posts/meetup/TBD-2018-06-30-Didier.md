@@ -17,9 +17,9 @@ date: 2018-01-23T17:30:00-05:00
 
 __2 talks on Slack and Jersey__
 
-1. How to create a Slack app with Java. The slides can be found here: [http://bit.ly/2xIPljX](http://bit.ly/2xIPljX)
+1. How to create a Slack app with Java. The slides can be found here: [https://bit.ly/2xIPljX](https://bit.ly/2xIPljX)
 
-2. How to create a Restful API with Java Jersey. Here are the slides:  [http://bit.ly/2xM3Ogi](http://bit.ly/2xM3Ogi)
+2. How to create a Restful API with Java Jersey. Here are the slides:  [https://bit.ly/2xM3Ogi](https://bit.ly/2xM3Ogi)
 
 __Didier Valentin__
 

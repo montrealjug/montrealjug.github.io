@@ -36,4 +36,4 @@ David partira d'une application Spring Boot/Postgresql/MySQL et ajoutera Elastic
 
 __Présenté par / Presented by: David Pilato__
 
-**David Pilato** est développeur et évangéliste chez elastic.co, après avoir passé les deux années précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française et organise des [BBLs](http://brownbaglunch.fr) au sein des entreprises.
+**David Pilato** est développeur et évangéliste chez elastic.co, après avoir passé les deux années précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française et organise des [BBLs](https://brownbaglunch.fr) au sein des entreprises.

@@ -33,12 +33,12 @@ In this presentation, we'll invite Pepper on stage to do some demos, we’ll dis
 
 [Find out more about Pepper.](https://www.ald.softbankrobotics.com/en/cool-robots/pepper/find-out-more-about-pepper)
 
-![](http://photos1.meetupstatic.com/photos/event/8/7/8/5/600_450154693.jpeg)
+![](https://photos1.meetupstatic.com/photos/event/8/7/8/5/600_450154693.jpeg)
 
 __Sponsors:__
 
 * __Aldeberan__: [https://www.aldebaran.com/](https://www.aldebaran.com/)
-* __Google Montreal__: [http://www.google.ca/about/careers/locations/montreal/](http://www.google.ca/about/careers/locations/montreal/)
+* __Google Montreal__: [https://www.google.ca/about/careers/locations/montreal/](https://www.google.ca/about/careers/locations/montreal/)
 
 __Food and drinks:__
 

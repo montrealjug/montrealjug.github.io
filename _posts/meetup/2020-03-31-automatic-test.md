@@ -29,15 +29,15 @@ __Automatic Test Amplification for Java par Vincent Massol__
 We're all used to writing automated tests in Java projects. 
 It's now time to move up the chain and learn how to implement more complex types of testing.
 
-This talk will demonstrate advanced testing practices used by the [XWiki open source project](http://xwiki.org), and using Java, Maven, Docker and Jenkins and more. 
+This talk will demonstrate advanced testing practices used by the [XWiki open source project](https://xwiki.org), and using Java, Maven, Docker and Jenkins and more. 
 Most of the tests, practices and tools that will be covered are the fruits of the [STAMP European Research Project](https://www.stamp-project.eu/), conducted from 2016 to 2019.
 
 We will talk about:
 
 * Testing for coverage with Jacoco and defining a viable strategy for slowing improving the situation.
-* Testing the quality of your tests with [Descartes Mutation testing](http://massol.myxwiki.org/xwiki/bin/view/Blog/MutationTestingDescartes)
+* Testing the quality of your tests with [Descartes Mutation testing](https://massol.myxwiki.org/xwiki/bin/view/Blog/MutationTestingDescartes)
 * Automatically enriching your test suite with [DSpot](https://github.com/STAMP-project/dspot)
-* Testing various configurations with [Docker, TestContainers and Jenkins](http://massol.myxwiki.org/xwiki/bin/view/Blog/DockerJenkinsConfigurationTesting)
+* Testing various configurations with [Docker, TestContainers and Jenkins](https://massol.myxwiki.org/xwiki/bin/view/Blog/DockerJenkinsConfigurationTesting)
 * Simplifying crash reproduction by automatically generating tests from a stacktrace with [Botsing](https://github.com/STAMP-project/botsing)
 
 __Présenté par Vincent Massol__

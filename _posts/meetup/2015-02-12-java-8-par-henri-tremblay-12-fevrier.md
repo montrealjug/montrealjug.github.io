@@ -35,6 +35,6 @@ Nous allons parcourir ensemble les tréfonds des génériques, de l'inférence e
 
 __Sponsor__
 
-![Guestful](http://photos1.meetupstatic.com/photos/event/7/d/f/7/600_434252247.jpeg)
+![Guestful](https://photos1.meetupstatic.com/photos/event/7/d/f/7/600_434252247.jpeg)
 
 [Guestful](https://www.guestful.com/fr?utm_source=jug) offre 30 rabais de 10$ pour votre prochaine réservation à un restaurant [Dine & GO!](https://www.guestful.com/fr/events/dine-go?utm_source=jug) ou [Saint-Valentin](https://www.guestful.com/fr/events/valentine?utm_source=jug). Le code rabais sera donné durant la conférence.

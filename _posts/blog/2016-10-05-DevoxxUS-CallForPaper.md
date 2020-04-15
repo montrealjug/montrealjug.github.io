@@ -32,7 +32,7 @@ The CFP is now open.  With 10 tracks and over 200 technical presentations planne
 
 The Program Committee, led by Devoxx founder Stephan Janssen, consists of “rock stars” in their respective technologies, and they are looking to seek out the best new speakers, especially from User Groups and JUGs from across North America. 
 
-To submit your talk, or for more information, visit [http://cfp.devoxx.us/](http://cfp.devoxx.us/).  Hurry, because the CFP closes October 11.
+To submit your talk, or for more information, visit [https://cfp.devoxx.us/](https://cfp.devoxx.us/).  Hurry, because the CFP closes October 11.
 
 We look forward to seeing you in San Jose!
 The Devoxx US 2017 Team

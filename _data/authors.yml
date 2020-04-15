@@ -1,6 +1,6 @@
 montreal_jug:
   name: Montréal JUG
-  web: http://www.montreal-jug.org/
+  web: https://www.montreal-jug.org/
   avatar: http://montreal-jug.org/images/logo.png
   twitter: montrealjug
 
@@ -12,19 +12,19 @@ jerome_mirc:
 
 alex_snaps:
   name: Alex Snaps
-  web: http://www.codespot.net
+  web: https://www.codespot.net
   avatar: http://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
   twitter: alexsnaps
 
 anis_kadri:
   name: Anis Kadri
-  web: http://imhotep.koalabs.org/
+  web: https://imhotep.koalabs.org/
   avatar: http://pgday.phonegap.com/images/bio/anis.png
   twitter: aniskadri
 
 henri_tremblay:
   name: Henri Tremblay
-  web: http://blog.tremblay.pro/
+  web: https://blog.tremblay.pro/
   avatar: http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03
   twitter: henri_tremblay
 
@@ -36,19 +36,19 @@ adib_saikali:
 
 philippe_arteau:
   name: Philippe Arteau
-  web: http://blog.h3xstream.com/
+  web: https://blog.h3xstream.com/
   avatar: https://pbs.twimg.com/profile_images/544353818431864832/oYcV5pTz_400x400.png
   twitter: h3xstream
 
 andreas_grabner:
   name: Andreas Grabner
-  web: http://de.slideshare.net/grabnerandi
+  web: https://de.slideshare.net/grabnerandi
   avatar: http://cdn.slidesharecdn.com/profile-photo-grabnerandi-96x96.jpg?cb=1424887435
   twitter: grabnerandi
 
 martin_naumann:
   name: Martin Naumann
-  web: http://geekonaut.de/
+  web: https://geekonaut.de/
   avatar: https://pbs.twimg.com/profile_images/557854072527544320/FcwSt9Wx_200x200.jpeg
   twitter: g33konaut
 

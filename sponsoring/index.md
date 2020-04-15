@@ -12,8 +12,8 @@ image:
 Être commanditaire du Montréal JUG, c'est être commenditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
 une visibilité conséquente dans le monde Java à Montréal.
 
-Être commanditaire du Montréal JUG, c'est aussi être commenditaire de <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
-s'agit de la branche montréalaise d'un **[mouvement mondial](http://www.devoxx4kids.org/events/)** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
+Être commanditaire du Montréal JUG, c'est aussi être commenditaire de <a href="https://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
+s'agit de la branche montréalaise d'un **[mouvement mondial](https://www.devoxx4kids.org/events/)** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
 robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
 enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
 
@@ -26,7 +26,7 @@ De leur part et de notre part, **merci**.
 
 |  | __Montréal JUG__ | __Devoxx4Kids QC__ |
 |--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-| __Sites__ | [Site web](http://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](http://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
+| __Sites__ | [Site web](https://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](https://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
 | __Depuis__ | 2010 | 2014 |
 | __Public__ | Professionnels en informatique<br>Particulièrement en développement Java | Enfants de 5 à 16 ans |
 | __Période__ | Septembre à Juin (10 mois) | Septembre à Juin (10 mois) |
@@ -41,7 +41,7 @@ De leur part et de notre part, **merci**.
 __ATTENTION:__ 
 
 Nos plans de commandite ont changé en mars 2019.<br/>
-Les anciens plans pour les commanditaires actuels sont [disponibles ici](http://www.montreal-jug.org/sponsoring/v1/).
+Les anciens plans pour les commanditaires actuels sont [disponibles ici](https://www.montreal-jug.org/sponsoring/v1/).
 
 __Saison:__ de Septembre à Juin
 

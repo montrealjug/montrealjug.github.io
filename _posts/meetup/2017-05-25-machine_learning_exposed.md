@@ -28,4 +28,4 @@ __James Weaver ([@JavaFXpert](https://twitter.com/JavaFXpert))__
 James Weaver is a Java developer, author and speaker with a passion for helping Java to be increasingly leveraged in cloud-native and machine learning applications.  
 He is a Java Champion, and a JavaOne Rockstar.  James has written books including Inside Java, Beginning J2EE, the Pro JavaFX series, and Java with Raspberry Pi.  
 As an Pivotal Developer Advocate, James speaks internationally at software technology conferences about Java and Cloud Native development. 
-James tweets as [@JavaFXpert](https://twitter.com/JavaFXpert), blogs at [http://JavaFXpert.com](http://JavaFXpert.com) and [http://CulturedEar.com](http://CulturedEar.com) and may be reached at jweaver [at] [pivotal.io](https://pivotal.io/).
+James tweets as [@JavaFXpert](https://twitter.com/JavaFXpert), blogs at [https://JavaFXpert.com](https://JavaFXpert.com) and [https://CulturedEar.com](https://CulturedEar.com) and may be reached at jweaver [at] [pivotal.io](https://pivotal.io/).

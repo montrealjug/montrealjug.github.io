@@ -23,7 +23,7 @@ experts pour les JSR 292, 335 et 376, développe des libraries et langages dynam
 __Henri Tremblay__
 
 Expert en performance et en pragmatisme. Fait ce qu'il peut pour se rendre utile. Quand il programme c'est souvent en 
-Java. Développe des frameworks de [mock](http://easymock.org/) et les concepts qui vont avec.
+Java. Développe des frameworks de [mock](https://easymock.org/) et les concepts qui vont avec.
 
 __Sujet__
 

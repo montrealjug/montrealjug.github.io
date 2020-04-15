@@ -15,7 +15,7 @@ Le Montréal JUG est une association à but non lucratif dont l’objectif est d
 
 Le Montréal JUG est aussi l’un des plus gros JUG au monde avec plus de 1130 membres et une audience moyenne de 65 professionnels en informatique à chaque conférence, et une croissance en 2015-2016 de 40 nouveaux membres par mois!
 
-__Site Web:__ [http://www.montreal-jug.org/](http://www.montreal-jug.org/)
+__Site Web:__ [https://www.montreal-jug.org/](https://www.montreal-jug.org/)
 
 ## Devoxx4Kids Québec
 
@@ -23,7 +23,7 @@ Le Montréal JUG s’occupe aussi de l’organisation de Devoxx4Kids au Québec:
 
 Le tout afin de leur montrer que l’on peut faire autre chose avec un ordinateur que jouer, regarder des vidéos en ligne ou encore surfer sur Facebook!
 
-__Site Web:__ [http://www.devoxx4kids.org/quebec/](http://www.devoxx4kids.org/quebec/)
+__Site Web:__ [https://www.devoxx4kids.org/quebec/](https://www.devoxx4kids.org/quebec/)
 
 ## Sponsoring
 

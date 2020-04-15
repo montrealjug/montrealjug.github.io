@@ -26,9 +26,9 @@ Anis arrive bientôt pour quelques jours sur Montréal et va pouvoir faire une p
 
 __Talk description:__
 
-La présentation portera sur [PhoneGap](http://phonegap.com/).
+La présentation portera sur [PhoneGap](https://phonegap.com/).
 
-PDF de la présentation disponible à [http://www.meetup.com/montreal-jug/files/](http://www.meetup.com/montreal-jug/files/)
+PDF de la présentation disponible à [https://www.meetup.com/montreal-jug/files/](https://www.meetup.com/montreal-jug/files/)
 
 __Language:__ 
 

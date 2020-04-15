@@ -33,11 +33,11 @@ professor at the University of Houston. He has trained and mentored thousands of
 and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively 
 apply and succeed with sustainable agile practices on their software projects. Venkat is a (co)author of multiple technical books, 
 including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books 
-at [agiledeveloper.com](http://agiledeveloper.com/).
+at [agiledeveloper.com](https://agiledeveloper.com/).
 
 __Hôte: Ulule__
 
-Plateforme pionnière du financement participatif, [Ulule](http://ulule.ca/) permet aux projet créatifs, innovants et solidaires de 
+Plateforme pionnière du financement participatif, [Ulule](https://ulule.ca/) permet aux projet créatifs, innovants et solidaires de 
 collecter des fonds, tester une idée, réunir et faire grandir une communauté.
 
 En l’espace de 6 ans, Ulule est devenu le premier site de financement participatif européen avec plus de 20 000 projets financés, 
