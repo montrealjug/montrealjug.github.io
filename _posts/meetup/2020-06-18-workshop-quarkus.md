@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 271195686
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: montreal_jug
 tags: []
 comments: true
@@ -21,7 +21,7 @@ __Quarkus workshop__
 
 Le Montréal JUG finit la saison cette année avec une séance atelier. Nous travaillerons avec vous
 sur Quarkus, le Java supersonique. Il s'agit d'une session de 2h environ. Étant donné le 
-format, les places sont limités. Soyez donc rapide à vous inscrire et vous désincrire au besoin.
+format, les places sont limitées. Soyez donc rapides à vous inscrire et vous désincrire au besoin.
 
 **Pré-requis:**
 * Avoir votre propre ordinateur
