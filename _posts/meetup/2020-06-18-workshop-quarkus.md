@@ -31,6 +31,7 @@ format, les places sont limitées. Soyez donc rapides à vous inscrire et vous d
 * Docker
 * Maven
 * Un bash
+* Curl, Postman ou équivalent
 
 Nous allons potentiellement fournir une machine virtuelle pour vous aider. Il suffira de la lancer avec VirtualBox. 
 On vous tient au courant. 
@@ -52,6 +53,7 @@ help anyone in his or her favorite language.
 * Docker
 * Maven
 * Bash
+* Curl, Postman or equivalent
 
 We might have a virtual machine available. You will need to launch it through VirtualBox. Stay tuned.
 
