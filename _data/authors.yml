@@ -272,3 +272,9 @@ audrey_neveu:
   web: https://www.linkedin.com/in/audreyneveu/?originalSubdomain=fr
   avatar: https://pbs.twimg.com/profile_images/673566017881247744/X75R6Ea8_400x400.jpg
   twitter: Audrey_Neveu
+
+robert_martin:
+  name: Robert C. Martin
+  web: https://blog.cleancoder.com/
+  avatar: bob.jpeg
+  twitter: unclebobmartin
