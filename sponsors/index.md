@@ -26,15 +26,6 @@ Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexe
 
 ### Platine
 
-<a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
-  <img src="/images/sponsors/desjardins-admin.png" width="400px" style="vertical-align: top;">
-</a>
-
-La mission du mouvement Desjardins est de contribuer au mieux-être économique et social des personnes et des collectivités dans les limites compatibles de notre champ d'action:
-
-* en développant un réseau coopératif intégré de services financiers sécuritaires et rentables, sur une base permanente, propriété des membres et administré par eux, et un réseau d'entreprises financières complémentaires, à rendement concurrentiel et contrôlé par eux.
-* en faisant l'éducation à la démocratie, à l'économie, à la solidarité et à la responsabilité individuelle et collective, particulièrement auprès de nos membres, de nos dirigeants et de nos employés.
-
 <a href="https://www.intactlab.ca/" title="Intact Lab" target="_blank">
   <img src="/images/sponsors/intact.png" width="400px" style="vertical-align: top;">
 </a>
@@ -42,43 +33,14 @@ La mission du mouvement Desjardins est de contribuer au mieux-être économique 
 En tant que labo d’innovation pour Intact Corporation financière, nous réinventons entièrement l’expérience en assurance par le design, les produits et la solution logicielle. 
 Véritable startup au sein d’une grande entreprise, nous remettons en question les règles établies et cultivons les idées rebelles, tout ça dans le plaisir!
 
-<a href="https://alithya.com/" title="Alithya" target="_blank">
-  <img src="/images/sponsors/alithya.png" width="400px" style="vertical-align: top;">
-</a>
-
-Alithya est un chef de file en stratégie et en technologies numériques, regroupant 2 000 professionnels hautement qualifiés partout au Canada, aux États-Unis et en Europe. Notre offre intégrée fait de nous un partenaire de choix pour concevoir et bâtir des solutions numériques novatrices et efficaces pour répondre aux enjeux d’affaires complexes. 
-Alithya is a leader in strategy and digital technology, with 2,000 professionals in Canada, the US and Europe. Our integrated offerings position us as a leading digital technology partner, highly skilled in designing and building innovative and efficient digital solutions for complex business challenges.
-
-### Or
-
-<a href="https://www.gologic.ca/" title="Gologic" target="_blank">
-  <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
-</a>
-
-Gologic fournit du services-conseils sur place afin de comprendre vos besoins, d'implémenter une solution et d'utiliser les outils du DevOps dans l'automatisation de vos processus.  Vous avez besoin de services-conseils en DevOps? Nous avons sûrement parmi nous votre DevOps. Nous cultivons et appliquons le DevOps depuis déjà plusieurs années et ce pour tout type d'industrie. Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  Automatisons vos processus d'exploitation et implémentons une culture de collaboration ensemble pour laisser place à l'innovation.<br/>
-L'EXPÉRIENCE DEVOPS À VOTRE PORTÉE! 
-
-<a href="https://www.ei3.com" title="ei3" target="_blank">
-  <img src="/images/sponsors/ei3.png" width="140px" style="vertical-align: top;">
-</a>
-
-ei3 is both cutting edge and rooted in history. Since 1999, we have been the trusted guide for IIoT visionaries, helping them navigate from connecting machines, through to data collection, to achieve true predictive analytics capabilities. Our no-code approach ensures fast and efficient deployment. We are proud to serve 15000 clients in over 100 countries.
- 
-By using our private data centers we ensure full security and transparency. We operate in compliance with some of the most stringent security requirements and privacy controls. After an in-depth review, DEKRA Certification B.V. awarded ei3 a certificate of compliance with the International Standard Organization (ISO) 27001:2013.
- 
-ei3’s data centers are located in the United States, Germany, Switzerland. We have offices in North America and Europe.
-
 ### Hôtes
 
 Ils offrent le gîte et parfois le couvert. Merci à eux.
 
-<a href="https://www.oracle.com/" title="Oracle" target="_blank"><img src="/images/sponsors/oracle.gif" width="80px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
-<a href="https://ulule.ca/" title="Ulule" target="_blank"><img src="/images/sponsors/ulule.jpg" width="80px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
 <a href="https://fr.shopify.ca/" title="Shopify" target="_blank"><img src="/images/sponsors/shopify.png" width="80px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
-<a href="https://notman.org/" title="Notman House" target="_blank"><img src="/images/sponsors/notman.png" width="80px" style="vertical-align: top;"></a>
+<a href="https://tradingscreen.com/" title="TradingScreen" target="_blank"><img src="/images/sponsors/tradingscreen.jpg" width="80px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
 
 ### Partenaires
 
