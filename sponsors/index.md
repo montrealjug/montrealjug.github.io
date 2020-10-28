@@ -26,6 +26,13 @@ Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexe
 
 ### Platine
 
+<a href="https://alithya.com/" title="Alithya" target="_blank">
+  <img src="/images/sponsors/alithya.png" width="400px" style="vertical-align: top;">
+</a>
+
+Alithya est un chef de file en stratégie et en technologies numériques, regroupant 2 000 professionnels hautement qualifiés partout au Canada, aux États-Unis et en Europe. Notre offre intégrée fait de nous un partenaire de choix pour concevoir et bâtir des solutions numériques novatrices et efficaces pour répondre aux enjeux d’affaires complexes.
+Alithya is a leader in strategy and digital technology, with 2,000 professionals in Canada, the US and Europe. Our integrated offerings position us as a leading digital technology partner, highly skilled in designing and building innovative and efficient digital solutions for complex business challenges.
+
 <a href="https://www.intactlab.ca/" title="Intact Lab" target="_blank">
   <img src="/images/sponsors/intact.png" width="400px" style="vertical-align: top;">
 </a>
