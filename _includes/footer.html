@@ -17,6 +17,8 @@
 	<div class="social-icons">
 		{% if site.owner.meetup %}<a href="https://www.meetup.com/{{ site.owner.meetup }}" title="{{ site.owner.name}} on Meetup" target="_blank"><img src="/images/meetup.png" alt="Meetup" width="40px" style="vertical-align: top;"></a>{% endif %}
 		{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+		{% if site.owner.youtube %}<a href="https://www.youtube.com/channel/{{ site.owner.youtube }}" title="{{ site.owner.name}} on Youtube" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>{% endif %}
+		{% if site.owner.twitch %}<a href="https://www.twitch.tv/{{ site.owner.twitch }}" title="{{ site.owner.name}} on Twitch" target="_blank"><i class="fa fa-twitch fa-2x"></i></a>{% endif %}
 		{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 		{% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
 		{% if site.owner.stackexchange %}<a href="{{ site.owner.stackexchange }}" title="{{ site.owner.name}} on StackExchange" target="_blank"><i class="fa fa-stack-exchange fa-2x"></i></a>{% endif %}
