@@ -77,10 +77,14 @@ Enough slides! Now it's time to develop a resilient microservice architecture us
 
 ## Speakers: Emmanuel Bernard and Antonio Goncalves
 
-Emmanuel Bernard is Java Champion, Distinguished Engineer and Chief Architect Data at Red Hat (middleware). His work is Open Source. He is most well known for his contributions and leadership of the Hibernate projects as well as his contribution to Java standards.
+__Emmanuel Bernard__
+
+Emmanuel is Java Champion, Distinguished Engineer and Chief Architect Data at Red Hat (middleware). His work is Open Source. He is most well known for his contributions and leadership of the Hibernate projects as well as his contribution to Java standards.
 
 His most recent endeavor is Quarkus (A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards).
 
-Antonio Goncalves is a senior developer living in Paris. He evolved in the Java EE landscape for a while and then moved on to Spring, Micronaut and Quarkus. From distributed systems to microservices, today he helps his customers to develop the architecture that suits them the best.
+__Antonio Goncalves__
+
+Antonio is a senior developer living in Paris. He evolved in the Java EE landscape for a while and then moved on to Spring, Micronaut and Quarkus. From distributed systems to microservices, today he helps his customers to develop the architecture that suits them the best.
 
 Aside from freelancing, Antonio wrote a few books (Java EE and Quarkus), talks at international conferences (Devoxx, JavaOne, GeeCon…), writes technical papers and articles and co-presents on the Technical French podcast Les Cast Codeurs. He has co-created the Paris JUG, Voxxed Microservices and Devoxx France. For all his work for the community he has been made Java Champion ten years ago.
