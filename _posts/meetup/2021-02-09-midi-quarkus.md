@@ -80,7 +80,8 @@ Enough slides! Now it's time to develop a resilient microservice architecture us
 
 __Emmanuel Bernard__
 
-Emmanuel is Java Champion, Distinguished Engineer and Chief Architect Data at Red Hat (middleware). His work is Open Source. He is most well known for his contributions and leadership of the Hibernate projects as well as his contribution to Java standards.
+Emmanuel is Java Champion, Distinguished Engineer and Chief Architect Data at Red Hat (middleware). 
+He is most well known for his contributions and leadership of the Hibernate projects as well as his contribution to Java standards.
 He co-presents on the Technical French podcast [Les Cast Codeurs](https://lescastcodeurs.com).
 
 His most recent endeavor is Quarkus (A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards).
