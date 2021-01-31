@@ -35,16 +35,17 @@ Dans cette session, nous discuterons du pourquoi, du quoi et du comment de Quark
 
 Assez de diapositives! Il est maintenant temps de développer une architecture de microservice résiliente à l'aide de Quarkus et MicroProfile. 
 En quelques minutes, je vais amorcer quelques microservices, grâce au plugin Quarkus Maven, et les faire parler entre eux en utilisant REST ainsi que des messages réactifs.
-Enfin, je vais créer des exécutables natifs, grâce à GraalVM, et les emballer dans des images Docker. 
+Enfin, je vais créer des exécutables natifs, grâce à GraalVM, et les embarquer dans des images Docker. 
 
-Tout cela en moins de 30 minutes! Tu veux parier?
+Tout cela en moins de 30 minutes! Tu veux gager ?
 
 ## Intervenants: Emmanuel Bernard et Antonio Goncalves
 
 __Emmanuel Bernard__
 
 Emmanuel est Java Champion, ingénieur distingué et architecte en chef des données chez Red Hat (middleware). 
-Son travail est Open Source. Il est surtout connu pour ses contributions et sa direction des projets Hibernate ainsi que pour sa contribution aux normes Java.
+Il est surtout connu pour ses contributions et sa direction des projets Hibernate ainsi que pour sa contribution aux normes Java.
+Il co-présente le podcast français technique [Les Cast Codeurs](https://lescastcodeurs.com).
 
 Son projet le plus récent est Quarkus (une pile Java native Kubernetes conçue pour GraalVM et OpenJDK HotSpot, conçue à partir des meilleures bibliothèques et normes Java).
 
@@ -54,7 +55,7 @@ Antonio est un développeur senior vivant à Paris.
 Il a évolué dans l'écosystème Java EE pendant un certain temps, puis est passé à Spring, Micronaut et Quarkus. 
 Des systèmes distribués aux microservices, il aide aujourd'hui ses clients à développer l'architecture qui leur convient le mieux.
 
-En plus d’être freelance, Antonio a écrit quelques livres (Java EE et Quarkus), parle à des conférences internationales (Devoxx, JavaOne, GeeCon…), rédige des articles techniques et co-présente le podcast français technique Les Cast Codeurs. 
+En plus d’être freelance, Antonio a écrit quelques livres (Java EE et Quarkus), parle à des conférences internationales (Devoxx, JavaOne, GeeCon…), rédige des articles techniques et co-présente le podcast français technique [Les Cast Codeurs](https://lescastcodeurs.com). 
 Il a co-créé le Paris JUG, Voxxed Microservices et Devoxx France. 
 Pour tout son travail pour la communauté, il a été nommé Java Champion il y a dix ans.
 
@@ -80,6 +81,7 @@ Enough slides! Now it's time to develop a resilient microservice architecture us
 __Emmanuel Bernard__
 
 Emmanuel is Java Champion, Distinguished Engineer and Chief Architect Data at Red Hat (middleware). His work is Open Source. He is most well known for his contributions and leadership of the Hibernate projects as well as his contribution to Java standards.
+He co-presents on the Technical French podcast [Les Cast Codeurs](https://lescastcodeurs.com).
 
 His most recent endeavor is Quarkus (A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards).
 
@@ -87,4 +89,4 @@ __Antonio Goncalves__
 
 Antonio is a senior developer living in Paris. He evolved in the Java EE landscape for a while and then moved on to Spring, Micronaut and Quarkus. From distributed systems to microservices, today he helps his customers to develop the architecture that suits them the best.
 
-Aside from freelancing, Antonio wrote a few books (Java EE and Quarkus), talks at international conferences (Devoxx, JavaOne, GeeCon…), writes technical papers and articles and co-presents on the Technical French podcast Les Cast Codeurs. He has co-created the Paris JUG, Voxxed Microservices and Devoxx France. For all his work for the community he has been made Java Champion ten years ago.
+Aside from freelancing, Antonio wrote a few books (Java EE and Quarkus), talks at international conferences (Devoxx, JavaOne, GeeCon…), writes technical papers and articles and co-presents on the Technical French podcast [Les Cast Codeurs](https://lescastcodeurs.com). He has co-created the Paris JUG, Voxxed Microservices and Devoxx France. For all his work for the community he has been made Java Champion ten years ago.
