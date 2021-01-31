@@ -5,8 +5,8 @@ excerpt: ""
 meetup: 276059621
 modified:
 categories: meetup
-hidden: true
-author: montreal_jug
+hidden: false
+author: 
 tags: []
 comments: true
 share: true
@@ -14,6 +14,9 @@ image:
 feature:
 date: 2021-02-09T12:00:00-04:00
 ---
+![alt text][logo]
+
+[logo]: http://127.0.0.1:4000/images/meetup/2021-02-09-quarkus.png "Midi Quarkus!"
 
 # Midi Quarkus!
 
