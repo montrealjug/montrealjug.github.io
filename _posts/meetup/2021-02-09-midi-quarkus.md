@@ -14,9 +14,7 @@ image:
 feature:
 date: 2021-02-09T12:00:00-04:00
 ---
-![alt text][logo]
-
-[logo]: http://127.0.0.1:4000/images/meetup/2021-02-09-quarkus.png "Midi Quarkus!"
+![](/images/meetup/2021-02-09-quarkus.png)
 
 # Midi Quarkus!
 
