@@ -1,3 +1,4 @@
+---
 layout: post
 title: "NoSQL design pitfalls with Java - Otávio Santana"
 excerpt: ""
@@ -5,13 +6,13 @@ meetup: 276531637
 modified:
 categories: meetup
 hidden: false
-author: otaviojava
+author: otavio_santana
 tags: []
 comments: true
 share: true
 image:
 feature:
-date: 2021-03-16T12:00:00-14:00
+date: 2021-03-16T12:00:00-4:00
 ---
 
 Non-relational databases have come with the promise of assisting software in the Big Data age, handling the challenges of variety, velocity, and volume that come with it.
