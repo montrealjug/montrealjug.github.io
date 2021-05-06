@@ -6,7 +6,7 @@ meetup: 277997812
 modified:
 categories: meetup
 hidden: false
-author: Jean_Philippe_Bempel
+author: jean_Philippe_Bempel
 tags: []
 comments: true
 share: true
