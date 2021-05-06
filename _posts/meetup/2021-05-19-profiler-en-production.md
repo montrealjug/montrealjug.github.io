@@ -12,7 +12,7 @@ comments: true
 share: true
 image:
 feature:
-date: 2021-09-19T12:00:00-4:00
+date: 2021-05-19T12:00:00-4:00
 ---
 
 JDK Mission Control est l'outil standard Java pour l'analyse des performances et des environnements en production.
