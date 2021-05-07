@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profiler en production avec JDK Flight Recorder & JDK Mission Control"
+title: "Profiler en production avec JDK Flight Recorder & JDK Mission Control - Jean-Philippe Bempel"
 excerpt: ""
 meetup: 277997812
 modified:
