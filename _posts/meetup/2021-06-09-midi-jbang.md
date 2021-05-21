@@ -29,4 +29,4 @@ Studio its first 10 years and been greatly involved in tooling
 especially around Eclipse and recently focused on developer experience
 around Kubernetes and OpenShift.
 
-https://twitter.com/maxandersen
+[@maxandersen](https://twitter.com/maxandersen)
