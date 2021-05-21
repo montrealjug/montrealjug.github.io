@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 278313488
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: max_andersen
 tags: []
 comments: true
