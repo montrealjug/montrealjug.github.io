@@ -13,6 +13,10 @@ If you are using cygwin:
 - increase version in _config.yml
 - commit & push
 
+## Grunt
+
+Grunt can be used to uglify, minify, etc images. Just type `grunt`. Look at `Grunfile.js` to understand what it's doing.
+
 # So Simple Theme
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
