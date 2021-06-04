@@ -57,3 +57,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
