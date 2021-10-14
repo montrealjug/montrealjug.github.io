@@ -26,7 +26,7 @@ __Jonathan Lermitage__
 Jonathan est développeur Java depuis plus de 11 ans, résidant à Lyon, France. 
 Il a travaillé pour divers types d'entreprises, de la start-up au grand groupe, dans des domaines tels que l'e-commerce, 
 les banques, et le secteur public. 
-Je suis actuellement en mission pour Bell Canada, et vous rejoins prochainement à Montréal. 
+Je suis actuellement en mission pour Maplr et Bell Canada, et vous rejoins prochainement à Montréal. 
 J'évolue principalement dans la sphère Java, avec Spring Boot et Kotlin, mais aussi Python, Go et le devops. 
 Ma passion se porte sur l'open-source : je me suis autrefois investi dans l'IDE NetBeans en tant que contributeur et
 responsable de l'intégration des plugins. Mon intérêt se porte aujourd'hui sur les IDE JetBrains, dont IntelliJ IDEA, 
