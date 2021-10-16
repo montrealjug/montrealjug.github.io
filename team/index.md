@@ -23,6 +23,7 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/6b405e927868cbed2f21489d8aafdf3c?s=50"/> Jérémie Lagarde (jeremie at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/e51fb0519a46a15f82be5b23528a7926?s=50"/> Xavier Bouclet (xavier at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/fb568d9708b892eb0c6dc261cd00a619?s=50"/> Anthony Dahanne (anthony at montreal-jug.org)
+- <img class="bio-photo bio-member" src="https://pbs.twimg.com/profile_images/1151486972650762243/-ILI5ntF_400x400.jpg"/> Roan Brasil Monteiro (roan at montreal-jug.org)
 
 ## Bénévoles Devoxx4Kids
 
