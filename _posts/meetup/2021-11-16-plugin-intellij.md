@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 281320058
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: jonathan_lermitage
 tags: []
 comments: true
