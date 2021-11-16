@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 281320451
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: guillaume_laforge
 tags: []
 comments: true
