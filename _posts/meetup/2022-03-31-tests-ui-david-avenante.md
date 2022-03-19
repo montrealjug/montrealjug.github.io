@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 284720229
 modified:
 categories: meetup
-hidden: false
+hidden: true
 author: 
 tags: []
 comments: true
