@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Les F@#$#% tests de UI !"
+title: "Les S@#$#% tests de UI !"
 excerpt: ""
 meetup: 284720229
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: 
 tags: []
 comments: true
