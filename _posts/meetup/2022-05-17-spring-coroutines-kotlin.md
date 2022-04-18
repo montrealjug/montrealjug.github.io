@@ -2,17 +2,17 @@
 layout: post
 title: "Spring et les Coroutines Kotlin : un mariage réactif"
 excerpt: ""
-meetup: 285138385
+meetup: 285335445
 modified:
 categories: meetup
-hidden: false
+hidden: true
 author: arthur_veys
 tags: []
 comments: true
 share: true
 image:
 feature:
-date: 2022-04-19T17:30:00-04:00
+date: 2022-05-17T17:30:00-04:00
 ---
 
 Événement en présentiel - Il n'y aura pas de rediffusion
