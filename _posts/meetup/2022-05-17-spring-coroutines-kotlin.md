@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 285335445
 modified:
 categories: meetup
-hidden: true
+hidden: false
 author: arthur_veys
 tags: []
 comments: true
