@@ -27,6 +27,17 @@ Maplr favorise l’enrichissement personnel et professionnel en alliant l’a
 
 L’équilibre parfait pour une expérience de vie internationale impactante.
 
+
+<a href="https://weareadaptive.com" title="Adaptive" target="_blank">
+  <img src="/images/sponsors/weareadaptive.png" width="600px" style="vertical-align: top;">
+</a>
+
+Chez Adaptive nous sommes spécialisés dans le développement de plateforme de courtage en temps réel. Conscients que cette technologie apporte de profondes modifications aux pratiques d'affaires du monde de la finance, nous travaillons de pair avec nos clients pour leur délivrer des solutions sur mesure.
+Nous concevons, produisons et opérons des solutions technologiques de dernier cri pour des clients tels que des banques d'investissement et des entreprises de commodités parmis les plus importantes au monde.
+Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexes du courtage en temps réel et en simplifie le développement, le déploiement et le support, permettant ainsi de prioriser la conception de la logique d'affaires dès le début du projet.
+
+
+
 ### Partenaires
 
 Ils donnent à nos membres divers avantages en nature et matériels (i.e. ordinateurs portables usagés) pour le Montréal JUG et le Devoxx4Kids.
