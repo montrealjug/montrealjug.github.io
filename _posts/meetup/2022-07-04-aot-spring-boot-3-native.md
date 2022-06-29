@@ -28,7 +28,7 @@ Pendant cette présentation, Stéphane va détailler l'état de l'art du support
 * comment cette nouvelle infrastructure peut-être utilisée par des librairies
 * l'expérience développeur
 
-L'évènement se déroulera chez [ExPretio](https://www.expretio.com/) au 4446 Boulevard Saint-Laurent à Montréal.
+L'évènement se déroulera chez [ExPretio](https://www.expretio.com/) au 4446 Boulevard Saint-Laurent à Montréal - Suite 700.
 Pour accéder aux locaux, les gens devront s'enregistrer sur ProxyClic avec la tablette disponible à l'entrée.
 
 Ouverture des portes : 17H30 et début de l'événement : 18 h !
