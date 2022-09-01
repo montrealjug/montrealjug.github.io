@@ -369,3 +369,9 @@ stephane_nicoll:
   web:
   avatar: https://pbs.twimg.com/profile_images/1206948501659299848/u76KMNix_400x400.jpg
   twitter: snicoll
+  
+zoe_steinkamp:
+  name: Zoe Steinkamp
+  web:
+  avatar: https://microsites.databricks.com/sites/default/files/media/images/dataaisummit_speaker/Zoe-Steinkamp-InfluxData-Cropped_1654536177522001Gt5b.jpg
+  twitter: InfluxDB  
