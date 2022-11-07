@@ -12,7 +12,7 @@ comments: true
 share: true
 image:
 feature:
-date: 2022-11-11T17:30:00-04:00
+date: 2022-11-22T17:30:00-04:00
 ---
 
 Event mostly in English; although questions / comments in French are welcome!
