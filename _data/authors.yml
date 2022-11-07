@@ -375,3 +375,21 @@ zoe_steinkamp:
   web:
   avatar: https://microsites.databricks.com/sites/default/files/media/images/dataaisummit_speaker/Zoe-Steinkamp-InfluxData-Cropped_1654536177522001Gt5b.jpg
   twitter: InfluxDB  
+
+grace_jansen:
+  name: Grace Jansen
+  web:
+  avatar: https://pbs.twimg.com/profile_images/971410160253067271/oecPiXxJ_400x400.jpg
+  twitter: gracejansen27  
+  
+jamie_coleman:
+  name: Jamie Coleman
+  web:
+  avatar: https://pbs.twimg.com/profile_images/1539781465608798209/vkUN5wg__400x400.jpg
+  twitter: jamie_lee_c  
+  
+rich_haggarty:
+  name: Rich Haggarty
+  web:
+  avatar: https://media-exp1.licdn.com/dms/image/C5103AQE9o9OsP7izeA/profile-displayphoto-shrink_200_200/0/1516620244506?e=1673481600&v=beta&t=FmZmG7JWoU8KmwcfO7Ll5eS8TQw2wbhiO6lpg98gIYY
+
