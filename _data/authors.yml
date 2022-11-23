@@ -369,25 +369,31 @@ stephane_nicoll:
   web:
   avatar: https://pbs.twimg.com/profile_images/1206948501659299848/u76KMNix_400x400.jpg
   twitter: snicoll
-  
+
 zoe_steinkamp:
   name: Zoe Steinkamp
   web:
   avatar: https://microsites.databricks.com/sites/default/files/media/images/dataaisummit_speaker/Zoe-Steinkamp-InfluxData-Cropped_1654536177522001Gt5b.jpg
-  twitter: InfluxDB  
+  twitter: InfluxDB
 
 grace_jansen:
   name: Grace Jansen
   web:
   avatar: https://pbs.twimg.com/profile_images/971410160253067271/oecPiXxJ_400x400.jpg
-  twitter: gracejansen27  
-  
+  twitter: gracejansen27
+
+theresa_mammarella:
+  name: Theresa Mammarella
+  web:
+  avatar: https://pbs.twimg.com/profile_images/1531277921133920256/q7A1RlXp_400x400.jpg
+  twitter: t_mammarella
+
 jamie_coleman:
   name: Jamie Coleman
   web:
   avatar: https://pbs.twimg.com/profile_images/1539781465608798209/vkUN5wg__400x400.jpg
-  twitter: jamie_lee_c  
-  
+  twitter: jamie_lee_c
+
 rich_haggarty:
   name: Rich Haggarty
   web:
