@@ -18,6 +18,7 @@ date: 2023-04-18T17:30:00-04:00
 Event mostly in English; although questions / comments in French are welcome!
 Événement en présentiel - Il n'y aura pas de rediffusion
 Participez à notre meetup de rentrée en Avril ! En présentiel 🎉
+
 The software industrial revolution has arrived. Software is now 80% open source and third-party and 20% proprietary code that stitches it together into business-critical applications. We are challenged with the ongoing evolution of increasingly large and diversely composed codebases and ecosystems. Dependencies are changing frequently and evolve at their own pace. Security vulnerabilities can be introduced at any time by anyone. Not updating regularly leads to critical bugs, performance, and security issues.
 
 In this talk, we’ll introduce OpenRewrite, an automated refactoring and dependency management technology that was born at Netflix in 2016. We’ll write the code for a recipe live that fixes a common issue and execute it across 300 million lines of open-source code. The recipe will be available in open source for you to apply to your own codebase at the end of the session.
