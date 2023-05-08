@@ -6,7 +6,7 @@ meetup: 292245865
 modified:
 categories: meetup
 hidden: false
-author: montrealjug
+author: montreal_jug
 tags: []
 comments: true
 share: true
