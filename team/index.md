@@ -17,12 +17,11 @@ Elle organise, ponctuellement, des ateliers Devoxx4Kids pour les enfants.
 Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/285b2063822ec9365eeebf6840028dca?s=50"/> David Avenante (david at montreal-jug.org)
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/9db6fc82f800e193111dd725dd3a7b52?s=50"/> Mathieu Carbou (mathieu at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03?s=50"/> Henri Tremblay (henri at montreal-jug.org)
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563?s=50"/> Alex Snaps (alex at montreal-jug.org)
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/6b405e927868cbed2f21489d8aafdf3c?s=50"/> Jérémie Lagarde (jeremie at montreal-jug.org)
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/e51fb0519a46a15f82be5b23528a7926?s=50"/> Xavier Bouclet (xavier at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/fb568d9708b892eb0c6dc261cd00a619?s=50"/> Anthony Dahanne (anthony at montreal-jug.org)
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/e51fb0519a46a15f82be5b23528a7926?s=50"/> Xavier Bouclet (xavier at montreal-jug.org)
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Marion Félix (marion at montreal-jug.org)  
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Romain Dalichamp (romain at montreal-jug.org)  
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/ce876bdab15e1803ba8a1d8c7b7ad7bc?s=50"/> Roan Brasil Monteiro (roan at montreal-jug.org)
 
 ## Bénévoles Devoxx4Kids
@@ -41,3 +40,4 @@ Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les
 - Ranwa Mourani
 - Roula Mourani
 - Mina Yaychi
+- Jessica Tornare
