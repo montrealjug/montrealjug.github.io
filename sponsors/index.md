@@ -16,27 +16,24 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 ### Platine
 
-<a href="https://maplr.co/" title="Maplr" target="_blank">
-  <img src="/images/sponsors/maplr.png" width="400px" style="vertical-align: top;">
+<a href="https://www.gologic.ca/" title="Gologic" target="_blank">
+  <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
 </a>
 
-**Maplr est la première communauté internationale de Tech au Canada.**
+Gologic fournit du services-conseils sur place afin de comprendre vos besoins, d'implémenter une solution et d'utiliser les outils du DevOps dans l'automatisation de vos processus.  
+Vous avez besoin de services-conseils en DevOps? Nous avons sûrement parmi nous votre DevOps. 
+Nous cultivons et appliquons le DevOps depuis déjà plusieurs années et ce pour tout type d'industrie. 
+Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  
+Automatisons vos processus d'exploitation et implémentons une culture de collaboration ensemble pour laisser place à l'innovation.
 
-Fondée en 2019, Maplr est une startup québécoise spécialisée en mobilité internationale des talents en TI vers le Canada.
-Maplr favorise l’enrichissement personnel et professionnel en alliant l’accompagnement complet dans les démarches de relocalisation et la contribution aux meilleurs projets tech canadiens.
+### Hôtes
 
-L’équilibre parfait pour une expérience de vie internationale impactante.
+Ils offrent le gîte et parfois le couvert. Merci à eux.
 
-
-<a href="https://weareadaptive.com" title="Adaptive" target="_blank">
-  <img src="/images/sponsors/weareadaptive.png" width="600px" style="vertical-align: top;">
-</a>
-
-Chez Adaptive nous sommes spécialisés dans le développement de plateforme de courtage en temps réel. Conscients que cette technologie apporte de profondes modifications aux pratiques d'affaires du monde de la finance, nous travaillons de pair avec nos clients pour leur délivrer des solutions sur mesure.
-Nous concevons, produisons et opérons des solutions technologiques de dernier cri pour des clients tels que des banques d'investissement et des entreprises de commodités parmis les plus importantes au monde.
-Notre plateforme Hydra, prête à l'emploi, prend les concepts les plus complexes du courtage en temps réel et en simplifie le développement, le déploiement et le support, permettant ainsi de prioriser la conception de la logique d'affaires dès le début du projet.
-
-
+<a href="https://www.silabs.com/" title="Silicon Labs" target="_blank"><img src="/images/sponsors/siliconlabs.png" width="200px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
+<a href="https://tsimagine.com/" title="TS Imagine" target="_blank"><img src="/images/sponsors/tsimagine.svg" width="200px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
 
 ### Partenaires
 
