@@ -9,10 +9,10 @@ image:
   creditlink:
 ---
 
-Être commanditaire du Montréal JUG, c'est être commenditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
+Être commanditaire du Montréal JUG, c'est être commanditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
 une visibilité conséquente dans le monde Java à Montréal.
 
-Être commanditaire du Montréal JUG, c'est aussi être commenditaire de <a href="https://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
+Être commanditaire du Montréal JUG, c'est aussi être commanditaire de <a href="https://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
 s'agit de la branche montréalaise d'un **[mouvement mondial](https://www.devoxx4kids.org/events/)** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
 robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
 enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
