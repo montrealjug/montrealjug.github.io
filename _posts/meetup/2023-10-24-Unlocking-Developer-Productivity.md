@@ -15,31 +15,6 @@ feature:
 date: 2023-10-24T17:45:00-04:00
 ---
 
-ℹ️**In-person event - There will be no replay. Événement en anglais. Les questions en français sont les bienvenues. L'abstract en français est disponible est à la suite.**ℹ️
-
-**Unlocking Developer Productivity: A Dual Perspective on Best Practices and Testing**
-
-In today's fast-paced development environment, efficiency is king. But how do you streamline your workflow without sacrificing quality? Enter Developer Productivity Engineering (DPE), a discipline that focuses on optimizing the software development process from start to finish. Join Baruch Sadogursky and Eli Aleyner as they offer a dual perspective on making DPE work for you.
-
-The talk kicks off with a joint introduction to DPE, demystifying the term and explaining why it's crucial for modern software development. They'll then outline the core tenets of DPE, offering a framework that can guide your approach to coding, testing, and deployment.
-
-Baruch takes the stage next to focus on making your build process as efficient as possible. Learn about avoidance techniques like caching and predictive test selection that can speed up your builds without compromising quality.
-
-Eli follows up with a deep dive into intelligent testing strategies. He'll discuss "shifting everything left," enabling faster feedback cycles by running as many tests as necessary—but no more.
-
-The talk concludes with a joint summary, offering key takeaways and actionable insights you can immediately apply to your projects. Don't miss this comprehensive look at optimizing your development process, whether you're a seasoned veteran or new to the field.
-
-
-__Baruch Sadogursky__
-
-Baruch Sadogursky (a.k.a JBaruch) is the Chief Sticker Officer and head of DevOps Advocacy at JFrog. His passion is speaking about technology. Well, speaking in general, but doing it about technology makes him look smart, and 19 years of hi-tech experience sure helps. When he’s not on stage (or on a plane to get there), he learns about technology, people, and how they work, or more precisely, don’t work together.
-
-He is a co-author of the Liquid Software book, a CNCF ambassador and a passionate conference speaker on DevOps, DevSecOps, digital transformation, containers and cloud-native, artifact management and other topics, and is a regular at the industry’s most prestigious events including KubeCon, DockerCon, Devoxx, DevOps Days, OSCON, Qcon, JavaOne and many others. You can see some of his talks at jfrog.com/shownotes.
-
-__Eli Aleyner__
-
-Eli is a co-founder of AtomicJar, the company behind the popular Testcontainers library that enables developers to get faster feedback and more confidence in the code they write. Prior to AtomicJar, Eli was GM of cloud and alliances at VMware and Pivotal. Eli started his career as first-50 engineer (Spring Engineer) at AWS, working on launch teams of S3 and Mechanical Turk and has worked on the launch team of bing.com at Microsoft.
-
 ℹ️**Événement en présentiel - Il n'y aura pas de rediffusion.**ℹ️
 
 **Débloquer la productivité des développeurs : Une double perspective sur les meilleures pratiques et les tests**
@@ -56,11 +31,8 @@ La présentation se conclut par un résumé conjoint, offrant des points clés e
 
 __Baruch Sadogursky__
 
-Baruch Sadogursky (alias JBaruch) est le Chief Sticker Officer et responsable du plaidoyer pour DevOps chez JFrog. Sa passion est de parler de technologie. Enfin, de parler en général, mais le faire sur la technologie le fait passer pour intelligent, et 19 ans d'expérience dans le domaine de la haute technologie l'aident sûrement. Quand il n'est pas sur scène (ou en avion pour s'y rendre), il apprend la technologie, les gens et comment ils fonctionnent, ou plus précisément, comment ils ne fonctionnent pas ensemble.
-
-Il est co-auteur du livre Liquid Software, ambassadeur CNCF et conférencier passionné sur DevOps, DevSecOps, la transformation numérique, les conteneurs et le cloud natif, la gestion des artefacts et d'autres sujets, et il est un habitué des événements les plus prestigieux de l'industrie, notamment KubeCon, DockerCon, Devoxx, DevOps Days, OSCON, Qcon, JavaOne et bien d'autres. Vous pouvez voir certaines de ses présentations sur jfrog.com/shownotes.
+Baruch Sadogursky (@jbaruch) a fait du Java avant les génériques, du DevOps avant Docker, et du DevRel avant que ça ait un nom. Quand il a commencé comme DevRel à JFrog, il y avait 10 personnes et cela a mené à une entrée en bourse de 10B$ tout en aidant les développeurs a résoudre leurs problèmes. De nos jours, Baruch continue d'aider les développeurs à résoudre leurs problèmes, mais aide aussi les entreprises a aidé les développeurs à résoudre leurs problèmes. Il est le co-auteur des livres "Liquid Software" et "DevOps Tools for Java Developers", participe à l'organisation de nombreuses conférence, et présente régulièrement à de prestigieuses conférences dans l'industrie, incluant Kubecon, JavaOne (RIP), Devoxx, QCon, DevRelCon, DevOpsDays (tout partout), DevOops (pas une faute de frappe) et plus encore. Après dix ans de DevRel chez JFrog, Baruch est maintenant Principal Developer Productivity Engineering Advocate chez Gradle.
 
 __Eli Aleyner__
 
 Eli est co-fondateur d'AtomicJar, la société à l'origine de la populaire bibliothèque Testcontainers qui permet aux développeurs d'obtenir des retours plus rapides et davantage de confiance dans le code qu'ils écrivent. Avant AtomicJar, Eli était directeur général du cloud et des alliances chez VMware et Pivotal. Eli a commencé sa carrière en tant qu'ingénieur parmi les 50 premiers (ingénieur Spring) chez AWS, travaillant dans les équipes de lancement de S3 et Mechanical Turk, et a travaillé dans l'équipe de lancement de bing.com chez Microsoft.
-
