@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Unlocking Developer Productivity: A Dual Perspective on Best Practices and Testing"
+title: "Unlocking Developer Productivity: A Dual Perspective on Best Practices and Testing par Baruch Sadogursky et Eli Aleyner"
 excerpt: ""
 meetup: 296479667
 modified:
 categories: meetup
 hidden: false
-author: Baruch Sadogursky & Eli Aleyner
+author: baruch_sadogursky
 tags: []
 comments: true
 share: true
