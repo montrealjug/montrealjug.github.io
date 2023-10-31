@@ -14,8 +14,17 @@ vivre et s'épanouir.
  
 De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
-Actuellement, le JUG n'a pas de sponsor pour financer ses activités.
-Pour devenir sponsor, c'est [ici](https://www.montreal-jug.org/sponsoring/ici).
+### Platine
+
+<a href="https://www.gologic.ca/" title="Gologic" target="_blank">
+  <img src="/images/sponsors/gologic.png" width="140px" style="vertical-align: top;">
+</a>
+
+Gologic fournit du services-conseils sur place afin de comprendre vos besoins, d'implémenter une solution et d'utiliser les outils du DevOps dans l'automatisation de vos processus.  
+Vous avez besoin de services-conseils en DevOps? Nous avons sûrement parmi nous votre DevOps. 
+Nous cultivons et appliquons le DevOps depuis déjà plusieurs années et ce pour tout type d'industrie. 
+Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  
+Automatisons vos processus d'exploitation et implémentons une culture de collaboration ensemble pour laisser place à l'innovation.
 
 ### Hôtes
 
@@ -26,6 +35,8 @@ Ils offrent le gîte et parfois le couvert. Merci à eux.
 <a href="https://tsimagine.com/" title="TS Imagine" target="_blank"><img src="/images/sponsors/tsimagine.svg" width="100px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 <a href="https://www.gologic.ca/" title="Gologic" target="_blank"><img src="/images/sponsors/gologic.png" width="100px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;
+<a href="https://maplr.co/" title="Maplr" target="_blank"><img src="/images/sponsors/maplr.png" width="100px" style="vertical-align: top;"></a>
 &nbsp;&nbsp;
 
 ### Partenaires
