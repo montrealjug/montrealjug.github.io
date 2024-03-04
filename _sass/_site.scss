@@ -1,6 +1,8 @@
 // Selection
 // --------------------------------------------------
 
+@use "sass:math";
+
 ::-moz-selection { 
 	background-color: lighten($base-color, 65%); 
 	color: $base-color; 
@@ -73,8 +75,8 @@ ins {
 // Tables
 table {
 	border-collapse: collapse;
-	margin: ((0px + $doc-line-height) / 2) 0;
-	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 2) 0;
+	margin: ((0px + $doc-line-height) * 0.5) 0;
+	margin: ((0rem + math.div($doc-line-height, $doc-font-size)) * 0.5) 0;
 	width: 100%;
 }
 tbody {
@@ -88,8 +90,8 @@ thead {
 	}
 }
 th {
-	padding: (0px + $doc-line-height) / 2;
-	padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
+	padding: (0px + $doc-line-height) * 0.5;
+	padding: (0rem + math.div($doc-line-height, $doc-font-size)) * 0.5;
 	font-family: $alt-font;
 	font-weight: bold;
 	text-align: left;
@@ -98,8 +100,8 @@ th {
 }
 td {
 	border-bottom: 1px solid $border-color;
-	padding: (0px + $doc-line-height) / 2;
-	padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
+	padding: (0px + $doc-line-height) * 0.5;
+	padding: (0rem + math.div($doc-line-height, $doc-font-size)) * 0.5;
 	@include font-size(18);
 }
 tr, td, th {
