@@ -6,7 +6,7 @@ meetup: 295689971
 modified:
 categories: meetup
 hidden: false
-author: Gerrit Grunwald & Ivar Grimstad
+author: montreal_jug
 tags: []
 comments: true
 share: true
@@ -27,7 +27,7 @@ Gerrit is a software engineer that loves coding for around 40 years already. He 
 
 Gerrit blogs regularly at http://harmonic-code.org, he is an active member of the Java community, where he founded and leads the Java User Group Münster (Germany), he is a JavaOne rockstar and a Java Champion. He is a speaker at conferences and user groups internationally and writes for several magazines.
 
-__Ivar Grimstad - Java Champion | Jakarta EE Developer Advocate - Java Champion and JUG Leader based in Sweden__
+__Ivar Grimstad - Java Champion - Jakarta EE Developer Advocate - Java Champion and JUG Leader based in Sweden__
 
 Besides advocating the Jakarta EE technologies, Ivar is contributing to the Jakarta EE specifications as well as being the PMC Lead for Eclipse Enterprise for Java (EE4J). He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation in the JCP Executive Committee.
 
