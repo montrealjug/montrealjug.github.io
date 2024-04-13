@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evénement Oracle-Confoo Event: MySQL indexes, Micronaut Intro and Elsatic"
+title: "Evénement Oracle-Confoo Event: MySQL indexes, Micronaut Intro and Elastic"
 excerpt: ""
 meetup: 298437494
 modified:

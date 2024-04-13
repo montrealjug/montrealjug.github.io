@@ -1,421 +1,422 @@
 montreal_jug:
   name: Montréal JUG
   web: https://www.montreal-jug.org/
-  avatar: https://montreal-jug.org/images/logo.png
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
   twitter: montrealjug
 
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
-  avatar: https://www.gravatar.com/avatar/fb08f7ad59d657604aa6b8024da025e2
+  avatar: https://www.montreal-jug.org/images/speakers/jerome_mirc.jpg
   twitter: JeromeMirc
 
 alex_snaps:
   name: Alex Snaps
   web: https://www.codespot.net
-  avatar: https://www.gravatar.com/avatar/bdcdb34938f61dde00311489e797e563
+  avatar: https://www.montreal-jug.org/images/speakers/alex_snaps.jpg
   twitter: alexsnaps
 
 anis_kadri:
   name: Anis Kadri
   web: https://imhotep.koalabs.org/
-  avatar: https://pgday.phonegap.com/images/bio/anis.png
+  avatar: https://www.montreal-jug.org/images/speakers/anis_kadri.jpg
   twitter: aniskadri
 
 henri_tremblay:
   name: Henri Tremblay
   web: https://blog.tremblay.pro/
-  avatar: https://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03
+  avatar: https://www.montreal-jug.org/images/speakers/henri_tremblay.jpg
   twitter: henri_tremblay
 
 adib_saikali:
   name: Adib Saikali
   web: https://www.linkedin.com/in/adibsaikali
-  avatar: https://pbs.twimg.com/profile_images/454165937361412096/_rFTjhGO_400x400.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/adib_saikali.jpg
   twitter: asaikali
 
 stefan_johansson_charlie_hunt:
   name: Stefan Johansson and Charlie Hunt
   web: https://www.linkedin.com/in/javaperf
-  avatar: https://pbs.twimg.com/profile_images/1172263352334213125/9W0gRJrP_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/stefan_johansson_charlie_hunt.jpg
   twitter: kstefanj
 
 
 philippe_arteau:
   name: Philippe Arteau
   web: https://blog.h3xstream.com/
-  avatar: https://pbs.twimg.com/profile_images/1199461006440894466/RX8rSsoK_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/philippe_arteau.jpg
   twitter: h3xstream
 
 andreas_grabner:
   name: Andreas Grabner
   web: https://de.slideshare.net/grabnerandi
-  avatar: https://cdn.slidesharecdn.com/profile-photo-grabnerandi-96x96.jpg?cb=1424887435
+  avatar: https://www.montreal-jug.org/images/speakers/andreas_grabner.jpg
   twitter: grabnerandi
 
 martin_naumann:
   name: Martin Naumann
   web: https://geekonaut.de/
-  avatar: https://pbs.twimg.com/profile_images/557854072527544320/FcwSt9Wx_200x200.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/martin_naumann.jpg
   twitter: g33konaut
 
 Stefan_Oehme:
   name:  Stefan Oehme
   web: https://github.com/oehme
-  avatar: https://avatars0.githubusercontent.com/u/1191797?v=3&s=460
+  avatar: https://www.montreal-jug.org/images/speakers/stefan_oehme.jpg
   twitter: StefanOehme
 
 Sani_Chabi_Yo:
   name:  Sani Chabi Yo
   web: https://twitter.com/chabiyo
-  avatar: https://pbs.twimg.com/profile_images/549372321463431168/_IsOlaMO_400x400.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/sani_chabi_yo.jpg
   twitter: chabiyo
 
 Mike_Keith:
   name:  Mike Keith
   web: https://www.linkedin.com/pub/mike-keith/0/603/291
-  avatar: https://www.oracle.com/us/assets/cw16-michael-keith-2548203.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/mike_keith.jpg
 
 remi_forax:
   name: Rémi Forax
   web: https://forax.github.io/
-  avatar: https://avatars2.githubusercontent.com/u/828220?v=3&s=400
+  avatar: https://www.montreal-jug.org/images/speakers/remi_forax.jpg
 
 anthony_dahanne:
   name:  Anthony Dahanne
   web: https://blog.dahanne.net/
-  avatar: https://pbs.twimg.com/profile_images/1163510491169337344/1qELiyJz_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/anthony_dahanne.jpg
   twitter: anthonydahanne
 
 mike_milinkovich:
   name:  Mike Milinkovich
   web: https://mmilinkov.wordpress.com/
-  avatar: https://pbs.twimg.com/profile_images/2207595342/SmileyMike85_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/mike_milinkovich.jpg
   twitter: mmilinkov
 
 nicolas_rigaud:
   name: Nicolas Rigaud
   web: https://www.ofbotsandmen.com/
-  avatar: https://pbs.twimg.com/profile_images/554557191307272192/BXugY_M8_400x400.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/nicolas_rigaud.jpg
   twitter: wtfirl
 
 felix_roberge:
   name: Félix Roberge
   web: https://twitter.com/felixroberge
-  avatar: https://pbs.twimg.com/profile_images/1125588648/roberge.felix_gmail.com_400x400.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/felix_roberge.jpg
   twitter: felixroberge
 
 andrus_adamchik:
   name: Andrus Adamchik
   web: https://bootique.io/
-  avatar: https://pbs.twimg.com/profile_images/698563673783169028/r224fFf9_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/andrus_adamchik.jpg
   twitter: andrus_a
 
 kirk_pepperdine:
   name: Kirk Pepperdine
   web: https://www.jclarity.com
-  avatar: https://www.jclarity.com/wp-content/uploads/2013/07/Kirk_150x150_clr-500x500.png
+  avatar: https://www.montreal-jug.org/images/speakers/kirk_pepperdine.jpg
   twitter: kcpeppe
 
 ron_cohen:
   name: Ron Cohen
   web: https://twitter.com/ronroncohen
-  avatar: https://media-exp1.licdn.com/dms/image/C4D03AQH9t6E_mOHZ4w/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=22BrpclHkeNHFbFYX5swJkOVT5rTSlJO3lBOrSuFXxg
+  avatar: https://www.montreal-jug.org/images/speakers/ron_cohen.jpg
   twitter: ronroncohen
 
 marcus_hellberg:
   name: Marcus Hellberg
   web: https://twitter.com/marcushellberg
-  avatar: https://pbs.twimg.com/profile_images/2434447784/churd5r7o4nou33pgiey_400x400.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/marcus_hellberg.jpg
   twitter: marcushellberg
 
 heather_vancura:
   name: Heather VanCura
   web: https://heathervcblog.wordpress.com
-  avatar: https://pbs.twimg.com/profile_images/852650380739592193/oYvdlM7b_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/heather_vancura.jpg
   twitter: heathervc
 
 james_weaver:
   name: James Weaver
   web: https://javafxpert.com/
-  avatar: https://pbs.twimg.com/profile_images/867782750706774016/Q8aCS79Q_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/james_weaver.jpg
   twitter: JavaFXpert
 
 jeremie_lagarde:
   name: Jérémie Lagarde
   web: https://www.devoxx4kids.org/quebec/
-  avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/070/339/261bdd6.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/jeremie_lagarde.jpg
   twitter: printstacktrace
 
 carlos_salazar:
   name: Carlos Salazar
   web: https://carlos-salazar.com/
-  avatar: https://carlos-salazar.com/images/intro.png
+  avatar: https://www.montreal-jug.org/images/speakers/carlos_salazar.jpg
   twitter: chuucksc
 
 didier_valentin:
   name: Didier Valentin
   web:
-  avatar: https://secure.meetupstatic.com/photos/member/a/8/2/2/member_264703042.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/didier_valentin.jpg
   twitter:
 
 edson_yanaga:
   name: Edson Yanaga
   web: https://yanaga.io/
-  avatar: https://pbs.twimg.com/profile_images/931349213216169984/R48Yocuq_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/edson_yanaga.jpg
   twitter: yanaga
 
 andres_almiray:
   name: Andres Almiray
   web: https://www.patreon.com/aalmiray
-  avatar: https://pbs.twimg.com/profile_images/2860289112/5f6f3b566ba6c2c3e2cc932a42d13b75_400x400.png
+  avatar: https://www.montreal-jug.org/images/speakers/andres_almiray.jpg
   twitter: aalmiray
 
 mark_heckler:
   name: Mark Heckler
   web: https://thehecklers.com/
-  avatar: https://pbs.twimg.com/profile_images/932415175256190976/xBRyYvyB_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/mark_heckler.jpg
   twitter: MkHeck
 
 bruce_eckel:
   name: Bruce Eckel
   web: https://bruceeckel.github.io/
-  avatar: https://pbs.twimg.com/profile_images/1256829460/image_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/bruce_eckel.jpg
   twitter: BruceEckel
 
 venkat_subramaniam:
   name: Venkat Subramaniam
   web: https://www.agiledeveloper.com/
-  avatar: https://pbs.twimg.com/profile_images/950807350952181760/5pkYiJ8d_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/venkat_subramaniam.jpg
   twitter: venkat_s
 
 brian_benz:
   name: Brian Benz
   web: https://brianbenz.com/
-  avatar: https://miro.medium.com/max/3150/1*8tCLF3pBk8nadipPxbHesA.png
+  avatar: https://www.montreal-jug.org/images/speakers/brian_benz.jpg
   twitter: bbenz
 
 gologic:
   name: Gologic
   web: https://www.gologic.ca
-  avatar: https://montreal-jug.org/images/gologic_mini.png
+  avatar: https://www.montreal-jug.org/images/speakers/gologic.jpg
   twitter: GologicMTL
 
 martin_tapp:
   name: Martin Tapp
   web: https://www.linkedin.com/in/martintapp/
-  avatar: https://media-exp1.licdn.com/dms/image/C4E03AQHJuPPC66OPjg/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=mtMLzFeCl1Yhqy-WB11ZQENF1t6cu2do0DIN7SzJZ24
+  avatar: https://www.montreal-jug.org/images/speakers/martin_tapp.jpg
   twitter: doctapp
 
 josh_long:
   name: Josh Long
   web: https://joshlong.com/
-  avatar: https://joshlong.com/media/josh-0.png
+  avatar: https://www.montreal-jug.org/images/speakers/josh_long.jpg
   twitter: starbuxman
 
 louis_jacomet:
   name: Louis Jacomet
   web: https://github.com/ljacomet
-  avatar: https://pbs.twimg.com/profile_images/1196154600971210753/squ61TTm_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/louis_jacomet.jpg
   twitter: ljacomet
 
 mathieu_carbou:
   name: Mathieu Carbou
   web: https://www.mathieu.photography/
-  avatar: https://pbs.twimg.com/profile_images/719167835423907840/Vr1JdwF__400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/mathieu_carbou.jpg
   twitter: mathieucarbou
 
 vincent_tence:
   name: Vincent Tencé
   web: https://github.com/testinfected
-  avatar: https://avatars0.githubusercontent.com/u/128804?s=460&v=4
+  avatar: https://www.montreal-jug.org/images/speakers/vincent_tence.jpg
   twitter: testinfected
 
 leonardo_lima:
   name: Leonardo Lima
   web: https://leomrlima.wordpress.com/author/leomrlima/
-  avatar: https://pbs.twimg.com/profile_images/1054587723015573504/zeIRwVtp_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/leonardo_lima.jpg
   twitter: leomrlima
 
 karthik_lalithraj:
   name: Karthik Lalithraj
   web: https://support.overops.com/hc/en-us/profiles/360078897254-Karthik-Lalithraj
-  avatar: https://blogs.nvidia.com/wp-content/uploads/2017/03/Karthik-Lalithraj_avatar_1488928664-200x200.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/karthik_lalithraj.jpg
   twitter: lalithraj
 
 
 jf_legault:
   name: Jean François Legault
   web: https://www.linkedin.com/in/jelegault/
-  avatar: https://weareadaptive.com/wp-content/themes/bh-core/assets/images/pages/About-us-team/Jean-Francois-Legault.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/jf_legault.jpg
   twitter: JeanFrancoisL13
 
 julien_dubois:
   name: Julien Dubois
   web: https://www.julien-dubois.com/
-  avatar: https://www.julien-dubois.com/img/julien_dubois_medium.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/julien_dubois.jpg
   twitter: juliendubois
 
 vincent_massol:
   name: Vincent Massol
   web: https://massol.myxwiki.org/xwiki/bin/view/Blog/
-  avatar: https://massol.myxwiki.org/xwiki/bin/download/Panels/Whoami/myfacesmall.png
+  avatar: https://www.montreal-jug.org/images/speakers/vincent_massol.jpg
   twitter: vmassol
 
 rafael_winterhalter:
   name: Rafael Winterhalter
   web: https://rafael.codes/
-  avatar: https://rafael.codes/img/rafael-winterhalter.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/rafael_winterhalter.jpg
   twitter: rafaelcodes
 
 heinz_kabutz:
   name: Heinz Kabutz
   web: https://www.javaspecialists.eu/
-  avatar: https://www.javaspecialists.eu/skin/skin4/images/heinz_smiling-150.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/heinz_kabutz.jpg
   twitter: heinzkabutz
 
 audrey_neveu:
   name: Audrey Neveu
   web: https://www.linkedin.com/in/audreyneveu/?originalSubdomain=fr
-  avatar: https://pbs.twimg.com/profile_images/673566017881247744/X75R6Ea8_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/audrey_neveu.jpg
   twitter: Audrey_Neveu
 
 robert_martin:
   name: Robert C. Martin
   web: https://blog.cleancoder.com/
-  avatar: bob.jpeg
+  avatar: https://www.montreal-jug.org/images/speakers/robert_martin.jpg
   twitter: unclebobmartin
 
 victor_rentea:
   name: Victor Rentea
   web: http://www.victorrentea.ro
-  avatar: https://pbs.twimg.com/profile_images/1031254204038504448/m_iWHALY_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/victor_rentea.jpg
   twitter: VictorRentea
 
 ken_fogel:
   name: Ken Fogel
   web: https://www.omnijava.com/
-  avatar: https://secure.gravatar.com/avatar/6805cc3044375303e7284c69ea2a6aed?s=180&d=mm&r=g
+  avatar: https://www.montreal-jug.org/images/speakers/ken_fogel.jpg
   twitter: omniprof
 
 nicolas_frankel:
   name: Nicolas Fränkel
   web: https://blog.frankel.ch/
-  avatar: https://pbs.twimg.com/profile_images/1063110424306929664/9pYrPAp6_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/nicolas_frankel.jpg
   twitter: nicolas_frankel
 
 otavio_santana:
   name: Otávio Santana
   web: https://otaviojava.com/
-  avatar: https://pbs.twimg.com/profile_images/1308713359039180805/thYn0hX2_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/otavio_santana.jpg
   twitter: otaviojava
 
 jose_paumard:
   name: José Paumard
   web: http://blog.paumard.org/
-  avatar: https://avatars.githubusercontent.com/u/1757066?v=4
+  avatar: https://www.montreal-jug.org/images/speakers/jose_paumard.jpg
   twitter: JosePaumard
 
 jean_Philippe_Bempel:
   name: Jean Philippe Bempel
   web: https://jpbempel.github.io/
-  avatar: https://avatars.githubusercontent.com/u/4610701?v=4
+  avatar: https://www.montreal-jug.org/images/speakers/jean_philippe_bempel.jpg
   twitter: jpbempel
 
 max_andersen:
   name: Max Andersen
   web: https://xam.dk/about/
-  avatar: https://avatars.githubusercontent.com/u/54129?v=4
+  avatar: https://www.montreal-jug.org/images/speakers/max_andersen.jpg
   twitter: maxandersen
 
 jonathan_lermitage:
   name: Jonathan Lermitage
   web:
-  avatar: jonathan_lermitage.png
+  avatar: https://www.montreal-jug.org/images/speakers/jonathan_lermitage.jpg
   twitter: JLermitage
 
 guillaume_laforge:
   name: Guillaume Laforge
   web: http://glaforge.appspot.com
-  avatar: https://pbs.twimg.com/profile_images/1433364871253483527/KGHIWlOl_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/guillaume_laforge.jpg
   twitter: glaforge
 
 bruno_borges:
   name: Bruno Borges
   web: https://devblogs.microsoft.com/java/author/brborges/
-  avatar: https://pbs.twimg.com/profile_images/1151543517505658880/FicKfgDO_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/bruno_borges.jpg
   twitter: brunoborges
 
 david_avenante:
   name: David Avenante
   web: https://github.com/altus34
-  avatar: https://pbs.twimg.com/profile_images/682277359/altus34_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/david_avenante.jpg
   twitter: altus34
 
 arthur_veys:
   name: Arthur Veys
   web:
-  avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFroT7ZZhzUUg/profile-displayphoto-shrink_400_400/0/1623361462465?e=1655337600&v=beta&t=1KINrHmX4EzH7T-ZHVB2urqNOiJkw0VqLv-M67I4AhU
+  avatar: https://www.montreal-jug.org/images/speakers/arthur_veys.jpg
   twitter:
 
 xavier_bouclet:
   name: Xavier Bouclet
   web: https://www.xavierbouclet.com
-  avatar: https://avatars.githubusercontent.com/u/957393?v=4
+  avatar: https://www.montreal-jug.org/images/speakers/xavier_bouclet.jpg
   twitter: XavierBOUCLET
 
 stephane_nicoll:
   name: Stéphane Nicoll
   web:
-  avatar: https://pbs.twimg.com/profile_images/1206948501659299848/u76KMNix_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/stephane_nicoll.jpg
   twitter: snicoll
 
 zoe_steinkamp:
   name: Zoe Steinkamp
   web:
-  avatar: https://microsites.databricks.com/sites/default/files/media/images/dataaisummit_speaker/Zoe-Steinkamp-InfluxData-Cropped_1654536177522001Gt5b.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/zoe_steinkamp.jpg
   twitter: InfluxDB
 
 grace_jansen:
   name: Grace Jansen
   web:
-  avatar: https://pbs.twimg.com/profile_images/971410160253067271/oecPiXxJ_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/grace_jansen.jpg
   twitter: gracejansen27
 
 theresa_mammarella:
   name: Theresa Mammarella
   web:
-  avatar: https://pbs.twimg.com/profile_images/1531277921133920256/q7A1RlXp_400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/theresa_mammarella.jpg
   twitter: t_mammarella
 
 jamie_coleman:
   name: Jamie Coleman
   web:
-  avatar: https://pbs.twimg.com/profile_images/1539781465608798209/vkUN5wg__400x400.jpg
+  avatar: https://www.montreal-jug.org/images/speakers/jamie_coleman.jpg
   twitter: jamie_lee_c
 
 rich_haggarty:
   name: Rich Haggarty
   web:
-  avatar: https://media-exp1.licdn.com/dms/image/C5103AQE9o9OsP7izeA/profile-displayphoto-shrink_200_200/0/1516620244506?e=1673481600&v=beta&t=FmZmG7JWoU8KmwcfO7Ll5eS8TQw2wbhiO6lpg98gIYY
+  avatar: https://www.montreal-jug.org/images/speakers/rich_haggarty.jpg
 
 jonathan_schneider:
   name: Jonathan Schneider
   web:
-  avatar: https://media.licdn.com/dms/image/C5603AQFhtRadHKwi9g/profile-displayphoto-shrink_800_800/0/1624034497480?e=1685577600&v=beta&t=bquRwZ-byQS4H2OGszkr1g3omZPQWPoUWjL7MpfTKzE
+  avatar: https://www.montreal-jug.org/images/speakers/jonathan_schneider.jpg
 
 baruch_sadogursky:
   name: Baruch Sadogursky
   web:
-  avatar: https://avatars.githubusercontent.com/u/247332?v=4
+  avatar: https://www.montreal-jug.org/images/speakers/baruch_sadogursky.jpg
 
 nathan_loding:
   name: Nathan Loding
-  web:
-  avatar: https://media.licdn.com/dms/image/C5603AQHKVkrHl9OgPQ/profile-displayphoto-shrink_800_800/0/1659545276233?e=1704326400&v=beta&t=gxSkcPNruv3ARrj_o7NSo-Rum25cYf_B_SBpDBYXMnQ
+  web: https://www.linkedin.com/in/nloding/
+  avatar: https://www.montreal-jug.org/images/speakers/nathan_loding.jpg
+  twitter: https://twitter.com/NathanLoding
 
 dashaun_carter:
   name: Dashaun Carter
   web: https://dashaun.com/
-  avatar: https://dashaun.com/images/avatar.png
+  avatar: https://www.montreal-jug.org/images/speakers/dashaun_carter.jpg
   twitter: https://twitter.com/dashaun
