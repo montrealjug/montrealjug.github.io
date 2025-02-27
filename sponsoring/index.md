@@ -13,8 +13,7 @@ image:
 
 __ATTENTION:__ 
 
-Nos plans de commandite ont changé en mars 2019.<br/>
-Les anciens plans pour les commanditaires actuels sont [disponibles ici](https://www.montreal-jug.org/sponsoring/v1/).
+Nos plans de commandite pour 2025.<br/>
 
 __Saison:__ de Septembre à Juin
 
@@ -38,6 +37,7 @@ Le Montréal JUG est une OBNL. Les fonds sont utilisés pour
 * Défrayer les conférenciers
 * Imprimer des T-shirts et autres objets promotionnels
 * Défrayer les organisateurs
+* Acheter du matériel pour le Devoxx4kids (informations complémentaires ci-dessous)
 
 Le solde, **qui constitue en pratique la grande majorité des fonds**, sera utilisé pour acquérir du matériel pour Devoxx4kids. 
 Nous tenons à garder l'ensemble des autres frais le plus bas possible afin que vos dons soient utilisés là 
