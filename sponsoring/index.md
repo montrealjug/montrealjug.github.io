@@ -9,33 +9,6 @@ image:
   creditlink:
 ---
 
-Être commanditaire du Montréal JUG, c'est être commanditaire d'un des plus gros JUG au monde. Votre entreprise obtiendra 
-une visibilité conséquente dans le monde Java à Montréal.
-
-Être commanditaire du Montréal JUG, c'est aussi être commanditaire de <a href="https://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4kids Québec</a>. Il 
-s'agit de la branche montréalaise d'un **[mouvement mondial](https://www.devoxx4kids.org/events/)** visant à former gratuitement les enfants de 5 à 16 ans à la programmation, à l'électronique et à la 
-robotique. Garçons et filles travaillent en équipe sur de l'équipement que votre commandite nous a permis de leur fournir. Ces 
-enfants vous serons **éternellement reconnaissant**, car vous nous avez aidé à préparer leur avenir.
-
-De leur part et de notre part, **merci**.
-
-![](/images/Flyer%20RECTO.png)
-![](/images/Flyer%20VERSO.png)
-
-## Statistiques
-
-|  | __Montréal JUG__ | __Devoxx4Kids QC__ |
-|--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-| __Sites__ | [Site web](https://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](https://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
-| __Depuis__ | 2010 | 2014 |
-| __Public__ | Professionnels en informatique<br>Particulièrement en développement Java | Enfants de 5 à 16 ans |
-| __Période__ | Septembre à Juin (10 mois) | Septembre à Juin (10 mois) |
-| __Fréquence__ | 1 conférence par mois, ou plus si possible | ~ 2 journées d’ateliers par an, ou plus si possible |
-| __Audience (RSVP)__ | ~ 65 personnes / conférence<br>Parmi les plus gros au monde! | ~ 80-100 enfants / journée<br> ~ 8 workshops / journée |
-| __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
-| __Membres__ | ~ 2500 membres (fin 2019)<br> ~ 40 nouveaux membres / mois | N/A |
-| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10<br>2017-2018: 10<br>2018-2019: 10<br>2019-2020: A venir | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 3<br>2018: 3<br>2019: 3<br>2020: A venir |
-
 ## Plans de commandite
 
 __ATTENTION:__ 
@@ -51,8 +24,8 @@ __Saison:__ de Septembre à Juin
 | __Présence sur le groupe Meetup__                 | ✅            | ✅            | ❌           |
 | __Présence dans les annonces des conférences__    | ✅            | ✅            | ❌           |
 | __Présence sur l'écran au début des conférences__ | ✅<br/>(grand)| ✅<br/>(petit)| ❌           |
-| __Annonce sur notre mailing-list__                | ✅<br/>(1x/mois)| ✅<br/>1   | ❌           |
 | __Discours de 5min avant la conférence__          | 🏢<br/>(si hébergeur)| 🏢<br/>(si hébergeur)| ✅ |
+| __Partenaire du Devoxx4kids__                     | ✅<br/>       | ❌             | ❌           |
 | __Prix par saison__                               | 3,000$        | 1,500$        | Gratuit       |
 
 Nous ne pouvons pas pas garantir le nombre de conférences (JUG) et ateliers (Devoxx4Kids).
@@ -70,6 +43,20 @@ Le solde, **qui constitue en pratique la grande majorité des fonds**, sera util
 Nous tenons à garder l'ensemble des autres frais le plus bas possible afin que vos dons soient utilisés là 
 où c'est le plus utile. 
 En nous aidant, vous aidez donc d'abord et avant tout **les enfants**.
+
+## Statistiques
+
+|  | __Montréal JUG__ | __Devoxx4Kids QC__ |
+|--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| __Sites__ | [Site web](https://montreal-jug.org) - [Twitter](https://twitter.com/montrealjug) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](https://www.devoxx4kids.org/quebec) - [Twitter](https://twitter.com/devoxx4kidsqc) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
+| __Depuis__ | 2010 | 2014 |
+| __Public__ | Professionnels en informatique<br>Particulièrement en développement Java | Enfants de 5 à 16 ans |
+| __Période__ | Septembre à Juin (10 mois) | Septembre à Juin (10 mois) |
+| __Fréquence__ | 1 conférence par mois, ou plus si possible | ~ 2 journées d’ateliers par an, ou plus si possible |
+| __Audience (RSVP)__ | ~ 65 personnes / conférence<br>Parmi les plus gros au monde! | ~ 80-100 enfants / journée<br> ~ 8 workshops / journée |
+| __Pages vues__ | ~ 1300 pages vues / mois<br>Meetup: ~ 900 page vues / mois<br>Site Web: ~ 400 pages vues / mois | N/A |
+| __Membres__ | ~ 2500 membres (fin 2019)<br> ~ 40 nouveaux membres / mois | N/A |
+| __Historique des conférences__ | 2010-2011: 10<br>2011-2012: 10<br>2012-2013: 7<br> 2013-2014: 4<br>2014-2015: 9<br>2015-2016: 9<br>2016-2017: 10<br>2017-2018: 10<br>2018-2019: 10<br>2019-2020: A venir | 2014: 1<br>2015: 1<br>2016: 3<br>2017: 3<br>2018: 3<br>2019: 3<br>2020: A venir |
 
 ## Achats et dons
 
