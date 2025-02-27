@@ -18,7 +18,7 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/fb568d9708b892eb0c6dc261cd00a619?s=50"/> Anthony Dahanne (Président) (anthony at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/8742852ac6f6d46432ce3fc982d67ccc?s=50"/> Romain Dalichamp (Secrétaire) (romain at montreal-jug.org)
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/"/> Ludovic Remacle (Trésorier) (ludovic at montreal-jug.org)  
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Ludovic Remacle (Trésorier) (ludovic at montreal-jug.org)  
 
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Marion Félix (marion at montreal-jug.org)  
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/ce876bdab15e1803ba8a1d8c7b7ad7bc?s=50"/> Roan Brasil Monteiro (roan at montreal-jug.org)
