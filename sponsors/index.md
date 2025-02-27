@@ -19,12 +19,12 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
 
 Ils offrent le gîte et parfois le couvert. Merci à eux.
 
-<a href="https://intactlab.ca/fr/" title="Intact Lab" target="_blank"><img src="/images/sponsors/gologic.png" width="100px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
+<a href="https://intactlab.ca/fr/" title="Intact Lab" target="_blank"><img src="/images/sponsors/intact_lab.jpeg" width="100px" style="vertical-align: top;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://maplr.co/" title="Maplr" target="_blank"><img src="/images/sponsors/maplr.png" width="100px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tsimagine.com/" title="TS Imagine" target="_blank"><img src="/images/sponsors/tsimagine.svg" width="100px" style="vertical-align: top;"></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Partenaires
