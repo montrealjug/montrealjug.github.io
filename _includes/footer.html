@@ -8,20 +8,18 @@
   <div class="social-icons sponsors diamant">
   </div>
   <div class="social-icons sponsors platinium">
-    <a href="https://www.gologic.ca/" title="GoLogic" target="_blank"><img src="/images/sponsors/gologic.png" alt="GoLogic"></a>
+   <!--
+	<a href="https://www..ca/" title="" target="_blank"><img src="/images/sponsors/.png" alt=""></a>
+  	-->
   </div>
 	<div class="social-icons">
 		{% if site.owner.meetup %}<a href="https://www.meetup.com/{{ site.owner.meetup }}" title="{{ site.owner.name}} on Meetup" target="_blank"><img src="/images/meetup.png" alt="Meetup" width="40px" style="vertical-align: top;"></a>{% endif %}
-		{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+		{% if site.owner.bluesky %}<a href="https://bsky.app/{{ site.owner.bluesky }}" title="{{ site.owner.name}} on Bluesky" target="_blank"><img src="/images/bluesky.png" alt="Meetup" width="40px" style="vertical-align: top;"></a>{% endif %}
 		{% if site.owner.youtube %}<a href="https://www.youtube.com/channel/{{ site.owner.youtube }}" title="{{ site.owner.name}} on Youtube" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>{% endif %}
-		{% if site.owner.twitch %}<a href="https://www.twitch.tv/{{ site.owner.twitch }}" title="{{ site.owner.name}} on Twitch" target="_blank"><img src="/images/twitch.png" alt="Meetup" width="30px" style="vertical-align: top;"></a>{% endif %}
 		{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 		{% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
-		{% if site.owner.stackexchange %}<a href="{{ site.owner.stackexchange }}" title="{{ site.owner.name}} on StackExchange" target="_blank"><i class="fa fa-stack-exchange fa-2x"></i></a>{% endif %}
 		{% if site.owner.instagram %}<a href="https://instagram.com/{{ site.owner.instagram }}" title="{{ site.owner.name}} on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}
-		{% if site.owner.flickr %}<a href="https://www.flickr.com/photos/{{ site.owner.flickr }}" title="{{ site.owner.name}} on Flickr" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>{% endif %}
 		{% if site.owner.github %}<a href="https://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
-		{% if site.owner.tumblr %}<a href="https://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="fa fa-tumblr-square fa-2x"></i></a>{% endif %}
 		{% if site.owner.linkedin %}<a href="{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
 		{% if site.owner.slack %}<a href="{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><img src="/images/slack.png" alt="Slack" width="30px" style="vertical-align: top;"></a>{% endif %}
     <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
