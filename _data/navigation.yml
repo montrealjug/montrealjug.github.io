@@ -3,8 +3,9 @@
 - title: Accueil
   url: /
 
-- title: Meetups
-  url: /meetup/
+# Disable the Meetup site redundant with the acceuil
+#- title: Meetups
+#  url: /meetup/
 
 - title: Annonces
   url: /blog/
