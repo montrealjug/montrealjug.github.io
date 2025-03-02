@@ -3,20 +3,20 @@
 - title: Accueil
   url: /
 
-- title: Meetups
-  url: /meetup/
-
 - title: Annonces
   url: /blog/
-
-- title: Sponsors
-  url: /sponsors/
 
 - title: Devenir membre
   url: /membership/
 
 - title: Devenir sponsor
   url: /sponsoring/
+
+- title: Sponsors
+  url: /sponsors/
+
+- title: Meetups
+  url: /meetup/
 
 - title: Équipe
   url: /team/
