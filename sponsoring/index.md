@@ -44,6 +44,7 @@ En nous aidant, vous aidez donc d'abord et avant tout **les enfants**.
 
 ## Statistiques
 
+
 |  |                                                                                                        __Montréal JUG__                                                                                                        |                                                                       __Devoxx4Kids QC__                                                                        |
 |--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | __Sites__ | [Site web](https://montreal-jug.org) - [Bluesky](https://web-cdn.bsky.app/profile/montrealjug.org) - [Meetup](https://www.meetup.com/montreal-jug) - [Facebook](https://facebook.com/Montreal-Java-User-Group-145299602245793) | [Site web](https://www.devoxx4kids.org/quebec) - [Bluesky](https://bsky.app/profile/devoxx4kidsqc.bsky.social) - [Facebook](https://facebook.com/Devoxx4KidsQC) |
