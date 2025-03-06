@@ -27,7 +27,7 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/285b2063822ec9365eeebf6840028dca?s=50"/> David Avenante
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03?s=50"/> Henri Tremblay
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/9db6fc82f800e193111dd725dd3a7b52?s=100"/> Mathieu Carbou
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/9db6fc82f800e193111dd725dd3a7b52?s=50"/> Mathieu Carbou
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/e51fb0519a46a15f82be5b23528a7926?s=50"/> Xavier Bouclet
 
 ## Bénévoles / Aspirant 
