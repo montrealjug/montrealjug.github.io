@@ -34,5 +34,5 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les Java User Group de Montréal !
 
-- Felis
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Felis Sedano
 
