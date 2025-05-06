@@ -6,7 +6,7 @@ meetup: 307645724
 modified:
 categories: meetup
 hidden: false
-author: mickael_francoeur
+author: mikael_francoeur
 tags: []
 comments: true
 share: true
