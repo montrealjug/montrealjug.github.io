@@ -4,6 +4,11 @@ montreal_jug:
   avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
   twitter: montrealjug
 
+software_crafters_mtl:
+  name: Software Crafters Montreal
+  web: https://guild.host/software-crafters-montreal/events
+  avatar: https://www.montreal-jug.org/images/speakers/software_crafters_mtl.jpg
+
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
@@ -438,6 +443,16 @@ mikael_francoeur:
   web: https://confoo.ca/en/speaker/mikael-francoeur
   avatar: https://confoo.ca/images/speakers/2025/mikael-francoeur_l.jpg
   twitter:
+
+kyle_davis:
+  name: Kyle Davis
+  web: https://kylejdavis.com/presentations.html
+  avatar: https://avatars.githubusercontent.com/u/1152927?v=4
+
+pratik_patel:
+  name: Pratik Patel
+  web: https://www.azul.com/blog/author/pratik-patel
+  avatar: https://confoo.ca/images/speakers/2024/pratik-patel_l.jpg
 
 haoyi_li:
   name: Haoyi Li
