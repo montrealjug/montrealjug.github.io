@@ -4,6 +4,11 @@ montreal_jug:
   avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
   twitter: montrealjug
 
+software_crafters_mtl:
+  name: Software Crafters Montreal
+  web: https://guild.host/software-crafters-montreal/events
+  avatar: https://www.montreal-jug.org/images/speakers/software_crafters_mtl.jpg
+
 jerome_mirc:
   name: Jérôme Mirc
   web: https://github.com/jmirc
@@ -427,15 +432,61 @@ dashaun_carter:
   avatar: https://www.montreal-jug.org/images/speakers/dashaun_carter.jpg
   twitter: https://twitter.com/dashaun
 
+eric_deandrea:
+  name: Eric Deandrea
+  web: https://developers.redhat.com/author/eric-deandrea
+  avatar: https://avatars.githubusercontent.com/u/363447?v=4
+  twitter: x.com/edeandrea
+
 scott_stroz:
   name: Scott Stroz
   web: https://blogs.oracle.com/mysql/authors/scott-stroz
   avatar: https://blogs.oracle.com/content/published/api/v1.1/assets/CONTA27FC975FA704F1E943B503A269E7839/Medium?cb=_cache_5c73&format=jpg&channelToken=32954b2a813146c9b9a4fa99364eba8e
-  twitter: 
+  twitter:
+
+norman_aberin:
+  name: Norman Aberin
+  web: https://medium.com/@npaberin
+  avatar: https://confoo.ca/images/speakers/2025/norman-aberin_l.jpg
+  twitter:
 
 mikael_francoeur:
   name: Mikael Francoeur
   web: https://confoo.ca/en/speaker/mikael-francoeur
   avatar: https://confoo.ca/images/speakers/2025/mikael-francoeur_l.jpg
-  twitter: 
-  
+  twitter:
+
+kyle_davis:
+  name: Kyle Davis
+  web: https://kylejdavis.com/presentations.html
+  avatar: https://avatars.githubusercontent.com/u/1152927?v=4
+
+pratik_patel:
+  name: Pratik Patel
+  web: https://www.azul.com/blog/author/pratik-patel
+  avatar: https://confoo.ca/images/speakers/2024/pratik-patel_l.jpg
+
+haoyi_li:
+  name: Haoyi Li
+  web: https://www.lihaoyi.com/
+  avatar: https://avatars.githubusercontent.com/u/934140?v=4
+
+gregory_boero_teyssier:
+  name: Gregory Boero Teyssier
+  web:
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
+
+hugo_despagne:
+  name: Hugo Despagne
+  web:
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
+
+milton_eustache:
+  name: Milton Eustache
+  web:
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
+
+anthony_giretti:
+  name: Anthony Giretti
+  web:
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
