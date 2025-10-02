@@ -6,7 +6,8 @@ meetup: 304207231
 modified:
 categories: meetup
 hidden: false
-author: montreal_jug
+author: gregory_boero_teyssier
+coauthors: [hugo_despagne, milton_eustache, anthony_giretti]
 tags: []
 comments: true
 share: true
