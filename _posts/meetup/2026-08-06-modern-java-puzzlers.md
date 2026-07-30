@@ -5,7 +5,7 @@ excerpt: ""
 meetup: 315882307
 modified:
 categories: [meetup]
-hidden: true
+hidden: false
 author: simon_ritter
 coauthors: []
 tags: []
