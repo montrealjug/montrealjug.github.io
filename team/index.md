@@ -18,8 +18,8 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/fb568d9708b892eb0c6dc261cd00a619?s=50"/> Anthony Dahanne <strong>(Président)</strong> (anthony at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/8742852ac6f6d46432ce3fc982d67ccc?s=50"/> Romain Dalichamp <strong>(Secrétaire)</strong> (romain at montreal-jug.org)
-- <img class="bio-photo bio-member" src="/images/ludovic-remacle.jpeg" width="50" height="50"/> Ludovic Remacle <strong>(Trésorier)</strong> (ludovic at montreal-jug.org)  
-- <img class="bio-photo bio-member" src="/images/marion-felix.jpeg" width="50" height="50"/> Marion Félix (marion at montreal-jug.org)  
+- <img class="bio-photo bio-member" src="/images/ludovic-remacle.jpeg" style="width:50px !important;height:50px !important;object-fit:cover;"/> Ludovic Remacle <strong>(Trésorier)</strong> (ludovic at montreal-jug.org)  
+- <img class="bio-photo bio-member" src="/images/marion-felix.jpeg" style="width:50px !important;height:50px !important;object-fit:cover;"/> Marion Félix (marion at montreal-jug.org)  
 
 ## Alumni
 
@@ -32,5 +32,5 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 
 Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les Java User Group de Montréal !
 
-- <img class="bio-photo bio-member" src="/images/felis-sedano.jpeg" width="50" height="50"/> Felis Sedano
-- <img class="bio-photo bio-member" src="/images/Mihaly-Szabo.jpg" width="50" height="50"/> Mihaly Szabo
+- <img class="bio-photo bio-member" src="/images/felis-sedano.jpeg" style="width:50px !important;height:50px !important;object-fit:cover;"/> Felis Sedano
+- <img class="bio-photo bio-member" src="/images/Mihaly-Szabo.jpg" style="width:50px !important;height:50px !important;object-fit:cover;"/> Mihaly Szabo
