@@ -34,4 +34,3 @@ Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les
 
 - <img class="bio-photo bio-member" src="/images/felis-sedano.jpeg"/> Felis Sedano
 - <img class="bio-photo bio-member" src="/images/Mihaly-Szabo.jpg"/> Mihaly Szabo
-
