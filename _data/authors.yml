@@ -504,3 +504,45 @@ deniz_onur_duzgun:
   name: Deniz Onur Duzgun
   web:
   avatar: https://avatars.githubusercontent.com/u/59659739?v=4
+
+pavel_makhov:
+  name: Pavel Makhov
+  web: https://github.com/streetturtle
+  avatar: https://www.montreal-jug.org/images/speakers/pavel_makhov.jpg
+  twitter:
+
+kito_mann:
+  name: Kito Mann
+  web: https://github.com/kito99
+  avatar: https://www.montreal-jug.org/images/speakers/kito_mann.jpg
+  twitter: kito99
+
+maxime_david:
+  name: Maxime David
+  web: https://github.com/maxday
+  avatar: https://www.montreal-jug.org/images/speakers/maxime_david.jpg
+  twitter: _maxday
+
+michael_carducci:
+  name: Michael Carducci
+  web: https://github.com/carducci
+  avatar: https://www.montreal-jug.org/images/speakers/michael_carducci.jpg
+  twitter:
+
+benoit_combe:
+  name: Benoit Combe
+  web:
+  avatar: https://www.montreal-jug.org/images/speakers/montreal_jug.jpg
+  twitter:
+
+spencer_gibb:
+  name: Spencer Gibb
+  web: https://github.com/spencergibb
+  avatar: https://www.montreal-jug.org/images/speakers/spencer_gibb.jpg
+  twitter: SpencerBGibb
+
+sean_sullivan:
+  name: Sean Sullivan
+  web: https://github.com/sullis
+  avatar: https://www.montreal-jug.org/images/speakers/sean_sullivan.jpg
+  twitter:
