@@ -355,6 +355,12 @@ bruno_borges:
   avatar: https://www.montreal-jug.org/images/speakers/bruno_borges.jpg
   twitter: brunoborges
 
+bruno_souza:
+  name: Bruno Souza
+  web: https://www.javaman.com.br/
+  avatar: https://www.montreal-jug.org/images/speakers/bruno_souza.jpg
+  twitter: brjavaman
+
 david_avenante:
   name: David Avenante
   web: https://github.com/altus34
