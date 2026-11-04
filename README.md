@@ -2,16 +2,26 @@
 
 [![Join the chat at https://gitter.im/montrealjug/montrealjug.github.io](https://badges.gitter.im/montrealjug/montrealjug.github.io.svg)](https://gitter.im/montrealjug/montrealjug.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-If you are using cygwin:
+The site is built with [Roq](https://iamroq.dev/) (a Quarkus static site generator): Java 25 + Maven, no Ruby needed.
 
-`export COMSPEC=/cygdrive/c/Windows/System32/cmd.exe`
+- Run locally with live reload: `./mvnw quarkus:dev`, then open http://localhost:8080
+- Generate the static site into `target/roq`: `QUARKUS_ROQ_GENERATOR_BATCH=true ./mvnw package quarkus:run`
+- Add a post: copy an existing file in `content/meetup/` (or `content/blog/`), named `YYYY-MM-DD-slug.md`, and edit its front matter
+  (the URL is `/meetup/<slug>/`, the slug keeps the file name case)
+- Speakers are in `data/authors.yml`, the menu in `data/navigation.yml`, site settings in `data/settings.yml`
+- commit & push: GitHub Actions builds and deploys `main` to GitHub Pages
 
-- Install Jekyll Stack + Octopress
-- Run: `> octopress new post "My title"`
-- move generated file from _posts into blog or meetup folder
-- edit file header accordingly (see existing samples)
-- increase version in _config.yml
-- commit & push
+Where things live (Jekyll → Roq):
+
+| Jekyll | Roq |
+|---|---|
+| `_posts/meetup`, `_posts/blog` | `content/meetup`, `content/blog` (one collection each) |
+| pages (`team/index.md`, ...) | `content/team/index.md`, ... |
+| `_layouts`, `_includes` (Liquid) | `templates/layouts`, `templates/partials` (Qute) |
+| `_data` | `data` |
+| `_config.yml` | `data/settings.yml` + `src/main/resources/application.properties` |
+| `_sass`, `assets/css/main.scss` | `src/main/resources/web/app` (compiled by the Quarkus Web Bundler) |
+| `images`, `assets`, icons, `CNAME` | `public` |
 
 ## Grunt
 

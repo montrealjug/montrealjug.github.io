@@ -9,3 +9,7 @@ node_modules
 *.stackdump
 /.bundle/
 /.jekyll-metadata
+
+# Roq / Maven
+target/
+.quarkus/

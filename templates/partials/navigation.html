@@ -1,0 +1,30 @@
+{#if cdi:settings.navbar??}
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      {#for link in cdi:navigation.list}
+		    <li><a href="{#if link.url.startsWith('http')}{link.url}{#else}{site.url(link.url).absolute}{/if}" {#if link.url.startsWith('http')}target="_blank"{/if}>{link.title}</a></li>
+		  {/for}
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+{/if}
+
+{#include partials/browser-upgrade.html /}
+
+{#if page.data.image.feature??}<header class="masthead">
+	{#if cdi:settings.logo??}
+		<div class="wrap">
+			<a href="{site.url.absolute}" class="site-logo" rel="home" title="{cdi:settings.title}"><img src="{site.url.absolute}images/{cdi:settings.logo}" alt="{cdi:settings.title} logo" class=""></a>
+		</div>
+	{/if}
+</header><!-- /.masthead -->
+{#else}<header class="masthead">
+	<div class="wrap">
+        {#if cdi:settings.logo??}
+    		<a href="{site.url.absolute}" class="site-logo" rel="home" title="{cdi:settings.title}"><img src="{site.url.absolute}images/{cdi:settings.logo}" alt="{cdi:settings.title} logo" class=""></a>
+        {/if}
+	</div>
+</header><!-- /.masthead -->{/if}
+
+<div class="js-menu-screen menu-screen"></div>

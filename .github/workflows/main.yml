@@ -1,16 +1,15 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+# Builds the Roq (Quarkus) site and deploys it to GitHub Pages
+name: Deploy Roq site to Pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
     branches:
-      - master
+      - main
+  # Builds (without deploying) pull requests, to catch template/content errors early
+  pull_request:
+    branches:
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -24,36 +23,27 @@ permissions:
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: "pages"
+  group: "pages-${{ github.event_name }}-${{ github.ref }}"
   cancel-in-progress: false
 
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-24.04 # ubuntu-latest (26.04) fails to build io-event native ext with Ruby 3.2
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Build Roq site
+        # Sets up the JDK, runs `./mvnw package quarkus:run` with the Roq generator, uploads target/roq
+        uses: quarkiverse/quarkus-roq@v1.1
         with:
-          ruby-version: '3.2' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+          java-version: '25'
+          site-url: https://www.montreal-jug.org/
+          github-pages: ${{ github.event_name != 'pull_request' }}
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

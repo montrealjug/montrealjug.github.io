@@ -1,0 +1,36 @@
+# Site wide configuration (was _config.yml), available in templates as cdi:settings
+
+title: Montréal JUG
+locale: fr_CA
+description: Le Montréal JUG est une association à but non lucratif dont l’objectif est d’organiser des conférences et rencontres gratuites et accessibles dans le domaine du langage de programmation Java. Les conférences sont en français ou en anglais, à la discrétion du présentateur. Le Montréal JUG est aussi l’un des plus gros JUG au monde avec plus de 1500 membres et une audience moyenne de 65 professionnels en informatique à chaque conférence, et une croissance en 2015-2016 de 40 nouveaux membres par mois!
+logo: logo.png
+search: false
+version: 6
+navbar: true
+
+# Site owner
+owner:
+  name: Montréal JUG
+  avatar: photo.jpg
+  email: info@montreal-jug.org
+  disqus-shortname: montrealjug
+  twitter: montrealjug
+  github: montrealjug
+  linkedin: "https://www.linkedin.com/company/2778058/"
+  meetup: montreal-jug
+  facebook: "pages/Montreal-Java-User-Group/145299602245793"
+  youtube: UCiaGT66yyC_zr-oc4P9OPOw
+  twitch: montrealjug
+  slack: https://montrealjug.slack.com/
+  bluesky: profile/montrealjug.org
+  stackexchange:
+  instagram:
+  flickr:
+  tumblr:
+  google:
+    plus:
+    analytics: UA-25715796-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
