@@ -1,0 +1,61 @@
+<meta charset="utf-8">
+<title>{#if page.title??}{page.title.raw} &#8211; {/if}{cdi:settings.title}</title>
+{#if page.data.excerpt??}<meta name="description" content="{page.data.excerpt.stripHtml}">{/if}
+{#if page.data.tags??}<meta name="keywords" content="{#each page.data.tags}{it}{#if it_hasNext}, {/if}{/each}">{/if}
+
+{#if page.data.author??}
+{#include partials/open-graph.html author=cdi:authors.get(page.data.author) /}
+{#else}
+{#include partials/open-graph.html author=cdi:settings.owner /}
+{/if}
+
+{#if cdi:settings.owner.google.verify??}<!-- Webmaster Tools verification -->
+<meta name="google-site-verification" content="{cdi:settings.owner.google.verify}">{/if}
+{#if cdi:settings.owner.bing-verify??}<meta name="msvalidate.01" content="{cdi:settings.owner.bing-verify}">{/if}
+
+<link rel="canonical" href="{page.url.absolute}">
+<link href="{site.url.absolute}feed.xml" type="application/atom+xml" rel="alternate" title="{cdi:settings.title} Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+{#bundle /}
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="{site.url.absolute}assets/js/vendor/html5shiv.min.js"></script>
+  <script src="{site.url.absolute}assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="{site.url.absolute}assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="{site.url.absolute}apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="{site.url.absolute}apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="{site.url.absolute}apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{site.url.absolute}apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="{site.url.absolute}apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{site.url.absolute}apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{site.url.absolute}apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{site.url.absolute}apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{site.url.absolute}apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{site.url.absolute}android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{site.url.absolute}favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{site.url.absolute}favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{site.url.absolute}favicon-16x16.png">
+<link rel="manifest" href="{site.url.absolute}manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<!-- no cache -->
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />

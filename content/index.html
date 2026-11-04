@@ -1,0 +1,13 @@
+---
+layout: page
+title: Activité récente
+excerpt: "Le Montréal Java User Group (JUG) est un groupe d'utilisateurs Java se réunissant régulièrement afin d'échanger des idées et de discuter des avancées technologiques de la plateforme Java."
+---
+
+<ul class="post-list">
+{#for post in site.posts.take(10)}
+    {#if !post.data.hidden??}
+    <li><article><a href="{post.url.absolute}">{post.title.raw} <span class="entry-date"><time datetime="{post.date.format("yyyy-MM-dd'T'HH:mm:ssXXX")}">{post.date.format('MMMM dd, yyyy')}</time></span></a></article></li>
+    {/if}
+{/for}
+</ul>

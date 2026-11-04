@@ -1,0 +1,25 @@
+<div>
+	<div class="social-icons">
+		{#if cdi:settings.owner.meetup??}<a href="https://www.meetup.com/{cdi:settings.owner.meetup}" title="{cdi:settings.owner.name} on Meetup" target="_blank"><img src="/images/meetup.png" alt="Meetup" width="40px" style="vertical-align: top;"></a>{/if}
+		{#if cdi:settings.owner.bluesky??}<a href="https://bsky.app/{cdi:settings.owner.bluesky}" title="{cdi:settings.owner.name} on Bluesky" target="_blank"><img src="/images/bluesky.png" alt="Bluesky" width="28px" style="vertical-align: top;"></a>{/if}
+		{#if cdi:settings.owner.youtube??}<a href="https://www.youtube.com/channel/{cdi:settings.owner.youtube}" title="{cdi:settings.owner.name} on Youtube" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.facebook??}<a href="https://facebook.com/{cdi:settings.owner.facebook}" title="{cdi:settings.owner.name} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.google.plus??}<a href="https://plus.google.com/+{cdi:settings.owner.google.plus}" title="{cdi:settings.owner.name} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.instagram??}<a href="https://instagram.com/{cdi:settings.owner.instagram}" title="{cdi:settings.owner.name} on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.github??}<a href="https://github.com/{cdi:settings.owner.github}" title="{cdi:settings.owner.name} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.linkedin??}<a href="{cdi:settings.owner.linkedin}" title="{cdi:settings.owner.name} on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>{/if}
+		{#if cdi:settings.owner.slack??}<a href="{cdi:settings.owner.slack}" title="{cdi:settings.owner.name} on Slack" target="_blank"><img src="/images/slack.png" alt="Slack" width="30px" style="vertical-align: top;"></a>{/if}
+    <a href="{site.url.absolute}feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+	</div>
+  <!-- /.social-icons -->
+
+  <span>&copy; {currentYear} {cdi:settings.owner.name}.</span>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      {|new google.translate.TranslateElement({pageLanguage: 'fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');|}
+    }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</div>

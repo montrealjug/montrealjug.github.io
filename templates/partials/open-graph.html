@@ -1,0 +1,19 @@
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="{page.title.raw}">
+{#if page.data.excerpt??}<meta name="twitter:description" content="{page.data.excerpt.stripHtml}">{/if}
+{#if cdi:settings.owner.twitter??}<meta name="twitter:site" content="@{cdi:settings.owner.twitter}">{/if}
+{#if author.twitter??}<meta name="twitter:creator" content="@{author.twitter}">{/if}
+{#if page.data.image.feature??}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{site.url.absolute}images/{page.data.image.feature}">
+{#else}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{site.url.absolute}images/{page.data.image.thumb ?: cdi:settings.logo}">
+{/if}
+<!-- Open Graph -->
+<meta property="og:locale" content="{cdi:settings.locale}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{page.title.raw}">
+{#if page.data.excerpt??}<meta property="og:description" content="{page.data.excerpt.stripHtml}">{/if}
+<meta property="og:url" content="{page.url.absolute}">
+<meta property="og:site_name" content="{cdi:settings.title}">

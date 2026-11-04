@@ -1,0 +1,16 @@
+{#let avatar=(author.avatar ?: '') name=(author.name ?: '')}
+{#if avatar.startsWith('http')}
+<img src="{avatar}" class="bio-photo" alt="{name} bio photo"></a>
+{#else}
+<img src="{site.url.absolute}images/{avatar}" class="bio-photo" alt="{name} bio photo"></a>
+{/if}
+{#if author.web??}
+<span class="author vcard">By <span class="fn"><a target="_blank" href="{author.web}">{name}</a></span></span>
+{#else}
+<span class="author vcard">By <span class="fn">{name}</span></span>
+{/if}
+{/let}
+<span class="entry-date date published"><time datetime="{page.date.format("yyyy-MM-dd'T'HH:mm:ssXXX")}"><i class="fa fa-calendar-o"></i> {page.date.format('MMMM dd, yyyy')}</time></span>
+{#if page.data.modified??}<span class="entry-date date modified"><time datetime="{page.data.modified}"><i class="fa fa-pencil"></i> {page.data.modified.longDate}</time></span>{/if}
+{#if cdi:settings.owner.disqus-shortname?? && page.data.comments??}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{/if}
+{#if page.data.share??}{#include partials/social-share.html /}{/if}

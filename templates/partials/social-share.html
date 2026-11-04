@@ -1,0 +1,10 @@
+<span class="social-share-twitter">
+  <a href="https://twitter.com/intent/tweet?hashtags={#each page.data.tags??}{it.replace(' ', '')}{#if it_hasNext},{/if}{/each}&amp;text={page.title.replace(' ', '%20')}&amp;url={page.url.absolute}{#if author.twitter??}&amp;via={author.twitter}{/if}" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={page.url.absolute}" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+</span>
+<span class="social-share-googleplus">
+  <a href="https://plus.google.com/share?url={page.url.absolute}" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+</span>
+<!-- /.social-share -->

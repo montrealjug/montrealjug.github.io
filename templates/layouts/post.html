@@ -1,0 +1,99 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]>
+<html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"><!--<![endif]-->
+<head>
+    {#include partials/head.html /}
+</head>
+
+<body id="post">
+
+{#include partials/navigation.html /}
+
+<div id="main" role="main">
+    <article class="hentry">
+        {#if page.data.image.feature??}<img src="{site.url.absolute}images/{page.data.image.feature}" class="entry-feature-image" alt="{page.title.raw}" {#if !cdi:settings.logo??}style="margin-top:0;"{/if}>{#if page.data.image.credit??}<p class="image-credit">Photo Credit: <a
+            href="{page.data.image.creditlink}">{page.data.image.credit}</a>{/if}{/if}
+
+        <div class="entry-wrapper">
+            <header class="entry-header">
+                <span class="entry-tags">{#for tag in page.data.tags??}<a href="{site.url.absolute}tags/#{tag}" title="Pages tagged {tag}">{tag}</a>{#if tag_hasNext}&nbsp;&bull;&nbsp;{/if}{/for}</span>
+                <h1 class="entry-title">{page.title.raw}</h1>
+            </header>
+            <footer class="multi-authors-entry-meta">
+                <div>
+                    {#if page.data.author??}
+                    {#include partials/author.html author=cdi:authors.get(page.data.author) /}
+                    {#else}
+                    {#include partials/author.html author=cdi:settings.owner /}
+                    {/if}
+                </div>
+
+                {#for coauthor in page.data.coauthors??}
+                <div>
+                    {#include partials/author.html author=cdi:authors.get(coauthor) /}
+                </div>
+                {/for}
+            </footer>
+            <div class="entry-content">
+                {#insert /}
+                {#if cdi:settings.owner.meetup?? && page.data.meetup??}
+                <div id="meetup-rsvp">
+                    <a target="_blank" href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/">S'inscrire / Register</a>:
+                    &nbsp;&nbsp;
+                    <a href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/" data-event="208556582" class="mu-rsvp-btn">RSVP</a>
+                    &nbsp;&nbsp;
+                    <a target="_blank" href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/">Plus de détails / More details</a>...
+                </div>
+                <!-- /#meetup -->{/if}
+                {#if cdi:settings.owner.disqus-shortname?? && page.data.comments??}
+                <div id="disqus_thread"></div>
+                <!-- /#disqus_thread -->{/if}
+            </div>
+            <!-- /.entry-content -->
+        </div>
+        <!-- /.entry-wrapper -->
+        <nav class="pagination" role="navigation">
+            {#let previous=page.older next=page.newer}
+            {#if previous}
+            <a href="{previous.url.absolute}" class="btn" title="{previous.title.raw}">Previous</a>
+            {/if}
+            {#if next}
+            <a href="{next.url.absolute}" class="btn" title="{next.title.raw}">Next</a>
+            {/if}
+            {/let}
+        </nav>
+        <!-- /.pagination -->
+    </article>
+</div>
+<!-- /#main -->
+
+<div class="footer-wrapper">
+    <footer role="contentinfo" class="entry-wrapper">
+        {#include partials/footer.html /}
+    </footer>
+</div>
+<!-- /.footer-wrapper -->
+
+{#include partials/scripts.html /}
+
+{#if cdi:settings.owner.meetup??}
+<script>!function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (!d.getElementById(id)) {
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = "https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=2qpj1bus145t44qqadheoup6b7";
+        fjs.parentNode.insertBefore(js, fjs);
+    }
+}(document, "script", "mu-bootjs");</script>
+{/if}
+
+</body>
+</html>
