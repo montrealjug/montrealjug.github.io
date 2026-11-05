@@ -552,3 +552,27 @@ sean_sullivan:
   web: https://github.com/sullis
   avatar: https://www.montreal-jug.org/images/speakers/sean_sullivan.jpg
   twitter:
+
+jeremy_leconardel:
+  name: Jérémy Leconardel
+  web: https://www.linkedin.com/in/jeremy-leconardel/
+  avatar: https://www.montreal-jug.org/images/speakers/jeremy_leconardel.jpg
+  twitter:
+
+jeremie_ratomposon:
+  name: Jérémie Ratomposon
+  web: https://www.linkedin.com/in/jratompo/
+  avatar: https://www.montreal-jug.org/images/speakers/jeremie_ratomposon.jpg
+  twitter:
+
+cedric_hernandez:
+  name: Cédric Hernandez
+  web: https://www.linkedin.com/in/cedric-hernandez-soto-dev/
+  avatar: https://www.montreal-jug.org/images/speakers/cedric_hernandez.jpg
+  twitter:
+
+alexis_couvreur:
+  name: Alexis Couvreur
+  web: https://www.alexiscouvreur.fr/
+  avatar: https://www.montreal-jug.org/images/speakers/alexis_couvreur.png
+  twitter:
