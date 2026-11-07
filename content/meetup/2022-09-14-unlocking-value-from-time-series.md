@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: zoe_steinkamp
 tags: []
-comments: true
 share: true
 image:
 feature:

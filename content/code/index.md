@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/)
+[![Contributor Covenant](/images/contributor-covenant-v1.4.svg)](https://www.contributor-covenant.org/)
 
 # Charte Code de Conduite
 

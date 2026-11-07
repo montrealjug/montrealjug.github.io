@@ -9,7 +9,6 @@ hidden: false
 author: scott_stroz
 coauthors: [norman_aberin]
 tags: []
-comments: true
 share: true
 image:
 feature:

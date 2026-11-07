@@ -9,7 +9,6 @@ hidden: false
 author: bruno_souza
 coauthors: [bruno_borges]
 tags: []
-comments: true
 share: true
 image:
 feature:

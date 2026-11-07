@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: pratik_patel
 tags: []
-comments: true
 share: true
 image:
 feature:

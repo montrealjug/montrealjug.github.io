@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: ron_cohen
 tags: []
-comments: true
 share: true
 image:
   feature:

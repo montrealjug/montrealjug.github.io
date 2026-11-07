@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: mikael_francoeur
 tags: []
-comments: true
 share: true
 image:
 feature:

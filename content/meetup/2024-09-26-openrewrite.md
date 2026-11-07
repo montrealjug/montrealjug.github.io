@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: justine_gehring
 tags: []
-comments: true
 share: true
 image:
 feature:

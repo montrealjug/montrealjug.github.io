@@ -9,7 +9,6 @@ hidden: false
 author: montreal_jug
 coauthors: [software_crafters_mtl]
 tags: []
-comments: true
 share: true
 image:
 feature:

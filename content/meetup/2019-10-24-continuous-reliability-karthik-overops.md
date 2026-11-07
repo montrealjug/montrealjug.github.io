@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: karthik_lalithraj
 tags: []
-comments: true
 share: true
 image:
   feature:

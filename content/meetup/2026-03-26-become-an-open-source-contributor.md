@@ -9,7 +9,6 @@ hidden: false
 author: maxime_david
 coauthors: []
 tags: []
-comments: true
 share: true
 image:
 feature:

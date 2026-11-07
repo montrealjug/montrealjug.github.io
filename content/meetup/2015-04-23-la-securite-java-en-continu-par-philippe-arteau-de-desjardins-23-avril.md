@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: philippe_arteau
 tags: []
-comments: true
 share: true
 image:
   feature:

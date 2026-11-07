@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: Stefan_Oehme
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jeremie_lagarde
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: anthony_dahanne
 tags: []
-comments: true
 share: true
 image:
   feature:

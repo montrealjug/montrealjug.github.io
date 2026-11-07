@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jean_Philippe_Bempel
 tags: []
-comments: true
 share: true
 image:
 feature:

@@ -9,7 +9,6 @@ hidden: false
 author: gregory_boero_teyssier
 coauthors: [hugo_despagne, milton_eustache, anthony_giretti]
 tags: []
-comments: true
 share: true
 image:
 feature:

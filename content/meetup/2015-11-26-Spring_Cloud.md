@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: Sani_Chabi_Yo
 tags: []
-comments: true
 share: true
 image:
   feature:

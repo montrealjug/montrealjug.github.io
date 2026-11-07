@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jonathan_lermitage
 tags: []
-comments: true
 share: true
 image:
 feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: eric_deandrea
 tags: []
-comments: true
 share: true
 image:
 feature:

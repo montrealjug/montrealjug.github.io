@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: bruno_borges
 tags: []
-comments: true
 share: true
 image:
 feature:

@@ -82,8 +82,7 @@ Des frais de transaction (Paypal) s'ajoutent lors d'un paiement en ligne.
 	<option value="Platine">Platine $1 500,00 CAD</option>
 </select>
 </td></tr></table>
-<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
-<img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1">
+<input type="image" src="/images/paypal/btn_paynowCC_LG_fr_CA.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
 </form>
 
 </div>
@@ -95,5 +94,5 @@ Vous souhaitez nous aider à fonctionner? Que vous soyez une entreprise ou un pa
 Notre acceptons les dons. <a href="mailto:{cdi:settings.owner.email}">Contactez-nous au besoin</a>
 
 <div style="text-align:center;">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="9SF24MCFQSW54"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/fr_CA/i/scr/pixel.gif" width="1" height="1"></form>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="9SF24MCFQSW54"><input type="image" src="/images/paypal/btn_donateCC_LG_en_US.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"></form>
 </div>

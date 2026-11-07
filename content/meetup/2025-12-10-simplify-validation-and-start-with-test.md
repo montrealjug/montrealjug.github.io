@@ -9,7 +9,6 @@ hidden: false
 author: nicolas_rosado
 coauthors: [deniz_onur_duzgun]
 tags: []
-comments: true
 share: true
 image:
 feature:

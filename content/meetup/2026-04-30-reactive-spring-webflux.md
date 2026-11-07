@@ -9,7 +9,6 @@ hidden: false
 author: xavier_bouclet
 coauthors: []
 tags: []
-comments: true
 share: true
 image:
 feature:

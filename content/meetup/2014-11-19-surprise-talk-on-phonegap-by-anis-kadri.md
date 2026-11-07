@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: anis_kadri
 tags: []
-comments: true
 share: true
 image:
   feature:

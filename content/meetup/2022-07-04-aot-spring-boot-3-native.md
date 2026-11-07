@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: stephane_nicoll
 tags: []
-comments: true
 share: true
 image:
 feature:

@@ -9,7 +9,6 @@ hidden: false
 author: henri_tremblay
 coauthors: [anthony_dahanne]
 tags: []
-comments: true
 share: true
 image:
 feature:

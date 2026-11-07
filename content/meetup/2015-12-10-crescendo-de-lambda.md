@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: remi_forax
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: victor_rentea
 tags: []
-comments: true
 share: true
 image:
 feature:

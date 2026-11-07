@@ -9,7 +9,6 @@ hidden: false
 author: benoit_combe
 coauthors: [spencer_gibb]
 tags: []
-comments: true
 share: true
 image:
 feature:

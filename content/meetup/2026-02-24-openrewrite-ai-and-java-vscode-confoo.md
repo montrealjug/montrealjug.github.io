@@ -9,7 +9,6 @@ hidden: false
 author: kito_mann
 coauthors: [scott_stroz]
 tags: []
-comments: true
 share: true
 image:
 feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: ken_fogel
 tags: []
-comments: true
 share: true
 image:
 feature:

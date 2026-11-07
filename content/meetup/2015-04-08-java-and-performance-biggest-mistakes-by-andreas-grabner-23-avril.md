@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: andreas_grabner
 tags: []
-comments: true
 share: true
 image:
   feature:

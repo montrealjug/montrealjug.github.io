@@ -12,5 +12,4 @@
 {/let}
 <span class="entry-date date published"><time datetime="{page.date.format("yyyy-MM-dd'T'HH:mm:ssXXX")}"><i class="fa fa-calendar-o"></i> {page.date.format('MMMM dd, yyyy')}</time></span>
 {#if page.data.modified??}<span class="entry-date date modified"><time datetime="{page.data.modified}"><i class="fa fa-pencil"></i> {page.data.modified.longDate}</time></span>{/if}
-{#if cdi:settings.owner.disqus-shortname?? && page.data.comments??}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{/if}
 {#if page.data.share??}{#include partials/social-share.html /}{/if}

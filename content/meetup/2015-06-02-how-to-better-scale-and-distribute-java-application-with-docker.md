@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: martin_naumann
 tags: []
-comments: true
 share: true
 image:
   feature:

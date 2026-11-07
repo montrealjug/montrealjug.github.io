@@ -9,7 +9,6 @@ hidden: false
 author: haoyi_li
 coauthors: [anthony_dahanne]
 tags: []
-comments: true
 share: true
 image:
 feature:

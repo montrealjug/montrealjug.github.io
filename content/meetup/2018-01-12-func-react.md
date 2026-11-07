@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: venkat_subramaniam
 tags: []
-comments: true
 share: true
 image:
   feature:
