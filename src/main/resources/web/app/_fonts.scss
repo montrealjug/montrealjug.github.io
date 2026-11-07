@@ -1,0 +1,66 @@
+// Self-hosted web fonts (SIL Open Font License 1.1, see fonts/LICENSE-*.txt): Fontsource builds, latin subset
+// Source Sans 3 and Source Code Pro are variable fonts: one file covers all the weights
+
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('./fonts/source-sans-3-latin-wght-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('./fonts/source-sans-3-latin-wght-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('./fonts/source-code-pro-latin-wght-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('./fonts/source-code-pro-latin-wght-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fonts/volkhov-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Volkhov';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fonts/volkhov-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./fonts/volkhov-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Volkhov';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./fonts/volkhov-latin-700-italic.woff2') format('woff2');
+}
