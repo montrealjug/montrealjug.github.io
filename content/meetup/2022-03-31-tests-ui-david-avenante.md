@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: david_avenante
 tags: []
-comments: true
 share: true
 image:
 feature:

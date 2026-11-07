@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: nathan_loding
 tags: []
-comments: true
 share: true
 image:
 feature:

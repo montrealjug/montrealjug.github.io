@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: felix_roberge
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -9,7 +9,6 @@ hidden: false
 author: sean_sullivan
 coauthors: []
 tags: []
-comments: true
 share: true
 image:
 feature:

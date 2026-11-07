@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: rafael_winterhalter
 tags: []
-comments: true
 share: true
 image:
   feature:

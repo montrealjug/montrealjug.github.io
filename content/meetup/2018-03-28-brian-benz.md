@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: brian_benz
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: nicolas_rigaud
 tags: []
-comments: true
 share: true
 image:
   feature:
@@ -33,7 +32,7 @@ In this presentation, we'll invite Pepper on stage to do some demos, we’ll dis
 
 [Find out more about Pepper.](https://www.ald.softbankrobotics.com/en/cool-robots/pepper/find-out-more-about-pepper)
 
-![](https://photos1.meetupstatic.com/photos/event/8/7/8/5/600_450154693.jpeg)
+![](/images/meetup/robot-pepper.png)
 
 __Sponsors:__
 

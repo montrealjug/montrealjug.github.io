@@ -9,7 +9,6 @@ hidden: false
 author: dashaun_carter
 coauthors: [bruno_borges]
 tags: []
-comments: true
 share: true
 image:
 feature:

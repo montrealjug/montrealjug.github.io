@@ -8,7 +8,6 @@ categories: blog
 hidden: false
 author: mathieu_carbou
 tags: []
-comments: true
 share: true
 image:
   feature:

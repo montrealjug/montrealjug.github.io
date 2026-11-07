@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: kyle_davis
 tags: []
-comments: true
 share: true
 image:
 feature:

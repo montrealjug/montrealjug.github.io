@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: heinz_kabutz
 tags: []
-comments: true
 share: true
 image:
   feature:

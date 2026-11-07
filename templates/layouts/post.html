@@ -46,14 +46,9 @@
                 <div id="meetup-rsvp">
                     <a target="_blank" href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/">S'inscrire / Register</a>:
                     &nbsp;&nbsp;
-                    <a href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/" data-event="208556582" class="mu-rsvp-btn">RSVP</a>
-                    &nbsp;&nbsp;
                     <a target="_blank" href="https://www.meetup.com/{cdi:settings.owner.meetup}/events/{page.data.meetup}/">Plus de détails / More details</a>...
                 </div>
                 <!-- /#meetup -->{/if}
-                {#if cdi:settings.owner.disqus-shortname?? && page.data.comments??}
-                <div id="disqus_thread"></div>
-                <!-- /#disqus_thread -->{/if}
             </div>
             <!-- /.entry-content -->
         </div>
@@ -82,18 +77,6 @@
 
 {#include partials/scripts.html /}
 
-{#if cdi:settings.owner.meetup??}
-<script>!function (d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (!d.getElementById(id)) {
-        js = d.createElement(s);
-        js.id = id;
-        js.async = true;
-        js.src = "https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=2qpj1bus145t44qqadheoup6b7";
-        fjs.parentNode.insertBefore(js, fjs);
-    }
-}(document, "script", "mu-bootjs");</script>
-{/if}
 
 </body>
 </html>

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: martin_tapp
 tags: []
-comments: true
 share: true
 image:
   feature:

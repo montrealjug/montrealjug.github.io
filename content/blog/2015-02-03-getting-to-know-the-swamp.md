@@ -8,7 +8,6 @@ categories: blog
 hidden: false
 author:
 tags: []
-comments: true
 share: true
 image:
   feature:

@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: vincent_tence
 tags: []
-comments: true
 share: true
 image:
   feature:

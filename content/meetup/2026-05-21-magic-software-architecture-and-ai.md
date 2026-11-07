@@ -9,7 +9,6 @@ hidden: false
 author: michael_carducci
 coauthors: []
 tags: []
-comments: true
 share: true
 image:
 feature:

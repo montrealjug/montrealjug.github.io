@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: carlos_salazar
 tags: []
-comments: true
 share: true
 image:
   feature:

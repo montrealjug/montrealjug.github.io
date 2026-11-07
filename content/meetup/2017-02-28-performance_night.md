@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: kirk_pepperdine
 tags: []
-comments: true
 share: true
 image:
   feature:

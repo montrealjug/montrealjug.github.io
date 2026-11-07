@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: baruch_sadogursky
 tags: []
-comments: true
 share: true
 image:
 feature:

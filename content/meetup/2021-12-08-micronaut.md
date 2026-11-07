@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: guillaume_laforge
 tags: []
-comments: true
 share: true
 image:
 feature:

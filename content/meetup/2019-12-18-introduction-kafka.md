@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jf_legault
 tags: []
-comments: true
 share: true
 image:
   feature:

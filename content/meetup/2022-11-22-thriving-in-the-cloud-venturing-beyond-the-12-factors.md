@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: grace_jansen
 tags: []
-comments: true
 share: true
 image:
 feature:

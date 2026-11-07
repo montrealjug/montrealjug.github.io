@@ -8,7 +8,6 @@ categories: blog
 hidden: false
 author: montreal_jug
 tags: []
-comments: true
 share: true
 image:
   feature:

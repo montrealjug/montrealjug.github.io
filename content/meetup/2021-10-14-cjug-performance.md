@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: stefan_johansson_charlie_hunt
 tags: []
-comments: true
 share: true
 image:
 feature:

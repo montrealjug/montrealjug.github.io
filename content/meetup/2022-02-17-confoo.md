@@ -9,7 +9,6 @@ categories: meetup
 hidden: false
 author: 
 tags: []
-comments: true
 share: true
 image:
 feature:

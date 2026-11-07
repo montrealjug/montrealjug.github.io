@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: mike_milinkovich
 tags: []
-comments: true
 share: true
 image:
   feature:

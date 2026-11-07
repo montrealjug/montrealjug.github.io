@@ -8,7 +8,6 @@ categories: meetup
 hidden: true
 author: didier_valentin
 tags: []
-comments: true
 share: true
 image:
   feature:

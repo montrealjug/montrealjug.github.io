@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jerome_mirc
 tags: []
-comments: true
 share: true
 image:
   feature:

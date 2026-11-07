@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: robert_martin
 tags: []
-comments: true
 share: true
 image:
   feature:

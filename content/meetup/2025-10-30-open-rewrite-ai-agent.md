@@ -9,7 +9,6 @@ hidden: false
 author: jonathan_schneider
 coauthors: []
 tags: []
-comments: true
 share: true
 image:
 feature:

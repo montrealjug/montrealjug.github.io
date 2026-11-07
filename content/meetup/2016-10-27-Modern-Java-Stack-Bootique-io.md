@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: andrus_adamchik
 tags: []
-comments: true
 share: true
 image:
   feature:

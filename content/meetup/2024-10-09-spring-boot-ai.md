@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: dashaun_carter
 tags: []
-comments: true
 share: true
 image:
 feature:

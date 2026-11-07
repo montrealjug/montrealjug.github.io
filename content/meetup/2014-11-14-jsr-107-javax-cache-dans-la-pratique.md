@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: alex_snaps
 tags: []
-comments: true
 share: true
 image:
   feature:

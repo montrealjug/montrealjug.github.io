@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: julien_dubois
 tags: []
-comments: true
 share: true
 image:
   feature:

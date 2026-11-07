@@ -9,7 +9,6 @@ hidden: false
 author: 
 coauthors: [jeremy_leconardel, jeremie_ratomposon, nicolas_rosado, cedric_hernandez, pavel_makhov, alexis_couvreur]
 tags: []
-comments: true
 share: true
 image:
 feature:

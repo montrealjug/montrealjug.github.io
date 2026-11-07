@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: jose_paumard
 tags: []
-comments: true
 share: true
 image:
 feature:

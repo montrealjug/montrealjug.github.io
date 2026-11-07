@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: nicolas_frankel
 tags: []
-comments: true
 share: true
 image:
 feature:

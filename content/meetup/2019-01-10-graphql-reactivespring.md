@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: josh_long
 tags: []
-comments: true
 share: true
 image:
   feature:

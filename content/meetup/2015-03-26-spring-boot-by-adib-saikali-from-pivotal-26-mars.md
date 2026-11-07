@@ -8,7 +8,6 @@ categories: meetup
 hidden: false
 author: adib_saikali
 tags: []
-comments: true
 share: true
 image:
   feature:
