@@ -9,10 +9,6 @@
 {#include partials/open-graph.html author=cdi:settings.owner /}
 {/if}
 
-{#if cdi:settings.owner.google.verify??}<!-- Webmaster Tools verification -->
-<meta name="google-site-verification" content="{cdi:settings.owner.google.verify}">{/if}
-{#if cdi:settings.owner.bing-verify??}<meta name="msvalidate.01" content="{cdi:settings.owner.bing-verify}">{/if}
-
 <link rel="canonical" href="{page.url.absolute}">
 <link href="{site.url.absolute}feed.xml" type="application/atom+xml" rel="alternate" title="{cdi:settings.title} Feed">
 
